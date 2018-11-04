@@ -1,0 +1,3 @@
+Frostwolf Grunt*Ironfur Grizzly*Frostwolf Warlord*Frostwolf Warlord*Hunter's Mark*Magma Rager*Ogre Magi*Gnomish Inventor*Bluegill Warrior*Multi-Shot*Lord of the Arena*Nightblade*Tracking*Multi-Shot*Core Hound*Goldshire Footman*Boulderfist Ogre*Reckless Rocketeer*River Crocolisk*War Golem*Murloc Raider*Stormwind Champion*Sen'jin Shieldmasta*Grimscale Oracle*Core Hound*Elven Archer*Murloc Raider*Tracking*Lord of the Arena*Tundra Rhino*
+GPUID:0-61 Game Deck:61: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:15& turns:16 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[Murloc Raider]*2**[The Coin]*1**[Goldshire Footman]*1**[Multi-Shot]*1**[Frostwolf Warlord]*1**[Gnomish Inventor]*1**[Core Hound]*1**/n

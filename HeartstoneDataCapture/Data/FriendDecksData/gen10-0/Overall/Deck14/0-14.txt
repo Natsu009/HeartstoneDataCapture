@@ -1,0 +1,3 @@
+Ironfur Grizzly*Nightblade*War Golem*Sen'jin Shieldmasta*Murloc Raider*Arcane Shot*Booty Bay Bodyguard*Tundra Rhino*Boulderfist Ogre*Starving Buzzard*Sen'jin Shieldmasta*Darkscale Healer*Shattered Sun Cleric*Goldshire Footman*Novice Engineer*Stormpike Commando*Razorfen Hunter*Stormwind Champion*Ogre Magi*Kill Command*Grimscale Oracle*Boulderfist Ogre*Starving Buzzard*Goldshire Footman*Murloc Raider*Dalaran Mage*Archmage*Tundra Rhino*Reckless Rocketeer*Houndmaster*
+GPUID:0-14 Game Deck:14: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-22& turns:11 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[The Coin]*1**[Darkscale Healer]*1**/n

@@ -1,0 +1,3 @@
+Nightblade*Hunter's Mark*Dalaran Mage*Goldshire Footman*Ogre Magi*Murloc Tidehunter*Raid Leader*Core Hound*Acidic Swamp Ooze*Stormwind Champion*Frostwolf Grunt*Ironforge Rifleman*Shattered Sun Cleric*Ogre Magi*Arcane Shot*Bluegill Warrior*Multi-Shot*Ironforge Rifleman*River Crocolisk*Stormwind Knight*Stormwind Champion*Kill Command*Sen'jin Shieldmasta*Chillwind Yeti*Wolfrider*Wolfrider*Voodoo Doctor*Sen'jin Shieldmasta*Dragonling Mechanic*War Golem*
+GPUID:0-41 Game Deck:41: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:20& turns:13 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Wolfrider]*1**[Chillwind Yeti]*1**[Nightblade]*1**[Ironforge Rifleman]*1**/n

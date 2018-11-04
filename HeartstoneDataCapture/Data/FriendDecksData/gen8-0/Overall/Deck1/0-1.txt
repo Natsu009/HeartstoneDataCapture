@@ -1,0 +1,3 @@
+Novice Engineer*Novice Engineer*Archmage*Ironforge Rifleman*Gnomish Inventor*Stormpike Commando*Core Hound*Bloodfen Raptor*War Golem*Sen'jin Shieldmasta*Animal Companion*Razorfen Hunter*Timber Wolf*Ironfur Grizzly*Chillwind Yeti*Kill Command*Grimscale Oracle*River Crocolisk*Kobold Geomancer*Ironfur Grizzly*Goldshire Footman*Stormpike Commando*Ironforge Rifleman*Bloodfen Raptor*Oasis Snapjaw*Grimscale Oracle*Bluegill Warrior*Darkscale Healer*Bluegill Warrior*Core Hound*
+GPUID:0-1 Game Deck:1: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-16& turns:14 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Bluegill Warrior]*1**[Ironforge Rifleman]*2**[Darkscale Healer]*1**[Timber Wolf]*1**/n

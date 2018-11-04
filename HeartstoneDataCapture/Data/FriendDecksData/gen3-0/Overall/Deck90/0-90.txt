@@ -1,0 +1,3 @@
+Lord of the Arena*Magma Rager*Ironforge Rifleman*Dragonling Mechanic*Booty Bay Bodyguard*Core Hound*Stonetusk Boar*Timber Wolf*Stonetusk Boar*Tundra Rhino*Raid Leader*Gnomish Inventor*Silverback Patriarch*Hunter's Mark*Frostwolf Warlord*Silverback Patriarch*Starving Buzzard*Magma Rager*Arcane Shot*Arcane Shot*Bloodfen Raptor*Bluegill Warrior*Hunter's Mark*Voodoo Doctor*Starving Buzzard*Ogre Magi*Elven Archer*Gurubashi Berserker*Grimscale Oracle*Kill Command*
+GPUID:0-90 Game Deck:90: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:23& turns:11 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[Stonetusk Boar]*2**[Bluegill Warrior]*1**[Timber Wolf]*1**[Hunter's Mark]*1**[Elven Archer]*1**[Kill Command]*1**/n

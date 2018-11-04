@@ -1,0 +1,3 @@
+Ironfur Grizzly*Starving Buzzard*Murloc Tidehunter*Lord of the Arena*Archmage*Tundra Rhino*Wolfrider*Oasis Snapjaw*Arcane Shot*Stormpike Commando*Booty Bay Bodyguard*Timber Wolf*Ironfur Grizzly*Darkscale Healer*Kill Command*Raid Leader*Hunter's Mark*Elven Archer*Dalaran Mage*Archmage*Sen'jin Shieldmasta*Razorfen Hunter*Tundra Rhino*Bluegill Warrior*Houndmaster*Grimscale Oracle*Acidic Swamp Ooze*Bluegill Warrior*Animal Companion*Wolfrider*
+GPUID:0-55 Game Deck:55: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-6& turns:16 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[Wolfrider]*2**[Hunter's Mark]*1**[Archmage]*1**[Kill Command]*1**[Tundra Rhino]*1**[Elven Archer]*1**[Acidic Swamp Ooze]*1**/n

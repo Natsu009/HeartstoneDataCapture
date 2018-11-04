@@ -1,0 +1,3 @@
+Shattered Sun Cleric*Tracking*Elven Archer*Booty Bay Bodyguard*Timber Wolf*Razorfen Hunter*Murloc Raider*Lord of the Arena*Houndmaster*Murloc Raider*Ironforge Rifleman*Tundra Rhino*Murloc Tidehunter*Animal Companion*Ironfur Grizzly*Frostwolf Grunt*Elven Archer*Ironfur Grizzly*Stormwind Knight*Razorfen Hunter*Kill Command*Tracking*Shattered Sun Cleric*Voodoo Doctor*Silverback Patriarch*Nightblade*Tundra Rhino*Acidic Swamp Ooze*Boulderfist Ogre*Wolfrider*
+GPUID:0-86 Game Deck:86: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:20& turns:11 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[Timber Wolf]*1**[Wolfrider]*1**[Animal Companion]*1**[Shattered Sun Cleric]*2**[Silverback Patriarch]*1**/n

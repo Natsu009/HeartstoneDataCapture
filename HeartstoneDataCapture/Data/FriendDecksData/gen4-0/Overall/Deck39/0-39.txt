@@ -1,0 +1,3 @@
+Timber Wolf*War Golem*Lord of the Arena*Dragonling Mechanic*Stormpike Commando*Tracking*Boulderfist Ogre*Animal Companion*Raid Leader*Animal Companion*Boulderfist Ogre*Tundra Rhino*Multi-Shot*Bloodfen Raptor*Stormpike Commando*Booty Bay Bodyguard*Novice Engineer*Stormwind Knight*Core Hound*Chillwind Yeti*Timber Wolf*Bloodfen Raptor*Ironfur Grizzly*Ogre Magi*Razorfen Hunter*Archmage*Kill Command*Raid Leader*Nightblade*War Golem*
+GPUID:0-39 Game Deck:39: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-10& turns:15 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[The Coin]*1**[Tundra Rhino]*1**[Boulderfist Ogre]*1**[War Golem]*1**/n

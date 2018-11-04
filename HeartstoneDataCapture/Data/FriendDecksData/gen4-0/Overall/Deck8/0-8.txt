@@ -1,0 +1,3 @@
+Bloodfen Raptor*Tracking*Nightblade*Ironfur Grizzly*Multi-Shot*Nightblade*Acidic Swamp Ooze*Hunter's Mark*Arcane Shot*Frostwolf Grunt*Razorfen Hunter*Bluegill Warrior*Tundra Rhino*Dragonling Mechanic*Voodoo Doctor*Frostwolf Grunt*Stormpike Commando*Core Hound*Stonetusk Boar*Ogre Magi*Silverback Patriarch*Houndmaster*Houndmaster*Hunter's Mark*Multi-Shot*Arcane Shot*Kill Command*Tracking*River Crocolisk*River Crocolisk*
+GPUID:0-8 Game Deck:8: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:8& turns:17 and average time of game (hh:mm:ss) = 00:00:08Time taken:00:00:08
+[River Crocolisk]*2**[Nightblade]*1**[Houndmaster]*1**[Tracking]*1**[Hunter's Mark]*1**[Tundra Rhino]*1**[Multi-Shot]*1**[Bluegill Warrior]*1**/n

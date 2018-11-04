@@ -1,0 +1,3 @@
+Lord of the Arena*Razorfen Hunter*Tracking*Murloc Tidehunter*Timber Wolf*Starving Buzzard*Tracking*Dalaran Mage*Murloc Tidehunter*River Crocolisk*Ogre Magi*Animal Companion*Stormpike Commando*War Golem*Stormwind Champion*Razorfen Hunter*Bloodfen Raptor*Starving Buzzard*Bluegill Warrior*Boulderfist Ogre*Darkscale Healer*Nightblade*Wolfrider*Acidic Swamp Ooze*Bloodfen Raptor*Magma Rager*Animal Companion*Houndmaster*Grimscale Oracle*Darkscale Healer*
+GPUID:0-65 Game Deck:65: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-15& turns:16 and average time of game (hh:mm:ss) = 00:00:04Time taken:00:00:04
+[Acidic Swamp Ooze]*1**[Bloodfen Raptor]*2**[River Crocolisk]*1**[Starving Buzzard]*1**[Boulderfist Ogre]*1**/n

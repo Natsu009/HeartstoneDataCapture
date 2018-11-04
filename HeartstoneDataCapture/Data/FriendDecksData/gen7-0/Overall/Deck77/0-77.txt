@@ -1,0 +1,3 @@
+Silverback Patriarch*Gnomish Inventor*Wolfrider*Silverback Patriarch*Murloc Tidehunter*Shattered Sun Cleric*Ironfur Grizzly*Ogre Magi*Core Hound*Elven Archer*Hunter's Mark*Darkscale Healer*Raid Leader*Ironfur Grizzly*Kill Command*Tracking*Dragonling Mechanic*Acidic Swamp Ooze*Arcane Shot*Oasis Snapjaw*Tracking*Razorfen Hunter*Grimscale Oracle*Bluegill Warrior*Stormwind Champion*Core Hound*Arcane Shot*War Golem*Shattered Sun Cleric*Murloc Tidehunter*
+GPUID:0-77 Game Deck:77: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-14& turns:15 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[The Coin]*1**[Murloc Tidehunter]*1**[Kill Command]*1**[Shattered Sun Cleric]*1**[War Golem]*1**/n

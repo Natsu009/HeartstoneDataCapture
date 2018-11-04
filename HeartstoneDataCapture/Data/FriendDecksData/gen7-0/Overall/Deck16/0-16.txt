@@ -1,0 +1,3 @@
+Core Hound*Stormwind Champion*Core Hound*Darkscale Healer*Shattered Sun Cleric*Chillwind Yeti*Archmage*River Crocolisk*Kobold Geomancer*Voodoo Doctor*Timber Wolf*Sen'jin Shieldmasta*Oasis Snapjaw*Shattered Sun Cleric*Animal Companion*Houndmaster*Kobold Geomancer*Booty Bay Bodyguard*Gnomish Inventor*Hunter's Mark*Raid Leader*River Crocolisk*Murloc Raider*Stonetusk Boar*Multi-Shot*Magma Rager*Hunter's Mark*Animal Companion*Timber Wolf*Archmage*
+GPUID:0-16 Game Deck:16: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-18& turns:13 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[The Coin]*1**[Hunter's Mark]*2**[Voodoo Doctor]*1**[Magma Rager]*1**/n

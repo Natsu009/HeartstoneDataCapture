@@ -1,0 +1,3 @@
+Arcane Shot*Ironforge Rifleman*Reckless Rocketeer*Core Hound*Frostwolf Warlord*Raid Leader*Multi-Shot*Stonetusk Boar*Lord of the Arena*War Golem*Bloodfen Raptor*Razorfen Hunter*Houndmaster*Ogre Magi*Oasis Snapjaw*Animal Companion*Gurubashi Berserker*Voodoo Doctor*Arcane Shot*Ogre Magi*Sen'jin Shieldmasta*Raid Leader*Booty Bay Bodyguard*Wolfrider*Archmage*Reckless Rocketeer*Shattered Sun Cleric*Core Hound*Novice Engineer*Stormwind Knight*
+GPUID:0-9 Game Deck:9: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:14& turns:16 and average time of game (hh:mm:ss) = 00:00:04Time taken:00:00:04
+[The Coin]*1**[Stormwind Knight]*1**[Houndmaster]*1**[Frostwolf Warlord]*1**[Ogre Magi]*1**[Shattered Sun Cleric]*1**/n

@@ -1,0 +1,3 @@
+War Golem*Hunter's Mark*Stonetusk Boar*Frostwolf Warlord*Gurubashi Berserker*Oasis Snapjaw*Ogre Magi*Booty Bay Bodyguard*Stormpike Commando*Kill Command*Razorfen Hunter*Kobold Geomancer*Sen'jin Shieldmasta*Raid Leader*Reckless Rocketeer*Ogre Magi*Stormwind Knight*Stormwind Champion*Gnomish Inventor*Hunter's Mark*Arcane Shot*Magma Rager*Oasis Snapjaw*Darkscale Healer*Kill Command*Tundra Rhino*Kobold Geomancer*Boulderfist Ogre*Raid Leader*Murloc Tidehunter*
+GPUID:0-66 Game Deck:66: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-18& turns:13 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[The Coin]*1**[Kill Command]*2**[Ogre Magi]*1**/n

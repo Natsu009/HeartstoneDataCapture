@@ -1,0 +1,3 @@
+Dalaran Mage*Stormwind Champion*Goldshire Footman*Kill Command*Boulderfist Ogre*Murloc Raider*Houndmaster*Stormpike Commando*Silverback Patriarch*Tracking*Nightblade*Reckless Rocketeer*Reckless Rocketeer*Shattered Sun Cleric*Starving Buzzard*War Golem*Novice Engineer*Arcane Shot*Ogre Magi*Magma Rager*Kobold Geomancer*Voodoo Doctor*Frostwolf Warlord*Lord of the Arena*Oasis Snapjaw*Goldshire Footman*Stormwind Knight*Novice Engineer*Ogre Magi*Magma Rager*
+GPUID:0-85 Game Deck:85: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:11& turns:15 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[Arcane Shot]*1**[Stormpike Commando]*1**[Ogre Magi]*1**[Reckless Rocketeer]*1**/n

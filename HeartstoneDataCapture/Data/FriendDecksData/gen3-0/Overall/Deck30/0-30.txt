@@ -1,0 +1,3 @@
+Ironforge Rifleman*Bluegill Warrior*Starving Buzzard*Archmage*River Crocolisk*Wolfrider*Core Hound*Gnomish Inventor*Stormwind Champion*Stormwind Champion*Magma Rager*Elven Archer*Archmage*Boulderfist Ogre*Booty Bay Bodyguard*Stormwind Knight*Houndmaster*Frostwolf Warlord*Razorfen Hunter*Raid Leader*Bloodfen Raptor*War Golem*Core Hound*Gurubashi Berserker*Goldshire Footman*Booty Bay Bodyguard*Starving Buzzard*Kobold Geomancer*Shattered Sun Cleric*Elven Archer*
+GPUID:0-30 Game Deck:30: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:13& turns:14 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[The Coin]*1**[Elven Archer]*1**[Bluegill Warrior]*1**[Frostwolf Warlord]*1**[Raid Leader]*1**/n

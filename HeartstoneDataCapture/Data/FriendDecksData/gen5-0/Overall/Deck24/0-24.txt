@@ -1,0 +1,3 @@
+Raid Leader*Bloodfen Raptor*Starving Buzzard*War Golem*Tracking*Arcane Shot*Darkscale Healer*Sen'jin Shieldmasta*Bluegill Warrior*War Golem*Multi-Shot*Tundra Rhino*Stormpike Commando*Tracking*Frostwolf Warlord*Bluegill Warrior*River Crocolisk*Shattered Sun Cleric*Ironforge Rifleman*Boulderfist Ogre*Animal Companion*Stormwind Knight*Sen'jin Shieldmasta*Hunter's Mark*Multi-Shot*Kill Command*Darkscale Healer*Stonetusk Boar*Timber Wolf*Chillwind Yeti*
+GPUID:0-24 Game Deck:24: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:13& turns:14 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[Arcane Shot]*1**[River Crocolisk]*1**[The Coin]*1**[Bloodfen Raptor]*1**[Kill Command]*1**[Multi-Shot]*1**/n

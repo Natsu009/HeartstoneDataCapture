@@ -1,0 +1,3 @@
+Murloc Tidehunter*Frostwolf Warlord*Chillwind Yeti*Shattered Sun Cleric*Tracking*Ironfur Grizzly*Core Hound*Stormwind Champion*Ironforge Rifleman*Starving Buzzard*Voodoo Doctor*Frostwolf Warlord*Stormpike Commando*Starving Buzzard*Novice Engineer*Dragonling Mechanic*Raid Leader*Archmage*Goldshire Footman*Gnomish Inventor*Frostwolf Grunt*Sen'jin Shieldmasta*Wolfrider*Chillwind Yeti*Shattered Sun Cleric*Timber Wolf*Frostwolf Grunt*Novice Engineer*Gurubashi Berserker*Hunter's Mark*
+GPUID:0-62 Game Deck:62: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-23& turns:11 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[The Coin]*1**[Novice Engineer]*1**[Frostwolf Warlord]*1**/n

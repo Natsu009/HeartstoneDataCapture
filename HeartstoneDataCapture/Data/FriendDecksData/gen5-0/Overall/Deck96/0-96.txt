@@ -1,0 +1,3 @@
+Frostwolf Warlord*War Golem*Dalaran Mage*Goldshire Footman*Gnomish Inventor*Nightblade*Gurubashi Berserker*Razorfen Hunter*Murloc Raider*Ogre Magi*Murloc Tidehunter*Stormwind Knight*Kobold Geomancer*Lord of the Arena*Razorfen Hunter*Chillwind Yeti*Acidic Swamp Ooze*Arcane Shot*Darkscale Healer*Kill Command*Hunter's Mark*Boulderfist Ogre*Hunter's Mark*Starving Buzzard*Archmage*Lord of the Arena*Reckless Rocketeer*Animal Companion*Grimscale Oracle*Gnomish Inventor*
+GPUID:0-96 Game Deck:96: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-24& turns:13 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[The Coin]*1**[Kill Command]*1**[Acidic Swamp Ooze]*1**[Goldshire Footman]*1**[Lord of the Arena]*1**/n

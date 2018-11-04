@@ -1,0 +1,3 @@
+Sen'jin Shieldmasta*Ironfur Grizzly*Wolfrider*Reckless Rocketeer*Multi-Shot*Nightblade*Houndmaster*Ironfur Grizzly*Oasis Snapjaw*Animal Companion*Dalaran Mage*Shattered Sun Cleric*Wolfrider*Nightblade*Stormpike Commando*Core Hound*Frostwolf Warlord*Dalaran Mage*Booty Bay Bodyguard*River Crocolisk*Dragonling Mechanic*Murloc Tidehunter*Kill Command*River Crocolisk*Ogre Magi*Goldshire Footman*Animal Companion*Booty Bay Bodyguard*Arcane Shot*Stormpike Commando*
+GPUID:0-90 Game Deck:90: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-24& turns:12 and average time of game (hh:mm:ss) = 00:00:05Time taken:00:00:05
+[Stormpike Commando]*2**/n

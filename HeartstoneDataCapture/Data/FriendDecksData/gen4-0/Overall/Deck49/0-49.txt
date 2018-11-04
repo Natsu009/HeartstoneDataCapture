@@ -1,0 +1,3 @@
+Oasis Snapjaw*War Golem*Kill Command*Goldshire Footman*Wolfrider*Frostwolf Warlord*Frostwolf Warlord*Arcane Shot*War Golem*Dalaran Mage*Houndmaster*Darkscale Healer*Novice Engineer*Grimscale Oracle*Boulderfist Ogre*Lord of the Arena*Novice Engineer*Dalaran Mage*Stormwind Knight*Darkscale Healer*Booty Bay Bodyguard*River Crocolisk*Shattered Sun Cleric*Oasis Snapjaw*Tracking*Shattered Sun Cleric*Gurubashi Berserker*Magma Rager*Murloc Tidehunter*Tundra Rhino*
+GPUID:0-49 Game Deck:49: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:9& turns:15 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Goldshire Footman]*1**[Wolfrider]*1**[Magma Rager]*1**[Gurubashi Berserker]*1**[Kill Command]*1**[Dalaran Mage]*1**/n

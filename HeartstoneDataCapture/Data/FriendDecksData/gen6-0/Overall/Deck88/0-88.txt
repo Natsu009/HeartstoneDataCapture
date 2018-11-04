@@ -1,0 +1,3 @@
+Bloodfen Raptor*War Golem*Core Hound*Wolfrider*Stormwind Knight*Stormwind Champion*Dragonling Mechanic*Boulderfist Ogre*River Crocolisk*Boulderfist Ogre*Dalaran Mage*Grimscale Oracle*Arcane Shot*Arcane Shot*Voodoo Doctor*Ogre Magi*Ironforge Rifleman*Shattered Sun Cleric*Voodoo Doctor*Timber Wolf*Dragonling Mechanic*Core Hound*Elven Archer*Bluegill Warrior*Nightblade*Timber Wolf*Bluegill Warrior*Raid Leader*Frostwolf Warlord*Novice Engineer*
+GPUID:0-88 Game Deck:88: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-16& turns:13 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[Grimscale Oracle]*1**[The Coin]*1**[Arcane Shot]*1**[Shattered Sun Cleric]*1**[Dragonling Mechanic]*1**/n

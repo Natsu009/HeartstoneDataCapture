@@ -1,0 +1,3 @@
+Animal Companion*Kill Command*Ogre Magi*Timber Wolf*Oasis Snapjaw*Novice Engineer*Bluegill Warrior*Razorfen Hunter*Voodoo Doctor*Timber Wolf*Kill Command*Nightblade*Nightblade*Shattered Sun Cleric*Boulderfist Ogre*Chillwind Yeti*Grimscale Oracle*Murloc Raider*Stormwind Knight*Boulderfist Ogre*Stonetusk Boar*Novice Engineer*Stormpike Commando*Bluegill Warrior*Tundra Rhino*Stormwind Champion*Gnomish Inventor*Darkscale Healer*Reckless Rocketeer*Razorfen Hunter*
+GPUID:0-9 Game Deck:9: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:18& turns:11 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[Animal Companion]*1**[Shattered Sun Cleric]*1**[Grimscale Oracle]*1**[Stormpike Commando]*1**[Kill Command]*1**/n

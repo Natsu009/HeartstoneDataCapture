@@ -1,0 +1,3 @@
+Kill Command*Novice Engineer*Acidic Swamp Ooze*Murloc Tidehunter*Dalaran Mage*Timber Wolf*Ironfur Grizzly*Grimscale Oracle*Raid Leader*Silverback Patriarch*Tracking*Wolfrider*Voodoo Doctor*Ironforge Rifleman*Magma Rager*Murloc Raider*Dalaran Mage*Ironfur Grizzly*Wolfrider*Nightblade*Murloc Raider*Novice Engineer*Darkscale Healer*Booty Bay Bodyguard*Gnomish Inventor*Tracking*Timber Wolf*Arcane Shot*Murloc Tidehunter*Lord of the Arena*
+GPUID:0-59 Game Deck:59: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:23& turns:11 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Murloc Raider]*1**[Murloc Tidehunter]*1**[Timber Wolf]*1**[Ironfur Grizzly]*2**[Kill Command]*1**/n

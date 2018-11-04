@@ -1,0 +1,3 @@
+Oasis Snapjaw*Oasis Snapjaw*Core Hound*Multi-Shot*Archmage*Stonetusk Boar*Ogre Magi*Ironfur Grizzly*Ironfur Grizzly*Goldshire Footman*Stormwind Champion*Reckless Rocketeer*Grimscale Oracle*Starving Buzzard*Stormwind Champion*Dragonling Mechanic*Archmage*Stonetusk Boar*Dalaran Mage*Booty Bay Bodyguard*War Golem*Timber Wolf*Wolfrider*Acidic Swamp Ooze*Frostwolf Warlord*Goldshire Footman*Bloodfen Raptor*Grimscale Oracle*Murloc Raider*Booty Bay Bodyguard*
+GPUID:0-41 Game Deck:41: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-16& turns:16 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[Grimscale Oracle]*1**[Ironfur Grizzly]*1**[Dragonling Mechanic]*1**[Oasis Snapjaw]*1**[Reckless Rocketeer]*1**/n

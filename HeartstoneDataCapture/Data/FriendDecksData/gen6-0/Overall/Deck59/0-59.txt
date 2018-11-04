@@ -1,0 +1,3 @@
+Frostwolf Grunt*Bluegill Warrior*Acidic Swamp Ooze*Animal Companion*Stormwind Knight*Ironfur Grizzly*War Golem*Timber Wolf*Archmage*Nightblade*Stonetusk Boar*Timber Wolf*Raid Leader*Voodoo Doctor*Murloc Tidehunter*Stonetusk Boar*Novice Engineer*Arcane Shot*Ironforge Rifleman*River Crocolisk*Animal Companion*Gnomish Inventor*Frostwolf Grunt*Ogre Magi*Voodoo Doctor*Core Hound*Bluegill Warrior*Chillwind Yeti*Tundra Rhino*Acidic Swamp Ooze*
+GPUID:0-59 Game Deck:59: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:22& turns:9 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[Stonetusk Boar]*1**[Timber Wolf]*2**[Novice Engineer]*1**[Arcane Shot]*1**[Ogre Magi]*1**[Tundra Rhino]*1**/n

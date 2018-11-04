@@ -1,0 +1,3 @@
+Gnomish Inventor*Booty Bay Bodyguard*Frostwolf Grunt*Core Hound*Silverback Patriarch*Core Hound*Darkscale Healer*Gurubashi Berserker*River Crocolisk*Gurubashi Berserker*Tundra Rhino*Frostwolf Warlord*Tundra Rhino*Stormwind Champion*River Crocolisk*Reckless Rocketeer*Murloc Tidehunter*Reckless Rocketeer*Silverback Patriarch*Starving Buzzard*Stormpike Commando*Booty Bay Bodyguard*Bloodfen Raptor*Tracking*War Golem*Multi-Shot*Murloc Raider*Arcane Shot*Arcane Shot*Kill Command*
+GPUID:0-27 Game Deck:27: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-22& turns:12 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[Silverback Patriarch]*1**[Arcane Shot]*1**/n

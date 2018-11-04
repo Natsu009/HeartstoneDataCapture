@@ -1,0 +1,3 @@
+Voodoo Doctor*Elven Archer*Acidic Swamp Ooze*Hunter's Mark*Arcane Shot*Booty Bay Bodyguard*Raid Leader*Razorfen Hunter*Ironfur Grizzly*Core Hound*Sen'jin Shieldmasta*Grimscale Oracle*Sen'jin Shieldmasta*Stormwind Knight*Elven Archer*Tundra Rhino*Stormwind Knight*Raid Leader*Archmage*Wolfrider*Murloc Tidehunter*Multi-Shot*Tracking*Bluegill Warrior*Timber Wolf*Bloodfen Raptor*Arcane Shot*Acidic Swamp Ooze*Multi-Shot*Bloodfen Raptor*
+GPUID:0-85 Game Deck:85: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-10& turns:15 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[The Coin]*1**[Elven Archer]*1**[Timber Wolf]*1**[Bloodfen Raptor]*1**[Stormwind Knight]*1**[Booty Bay Bodyguard]*1**/n

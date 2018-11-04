@@ -1,0 +1,3 @@
+Elven Archer*Sen'jin Shieldmasta*Archmage*Core Hound*Silverback Patriarch*Darkscale Healer*Nightblade*Ogre Magi*Chillwind Yeti*Chillwind Yeti*Gnomish Inventor*Magma Rager*Animal Companion*Darkscale Healer*Bluegill Warrior*Hunter's Mark*Archmage*Kill Command*Razorfen Hunter*Dalaran Mage*Core Hound*Dragonling Mechanic*Shattered Sun Cleric*Dalaran Mage*Silverback Patriarch*Starving Buzzard*War Golem*Kobold Geomancer*Gurubashi Berserker*Houndmaster*
+GPUID:0-75 Game Deck:75: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-19& turns:14 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Kobold Geomancer]*1**[Hunter's Mark]*1**[Houndmaster]*1**[Gnomish Inventor]*1**/n

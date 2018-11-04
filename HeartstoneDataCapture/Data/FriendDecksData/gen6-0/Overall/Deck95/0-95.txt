@@ -1,0 +1,3 @@
+Tracking*River Crocolisk*Voodoo Doctor*Raid Leader*Gnomish Inventor*Shattered Sun Cleric*Timber Wolf*Chillwind Yeti*Houndmaster*Gnomish Inventor*Ogre Magi*Stormpike Commando*Frostwolf Grunt*Boulderfist Ogre*Arcane Shot*Raid Leader*Shattered Sun Cleric*Darkscale Healer*Core Hound*Tundra Rhino*Nightblade*Oasis Snapjaw*Stonetusk Boar*Bloodfen Raptor*Elven Archer*Arcane Shot*Starving Buzzard*Ironfur Grizzly*War Golem*Archmage*
+GPUID:0-95 Game Deck:95: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:12& turns:15 and average time of game (hh:mm:ss) = 00:00:04Time taken:00:00:04
+[Arcane Shot]*1**[Voodoo Doctor]*1**[River Crocolisk]*1**[Ogre Magi]*1**[Houndmaster]*1**[Elven Archer]*1**/n

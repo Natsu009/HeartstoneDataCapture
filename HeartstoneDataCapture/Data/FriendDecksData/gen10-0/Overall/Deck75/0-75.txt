@@ -1,0 +1,3 @@
+Gurubashi Berserker*Murloc Tidehunter*Shattered Sun Cleric*Acidic Swamp Ooze*Magma Rager*Bloodfen Raptor*Tundra Rhino*Grimscale Oracle*Arcane Shot*Ogre Magi*Razorfen Hunter*Booty Bay Bodyguard*Ironforge Rifleman*Ironfur Grizzly*Stormwind Champion*Gnomish Inventor*Kill Command*Timber Wolf*War Golem*Bluegill Warrior*Dalaran Mage*Razorfen Hunter*Magma Rager*Ogre Magi*River Crocolisk*Frostwolf Grunt*Tracking*Stormwind Champion*Goldshire Footman*Frostwolf Grunt*
+GPUID:0-75 Game Deck:75: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-17& turns:15 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[The Coin]*1**[Murloc Tidehunter]*1**[Magma Rager]*1**[Gnomish Inventor]*1**[Tundra Rhino]*1**/n

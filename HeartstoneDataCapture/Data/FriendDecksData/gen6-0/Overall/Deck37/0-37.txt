@@ -1,0 +1,3 @@
+Timber Wolf*Multi-Shot*Core Hound*Booty Bay Bodyguard*Frostwolf Warlord*Shattered Sun Cleric*Oasis Snapjaw*Starving Buzzard*Stormwind Knight*Tundra Rhino*Dragonling Mechanic*War Golem*Goldshire Footman*Ironfur Grizzly*Multi-Shot*Stormwind Knight*War Golem*Razorfen Hunter*Dalaran Mage*Stormpike Commando*Ironfur Grizzly*Nightblade*Archmage*Stormwind Champion*Dragonling Mechanic*Razorfen Hunter*Core Hound*Stormpike Commando*River Crocolisk*Ogre Magi*
+GPUID:0-37 Game Deck:37: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-7& turns:18 and average time of game (hh:mm:ss) = 00:00:08Time taken:00:00:08
+[Dragonling Mechanic]*1**[Goldshire Footman]*1**[Tundra Rhino]*1**[Ogre Magi]*1**[Nightblade]*1**/n

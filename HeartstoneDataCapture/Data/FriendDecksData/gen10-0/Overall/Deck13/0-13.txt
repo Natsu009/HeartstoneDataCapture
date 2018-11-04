@@ -1,0 +1,3 @@
+Murloc Raider*War Golem*Shattered Sun Cleric*Gnomish Inventor*Goldshire Footman*Boulderfist Ogre*Core Hound*Tundra Rhino*Elven Archer*Booty Bay Bodyguard*Core Hound*Timber Wolf*Magma Rager*Razorfen Hunter*Booty Bay Bodyguard*Silverback Patriarch*Starving Buzzard*Boulderfist Ogre*Stonetusk Boar*Arcane Shot*Murloc Raider*Frostwolf Grunt*Gurubashi Berserker*Dalaran Mage*Dragonling Mechanic*Nightblade*Magma Rager*War Golem*Stormwind Champion*Bloodfen Raptor*
+GPUID:0-13 Game Deck:13: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:17& turns:15 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[Timber Wolf]*1**[Shattered Sun Cleric]*1**[Dragonling Mechanic]*1**[Bloodfen Raptor]*1**[Gurubashi Berserker]*1**/n

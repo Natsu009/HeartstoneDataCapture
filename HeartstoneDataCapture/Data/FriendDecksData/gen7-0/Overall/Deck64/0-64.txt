@@ -1,0 +1,3 @@
+Ogre Magi*Dalaran Mage*Murloc Raider*Ironfur Grizzly*Lord of the Arena*Tracking*River Crocolisk*Goldshire Footman*Bloodfen Raptor*Gurubashi Berserker*Starving Buzzard*Timber Wolf*Nightblade*Acidic Swamp Ooze*Frostwolf Grunt*Core Hound*Core Hound*Nightblade*Darkscale Healer*Elven Archer*Stormwind Knight*Wolfrider*Razorfen Hunter*Hunter's Mark*Ironfur Grizzly*Goldshire Footman*Bluegill Warrior*Ogre Magi*Grimscale Oracle*Houndmaster*
+GPUID:0-64 Game Deck:64: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:15& turns:15 and average time of game (hh:mm:ss) = 00:00:04Time taken:00:00:04
+[Goldshire Footman]*1**[Bluegill Warrior]*1**[Nightblade]*1**[Stormwind Knight]*1**/n

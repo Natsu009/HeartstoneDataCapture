@@ -1,0 +1,3 @@
+Houndmaster*River Crocolisk*Silverback Patriarch*Acidic Swamp Ooze*Ironfur Grizzly*Murloc Raider*Dragonling Mechanic*Acidic Swamp Ooze*Frostwolf Warlord*Murloc Tidehunter*Animal Companion*Tundra Rhino*River Crocolisk*Kill Command*Shattered Sun Cleric*Ironfur Grizzly*Hunter's Mark*Multi-Shot*Booty Bay Bodyguard*Animal Companion*Grimscale Oracle*Novice Engineer*Core Hound*Tundra Rhino*Raid Leader*Tracking*Gnomish Inventor*Silverback Patriarch*Shattered Sun Cleric*Multi-Shot*
+GPUID:0-36 Game Deck:36: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-20& turns:11 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[The Coin]*1**[Novice Engineer]*1**[Hunter's Mark]*1**[Acidic Swamp Ooze]*1**/n

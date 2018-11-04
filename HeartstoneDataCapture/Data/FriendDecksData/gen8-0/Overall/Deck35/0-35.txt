@@ -1,0 +1,3 @@
+Sen'jin Shieldmasta*Raid Leader*Houndmaster*Multi-Shot*Nightblade*Tracking*Nightblade*Magma Rager*Oasis Snapjaw*Tracking*Goldshire Footman*Frostwolf Grunt*Oasis Snapjaw*Murloc Tidehunter*Silverback Patriarch*Darkscale Healer*Elven Archer*Tundra Rhino*Frostwolf Warlord*War Golem*Ironforge Rifleman*Archmage*Reckless Rocketeer*Frostwolf Warlord*Starving Buzzard*Frostwolf Grunt*River Crocolisk*Bloodfen Raptor*Murloc Tidehunter*Booty Bay Bodyguard*
+GPUID:0-35 Game Deck:35: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-18& turns:11 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[The Coin]*1**[Tracking]*1**[Elven Archer]*1**[Nightblade]*1**/n

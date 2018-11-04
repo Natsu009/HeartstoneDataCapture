@@ -1,0 +1,3 @@
+Oasis Snapjaw*Houndmaster*Dalaran Mage*Stonetusk Boar*Grimscale Oracle*War Golem*Razorfen Hunter*Voodoo Doctor*Elven Archer*Ironforge Rifleman*Frostwolf Grunt*Sen'jin Shieldmasta*Sen'jin Shieldmasta*Bluegill Warrior*Darkscale Healer*Razorfen Hunter*War Golem*Tundra Rhino*Elven Archer*Voodoo Doctor*Gurubashi Berserker*Starving Buzzard*Silverback Patriarch*Archmage*Ogre Magi*Grimscale Oracle*Multi-Shot*Houndmaster*Stormwind Champion*Reckless Rocketeer*
+GPUID:0-0 Game Deck:0: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:5& turns:18 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[The Coin]*1**[Elven Archer]*2**[Ogre Magi]*1**[Houndmaster]*2**[Archmage]*1**[Gurubashi Berserker]*1**/n

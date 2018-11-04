@@ -1,0 +1,3 @@
+War Golem*Stonetusk Boar*Arcane Shot*Timber Wolf*Gurubashi Berserker*Tracking*Kill Command*Stonetusk Boar*Timber Wolf*Booty Bay Bodyguard*Shattered Sun Cleric*Oasis Snapjaw*Ironforge Rifleman*Sen'jin Shieldmasta*Dalaran Mage*Dragonling Mechanic*Murloc Raider*Frostwolf Warlord*Hunter's Mark*Oasis Snapjaw*Archmage*Murloc Raider*Acidic Swamp Ooze*Razorfen Hunter*War Golem*Boulderfist Ogre*Frostwolf Warlord*Voodoo Doctor*Lord of the Arena*Ironfur Grizzly*
+GPUID:0-82 Game Deck:82: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:19& turns:13 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Murloc Raider]*2**[Timber Wolf]*1**[Ironforge Rifleman]*1**[Sen'jin Shieldmasta]*1**[Arcane Shot]*1**[Frostwolf Warlord]*1**/n

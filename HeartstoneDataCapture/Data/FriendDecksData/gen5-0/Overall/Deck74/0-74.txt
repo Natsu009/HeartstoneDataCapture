@@ -1,0 +1,3 @@
+Animal Companion*Tracking*Lord of the Arena*Stormwind Champion*Lord of the Arena*Ogre Magi*Magma Rager*Razorfen Hunter*War Golem*Ironforge Rifleman*Archmage*Stormwind Champion*Core Hound*Nightblade*Stormpike Commando*Arcane Shot*Hunter's Mark*Dalaran Mage*Kobold Geomancer*Frostwolf Warlord*Oasis Snapjaw*Shattered Sun Cleric*Kill Command*Kobold Geomancer*Wolfrider*Chillwind Yeti*River Crocolisk*Silverback Patriarch*Goldshire Footman*Core Hound*
+GPUID:0-74 Game Deck:74: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:5& turns:15 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[Wolfrider]*1**[Kobold Geomancer]*1**[Shattered Sun Cleric]*1**[Dalaran Mage]*1**[Silverback Patriarch]*1**[Ironforge Rifleman]*1**/n

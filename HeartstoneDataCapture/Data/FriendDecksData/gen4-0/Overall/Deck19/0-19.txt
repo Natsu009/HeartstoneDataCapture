@@ -1,0 +1,3 @@
+Silverback Patriarch*Tracking*Dalaran Mage*Ironfur Grizzly*Novice Engineer*Novice Engineer*Lord of the Arena*Kill Command*Murloc Tidehunter*Oasis Snapjaw*Animal Companion*Arcane Shot*Wolfrider*Kobold Geomancer*River Crocolisk*Tundra Rhino*Frostwolf Warlord*War Golem*Animal Companion*Chillwind Yeti*Stonetusk Boar*Houndmaster*Shattered Sun Cleric*Silverback Patriarch*Archmage*Dragonling Mechanic*Lord of the Arena*Multi-Shot*Frostwolf Warlord*Shattered Sun Cleric*
+GPUID:0-19 Game Deck:19: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-13& turns:14 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[Stonetusk Boar]*1**[Arcane Shot]*1**[Kill Command]*1**[Wolfrider]*1**[Shattered Sun Cleric]*1**[Tundra Rhino]*1**/n

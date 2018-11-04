@@ -1,0 +1,3 @@
+Kill Command*Oasis Snapjaw*Boulderfist Ogre*Hunter's Mark*Reckless Rocketeer*Murloc Raider*Acidic Swamp Ooze*Bluegill Warrior*Core Hound*Murloc Tidehunter*Houndmaster*Arcane Shot*Multi-Shot*Lord of the Arena*Core Hound*Raid Leader*Frostwolf Warlord*Magma Rager*Booty Bay Bodyguard*Stormpike Commando*Nightblade*Gnomish Inventor*Raid Leader*Bluegill Warrior*Ironforge Rifleman*Tracking*Timber Wolf*Starving Buzzard*Frostwolf Grunt*Ogre Magi*
+GPUID:0-65 Game Deck:65: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-11& turns:16 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[Ogre Magi]*1**[Arcane Shot]*1**[Stormpike Commando]*1**[Kill Command]*1**[Boulderfist Ogre]*1**/n

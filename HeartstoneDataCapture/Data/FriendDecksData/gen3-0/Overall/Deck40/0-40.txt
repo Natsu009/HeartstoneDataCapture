@@ -1,0 +1,3 @@
+Ironforge Rifleman*Magma Rager*Stormwind Champion*Silverback Patriarch*Acidic Swamp Ooze*Magma Rager*Murloc Tidehunter*Core Hound*Raid Leader*Wolfrider*Goldshire Footman*Bloodfen Raptor*Novice Engineer*Nightblade*Ogre Magi*Elven Archer*Reckless Rocketeer*Murloc Raider*Arcane Shot*Shattered Sun Cleric*Archmage*Darkscale Healer*Grimscale Oracle*Core Hound*Booty Bay Bodyguard*Chillwind Yeti*Silverback Patriarch*Tundra Rhino*River Crocolisk*Stormwind Knight*
+GPUID:0-40 Game Deck:40: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:18& turns:13 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[Goldshire Footman]*1**[Arcane Shot]*1**[Murloc Tidehunter]*1**[Shattered Sun Cleric]*1**[Magma Rager]*1**[Nightblade]*1**/n

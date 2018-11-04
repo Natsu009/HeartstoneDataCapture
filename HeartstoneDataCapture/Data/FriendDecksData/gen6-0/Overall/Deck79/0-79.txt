@@ -1,0 +1,3 @@
+Timber Wolf*Timber Wolf*Stormpike Commando*Dalaran Mage*Wolfrider*Novice Engineer*Dalaran Mage*Stonetusk Boar*Murloc Raider*Oasis Snapjaw*Voodoo Doctor*Animal Companion*War Golem*Voodoo Doctor*Ogre Magi*Murloc Tidehunter*Animal Companion*Gurubashi Berserker*Stormwind Champion*Stormwind Knight*Stormpike Commando*Chillwind Yeti*Kobold Geomancer*War Golem*Reckless Rocketeer*Ironfur Grizzly*Stormwind Knight*Lord of the Arena*Goldshire Footman*Tracking*
+GPUID:0-79 Game Deck:79: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:17& turns:15 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Goldshire Footman]*1**[Murloc Raider]*1**[Stormwind Knight]*1**[Ironfur Grizzly]*1**[War Golem]*2**/n

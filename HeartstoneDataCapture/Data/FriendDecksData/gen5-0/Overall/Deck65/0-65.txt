@@ -1,0 +1,3 @@
+Oasis Snapjaw*Stonetusk Boar*Booty Bay Bodyguard*Reckless Rocketeer*River Crocolisk*Lord of the Arena*Nightblade*River Crocolisk*Starving Buzzard*Murloc Raider*Kill Command*Core Hound*Silverback Patriarch*Murloc Raider*Magma Rager*Darkscale Healer*Razorfen Hunter*Stormpike Commando*Nightblade*Kill Command*Gurubashi Berserker*Multi-Shot*Stonetusk Boar*Arcane Shot*Booty Bay Bodyguard*Raid Leader*Sen'jin Shieldmasta*Novice Engineer*War Golem*Bloodfen Raptor*
+GPUID:0-65 Game Deck:65: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-16& turns:14 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Bloodfen Raptor]*1**[Arcane Shot]*1**[Nightblade]*1**[Raid Leader]*1**[Booty Bay Bodyguard]*1**/n

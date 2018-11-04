@@ -1,0 +1,3 @@
+Bloodfen Raptor*Wolfrider*Oasis Snapjaw*Raid Leader*Boulderfist Ogre*River Crocolisk*Bloodfen Raptor*Stonetusk Boar*Novice Engineer*Tundra Rhino*Elven Archer*Tundra Rhino*Dragonling Mechanic*Lord of the Arena*Raid Leader*Boulderfist Ogre*Razorfen Hunter*Arcane Shot*Animal Companion*River Crocolisk*Stormwind Champion*Acidic Swamp Ooze*Grimscale Oracle*Wolfrider*Booty Bay Bodyguard*Grimscale Oracle*Kobold Geomancer*Gnomish Inventor*Frostwolf Warlord*Animal Companion*
+GPUID:0-99 Game Deck:99: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-18& turns:15 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[The Coin]*1**[Acidic Swamp Ooze]*1**[Kobold Geomancer]*1**[Gnomish Inventor]*1**[Boulderfist Ogre]*1**/n

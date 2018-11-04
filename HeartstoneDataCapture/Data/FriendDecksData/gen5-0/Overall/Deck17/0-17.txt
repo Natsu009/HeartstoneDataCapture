@@ -1,0 +1,3 @@
+Reckless Rocketeer*Shattered Sun Cleric*Frostwolf Warlord*Multi-Shot*Voodoo Doctor*Bluegill Warrior*Wolfrider*Ogre Magi*Stormpike Commando*Tundra Rhino*River Crocolisk*Raid Leader*Arcane Shot*Frostwolf Warlord*Goldshire Footman*Chillwind Yeti*Tundra Rhino*Oasis Snapjaw*Raid Leader*Magma Rager*Chillwind Yeti*Ogre Magi*Goldshire Footman*Kill Command*Gurubashi Berserker*Stonetusk Boar*Booty Bay Bodyguard*Frostwolf Grunt*Multi-Shot*Oasis Snapjaw*
+GPUID:0-17 Game Deck:17: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:10& turns:15 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Bluegill Warrior]*1**[Wolfrider]*1**[Magma Rager]*1**[Ogre Magi]*1**[Reckless Rocketeer]*1**/n

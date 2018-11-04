@@ -1,0 +1,3 @@
+Starving Buzzard*Chillwind Yeti*Nightblade*Novice Engineer*Grimscale Oracle*Ironforge Rifleman*Frostwolf Warlord*Hunter's Mark*Stormpike Commando*Tundra Rhino*Dalaran Mage*Dalaran Mage*Boulderfist Ogre*Ogre Magi*Stormwind Champion*Razorfen Hunter*Bloodfen Raptor*Houndmaster*Raid Leader*Gurubashi Berserker*Voodoo Doctor*Stormwind Champion*Oasis Snapjaw*Lord of the Arena*Razorfen Hunter*War Golem*Tundra Rhino*Sen'jin Shieldmasta*Dragonling Mechanic*Murloc Tidehunter*
+GPUID:0-60 Game Deck:60: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-16& turns:15 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[The Coin]*1**/n

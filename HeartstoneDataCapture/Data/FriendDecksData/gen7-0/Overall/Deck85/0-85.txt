@@ -1,0 +1,3 @@
+Gurubashi Berserker*Magma Rager*Kill Command*Razorfen Hunter*War Golem*Acidic Swamp Ooze*Elven Archer*Grimscale Oracle*Silverback Patriarch*Booty Bay Bodyguard*Timber Wolf*Booty Bay Bodyguard*Gnomish Inventor*War Golem*Elven Archer*Ironfur Grizzly*Razorfen Hunter*River Crocolisk*Boulderfist Ogre*Kobold Geomancer*Timber Wolf*Bluegill Warrior*Tracking*Grimscale Oracle*Nightblade*Frostwolf Warlord*Acidic Swamp Ooze*Boulderfist Ogre*Core Hound*Tracking*
+GPUID:0-85 Game Deck:85: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-13& turns:15 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[The Coin]*1**[Elven Archer]*1**[Acidic Swamp Ooze]*1**[Kill Command]*1**[Booty Bay Bodyguard]*1**/n

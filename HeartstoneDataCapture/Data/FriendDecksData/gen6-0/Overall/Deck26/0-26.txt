@@ -1,0 +1,3 @@
+Timber Wolf*Bloodfen Raptor*Gnomish Inventor*Core Hound*Core Hound*Animal Companion*Stormpike Commando*Goldshire Footman*War Golem*Acidic Swamp Ooze*Lord of the Arena*Acidic Swamp Ooze*Razorfen Hunter*War Golem*Stormwind Champion*Stormwind Knight*Starving Buzzard*Arcane Shot*Kill Command*Multi-Shot*Reckless Rocketeer*Kill Command*Shattered Sun Cleric*Archmage*Chillwind Yeti*Murloc Raider*Magma Rager*Silverback Patriarch*Stormwind Champion*Lord of the Arena*
+GPUID:0-26 Game Deck:26: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:19& turns:15 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[Kill Command]*1**[Stormwind Knight]*1**[Stormpike Commando]*1**[Reckless Rocketeer]*1**[War Golem]*1**/n

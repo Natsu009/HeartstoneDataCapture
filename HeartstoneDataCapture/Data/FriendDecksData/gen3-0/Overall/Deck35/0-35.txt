@@ -1,0 +1,3 @@
+Bloodfen Raptor*Wolfrider*Murloc Tidehunter*Razorfen Hunter*Ironfur Grizzly*Frostwolf Grunt*Core Hound*Stormwind Knight*Nightblade*Voodoo Doctor*Grimscale Oracle*Frostwolf Warlord*Archmage*River Crocolisk*Gurubashi Berserker*Frostwolf Grunt*Wolfrider*Novice Engineer*Stormwind Knight*Bloodfen Raptor*Bluegill Warrior*Ogre Magi*Frostwolf Warlord*Murloc Raider*Timber Wolf*River Crocolisk*War Golem*Tundra Rhino*Murloc Tidehunter*Multi-Shot*
+GPUID:0-35 Game Deck:35: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:15& turns:14 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[The Coin]*1**[Murloc Tidehunter]*2**[Voodoo Doctor]*1**[Stormwind Knight]*1**[Ogre Magi]*1**[Wolfrider]*1**/n

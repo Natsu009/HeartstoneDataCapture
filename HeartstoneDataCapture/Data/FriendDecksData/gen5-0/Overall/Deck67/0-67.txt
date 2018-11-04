@@ -1,0 +1,3 @@
+Stormpike Commando*Reckless Rocketeer*Gnomish Inventor*Shattered Sun Cleric*Dragonling Mechanic*Starving Buzzard*Acidic Swamp Ooze*Dragonling Mechanic*Timber Wolf*Voodoo Doctor*Wolfrider*Frostwolf Warlord*Ogre Magi*Dalaran Mage*War Golem*Dalaran Mage*Nightblade*Shattered Sun Cleric*Houndmaster*Stonetusk Boar*Multi-Shot*Gnomish Inventor*Ogre Magi*Hunter's Mark*Stormpike Commando*Bloodfen Raptor*Silverback Patriarch*Wolfrider*Timber Wolf*Boulderfist Ogre*
+GPUID:0-67 Game Deck:67: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:15& turns:14 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[The Coin]*1**[Wolfrider]*1**[Shattered Sun Cleric]*2**[Gnomish Inventor]*1**[Reckless Rocketeer]*1**/n

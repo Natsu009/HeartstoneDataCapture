@@ -1,0 +1,3 @@
+Kill Command*Murloc Raider*Houndmaster*Multi-Shot*Darkscale Healer*Reckless Rocketeer*Dragonling Mechanic*Tracking*Boulderfist Ogre*Kobold Geomancer*Chillwind Yeti*Ogre Magi*Darkscale Healer*Multi-Shot*Novice Engineer*Tracking*Oasis Snapjaw*Arcane Shot*Novice Engineer*Shattered Sun Cleric*Nightblade*War Golem*Sen'jin Shieldmasta*Starving Buzzard*Raid Leader*Reckless Rocketeer*Lord of the Arena*Frostwolf Grunt*Core Hound*Raid Leader*
+GPUID:0-88 Game Deck:88: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-19& turns:13 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[The Coin]*1**[Kill Command]*1**[Darkscale Healer]*1**/n

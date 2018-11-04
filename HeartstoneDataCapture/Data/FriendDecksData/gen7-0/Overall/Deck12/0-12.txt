@@ -1,0 +1,3 @@
+Wolfrider*Ogre Magi*Timber Wolf*Frostwolf Grunt*Novice Engineer*Chillwind Yeti*Oasis Snapjaw*Magma Rager*Ironfur Grizzly*Razorfen Hunter*Core Hound*Frostwolf Warlord*Razorfen Hunter*Starving Buzzard*Murloc Tidehunter*Murloc Raider*Reckless Rocketeer*Magma Rager*Core Hound*Booty Bay Bodyguard*Dalaran Mage*Animal Companion*River Crocolisk*Grimscale Oracle*Booty Bay Bodyguard*Ogre Magi*Grimscale Oracle*Wolfrider*Nightblade*Oasis Snapjaw*
+GPUID:0-12 Game Deck:12: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-5& turns:15 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[The Coin]*1**[Wolfrider]*1**[Grimscale Oracle]*1**[Murloc Raider]*1**[Nightblade]*1**[Ogre Magi]*2**[River Crocolisk]*1**[Magma Rager]*1**/n

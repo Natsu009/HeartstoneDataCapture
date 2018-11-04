@@ -1,0 +1,3 @@
+Elven Archer*Grimscale Oracle*Timber Wolf*War Golem*Core Hound*Shattered Sun Cleric*Elven Archer*Bloodfen Raptor*Timber Wolf*Frostwolf Grunt*Starving Buzzard*Sen'jin Shieldmasta*Reckless Rocketeer*Chillwind Yeti*Multi-Shot*Kobold Geomancer*Archmage*Stormpike Commando*Murloc Tidehunter*Frostwolf Grunt*Reckless Rocketeer*Voodoo Doctor*Archmage*Hunter's Mark*War Golem*Bluegill Warrior*Tundra Rhino*Multi-Shot*Tundra Rhino*Kill Command*
+GPUID:0-74 Game Deck:74: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:11& turns:15 and average time of game (hh:mm:ss) = 00:00:05Time taken:00:00:05
+[Timber Wolf]*1**[Kobold Geomancer]*1**[Sen'jin Shieldmasta]*1**[Shattered Sun Cleric]*1**[War Golem]*2**[Voodoo Doctor]*1**/n

@@ -1,0 +1,3 @@
+Starving Buzzard*Elven Archer*Ogre Magi*Frostwolf Grunt*Chillwind Yeti*Sen'jin Shieldmasta*Bluegill Warrior*Ogre Magi*Darkscale Healer*Ironfur Grizzly*Shattered Sun Cleric*Booty Bay Bodyguard*Stormpike Commando*Stormpike Commando*Wolfrider*Ironfur Grizzly*Booty Bay Bodyguard*Stormwind Knight*Kobold Geomancer*Kobold Geomancer*Nightblade*Stormwind Champion*Dragonling Mechanic*Voodoo Doctor*Frostwolf Grunt*Goldshire Footman*Core Hound*Tracking*Wolfrider*Frostwolf Warlord*
+GPUID:0-68 Game Deck:68: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:10& turns:15 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[Frostwolf Grunt]*1**[Nightblade]*1**[Shattered Sun Cleric]*1**[Darkscale Healer]*1**/n

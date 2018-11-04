@@ -1,0 +1,3 @@
+Darkscale Healer*Silverback Patriarch*River Crocolisk*Voodoo Doctor*Goldshire Footman*Animal Companion*Animal Companion*Stormwind Champion*Core Hound*Arcane Shot*Kill Command*Ogre Magi*Murloc Tidehunter*Murloc Tidehunter*Wolfrider*Wolfrider*Bloodfen Raptor*Core Hound*Ogre Magi*Acidic Swamp Ooze*Kill Command*Frostwolf Warlord*Razorfen Hunter*Gnomish Inventor*Darkscale Healer*Stonetusk Boar*Multi-Shot*Dragonling Mechanic*Houndmaster*Dalaran Mage*
+GPUID:0-51 Game Deck:51: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:21& turns:13 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Goldshire Footman]*1**[Wolfrider]*1**[Ogre Magi]*1**[Frostwolf Warlord]*1**[Dragonling Mechanic]*1**[Murloc Tidehunter]*1**/n

@@ -1,0 +1,3 @@
+Shattered Sun Cleric*Ironfur Grizzly*Elven Archer*Frostwolf Warlord*Sen'jin Shieldmasta*Tracking*Stonetusk Boar*Houndmaster*Wolfrider*Booty Bay Bodyguard*Bluegill Warrior*Raid Leader*Dalaran Mage*Magma Rager*Kobold Geomancer*Bluegill Warrior*Silverback Patriarch*Stormwind Champion*Sen'jin Shieldmasta*War Golem*Ironforge Rifleman*Bloodfen Raptor*Stormpike Commando*Razorfen Hunter*Houndmaster*Goldshire Footman*Boulderfist Ogre*Bloodfen Raptor*Archmage*Multi-Shot*
+GPUID:0-96 Game Deck:96: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:14& turns:13 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Bluegill Warrior]*1**[Wolfrider]*1**[Bloodfen Raptor]*1**[Stormpike Commando]*1**[Archmage]*1**/n

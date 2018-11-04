@@ -1,0 +1,3 @@
+Grimscale Oracle*Ironforge Rifleman*Nightblade*Kobold Geomancer*Kill Command*Boulderfist Ogre*Lord of the Arena*Arcane Shot*Gurubashi Berserker*Acidic Swamp Ooze*Raid Leader*Multi-Shot*Ogre Magi*Elven Archer*Tracking*Animal Companion*Stonetusk Boar*Bluegill Warrior*Magma Rager*Kill Command*Stormpike Commando*Silverback Patriarch*Chillwind Yeti*Razorfen Hunter*Gnomish Inventor*Darkscale Healer*Tracking*Multi-Shot*River Crocolisk*Murloc Raider*
+GPUID:0-51 Game Deck:51: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:19& turns:13 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[Grimscale Oracle]*1**[Kobold Geomancer]*1**[Nightblade]*1**[Kill Command]*2**/n

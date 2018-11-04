@@ -1,0 +1,3 @@
+Kobold Geomancer*Wolfrider*Voodoo Doctor*Chillwind Yeti*War Golem*Murloc Tidehunter*Kill Command*River Crocolisk*Timber Wolf*Sen'jin Shieldmasta*Ironfur Grizzly*Dalaran Mage*Stormwind Knight*Stonetusk Boar*Novice Engineer*Razorfen Hunter*Boulderfist Ogre*Grimscale Oracle*Houndmaster*Stormwind Champion*Gnomish Inventor*Oasis Snapjaw*Dragonling Mechanic*Stormpike Commando*Chillwind Yeti*Stonetusk Boar*Novice Engineer*Tracking*Tracking*Core Hound*
+GPUID:0-60 Game Deck:60: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:4& turns:15 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[Stonetusk Boar]*1**[Houndmaster]*1**[Stormpike Commando]*1**[Boulderfist Ogre]*1**[Kill Command]*1**[Murloc Tidehunter]*1**/n

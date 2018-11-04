@@ -1,0 +1,3 @@
+Ironfur Grizzly*Gurubashi Berserker*Gurubashi Berserker*Elven Archer*Voodoo Doctor*Booty Bay Bodyguard*Hunter's Mark*Houndmaster*Chillwind Yeti*Silverback Patriarch*Oasis Snapjaw*Reckless Rocketeer*Shattered Sun Cleric*Oasis Snapjaw*Houndmaster*Magma Rager*Nightblade*Archmage*Archmage*Grimscale Oracle*Core Hound*Frostwolf Warlord*Darkscale Healer*Ironfur Grizzly*Reckless Rocketeer*Animal Companion*Voodoo Doctor*Ogre Magi*Goldshire Footman*Novice Engineer*
+GPUID:0-13 Game Deck:13: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:21& turns:15 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Goldshire Footman]*1**[Animal Companion]*1**[Oasis Snapjaw]*1**[Reckless Rocketeer]*2**/n

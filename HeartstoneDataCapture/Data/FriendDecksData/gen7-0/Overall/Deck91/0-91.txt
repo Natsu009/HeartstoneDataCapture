@@ -1,0 +1,3 @@
+Bluegill Warrior*Nightblade*Goldshire Footman*Novice Engineer*Multi-Shot*Frostwolf Warlord*Lord of the Arena*Bloodfen Raptor*Frostwolf Grunt*Ogre Magi*Shattered Sun Cleric*Gurubashi Berserker*Boulderfist Ogre*Houndmaster*Dragonling Mechanic*Oasis Snapjaw*Murloc Tidehunter*War Golem*Lord of the Arena*Boulderfist Ogre*Timber Wolf*Murloc Raider*Razorfen Hunter*Murloc Tidehunter*Frostwolf Grunt*Goldshire Footman*Starving Buzzard*Gnomish Inventor*Novice Engineer*Timber Wolf*
+GPUID:0-91 Game Deck:91: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-20& turns:13 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[The Coin]*1**[Novice Engineer]*1**[Nightblade]*1**[Houndmaster]*1**[Murloc Tidehunter]*1**/n

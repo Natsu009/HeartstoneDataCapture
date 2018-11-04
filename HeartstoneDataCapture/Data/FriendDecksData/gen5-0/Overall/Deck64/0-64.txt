@@ -1,0 +1,3 @@
+Starving Buzzard*Elven Archer*Murloc Raider*Novice Engineer*Nightblade*Gnomish Inventor*Lord of the Arena*Wolfrider*Stormpike Commando*Arcane Shot*Core Hound*Stormpike Commando*Bluegill Warrior*Reckless Rocketeer*Wolfrider*Archmage*War Golem*Sen'jin Shieldmasta*Kobold Geomancer*Tracking*Magma Rager*Razorfen Hunter*Oasis Snapjaw*Ogre Magi*Bloodfen Raptor*Stormwind Champion*Razorfen Hunter*Starving Buzzard*Chillwind Yeti*Kill Command*
+GPUID:0-64 Game Deck:64: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-19& turns:11 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[The Coin]*1**[Tracking]*1**[Arcane Shot]*1**[Stormpike Commando]*1**/n

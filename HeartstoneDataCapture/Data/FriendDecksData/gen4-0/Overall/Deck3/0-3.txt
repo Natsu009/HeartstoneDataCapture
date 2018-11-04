@@ -1,0 +1,3 @@
+Oasis Snapjaw*Hunter's Mark*Ironforge Rifleman*Frostwolf Warlord*Ironforge Rifleman*Novice Engineer*Stormpike Commando*Kill Command*Tundra Rhino*Dalaran Mage*Wolfrider*Bloodfen Raptor*Multi-Shot*River Crocolisk*Bluegill Warrior*Murloc Tidehunter*Timber Wolf*Boulderfist Ogre*Goldshire Footman*Arcane Shot*Tundra Rhino*Boulderfist Ogre*Archmage*Tracking*Hunter's Mark*Arcane Shot*Ogre Magi*Frostwolf Grunt*Magma Rager*Wolfrider*
+GPUID:0-3 Game Deck:3: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-22& turns:15 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[The Coin]*1**[Goldshire Footman]*1**[Frostwolf Grunt]*1**[Hunter's Mark]*1**[Tundra Rhino]*1**/n

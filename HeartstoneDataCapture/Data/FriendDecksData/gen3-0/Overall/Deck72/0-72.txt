@@ -1,0 +1,3 @@
+Core Hound*Tundra Rhino*Kill Command*Animal Companion*Dragonling Mechanic*Murloc Raider*Magma Rager*Chillwind Yeti*Frostwolf Warlord*Gnomish Inventor*Multi-Shot*Archmage*Acidic Swamp Ooze*Animal Companion*Stormpike Commando*Ironforge Rifleman*Sen'jin Shieldmasta*Frostwolf Warlord*Kobold Geomancer*Kill Command*War Golem*Archmage*Sen'jin Shieldmasta*Reckless Rocketeer*Nightblade*Tundra Rhino*Multi-Shot*Raid Leader*Ogre Magi*Houndmaster*
+GPUID:0-72 Game Deck:72: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:11& turns:15 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Kobold Geomancer]*1**[Tundra Rhino]*1**[Kill Command]*2**[Stormpike Commando]*1**[Nightblade]*1**/n

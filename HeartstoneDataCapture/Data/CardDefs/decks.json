@@ -1,0 +1,768 @@
+﻿{
+  "opponentDecks": [
+    {
+      "deckName": "Spell Hunter",
+      "className": "Hunter",
+      "cards": [
+        {
+          "name": "Candleshot",
+          "count": 2
+        },
+        {
+          "name": "Hunter's Mark",
+          "count": 2
+        },
+        {
+          "name": "Secret Plan",
+          "count": 2
+        },
+        {
+          "name": "Tracking",
+          "count": 2
+        },
+        {
+          "name": "Explosive Trap",
+          "count": 2
+        },
+        {
+          "name": "Freezing Trap",
+          "count": 2
+        },
+        {
+          "name": "Wandering Monster",
+          "count": 2
+        },
+        {
+          "name": "Animal Companion",
+          "count": 2
+        },
+        {
+          "name": "Eaglehorn Bow",
+          "count": 2
+        },
+        {
+          "name": "Kill Command",
+          "count": 2
+        },
+        {
+          "name": "Unleash the Hounds",
+          "count": 2
+        },
+        {
+          "name": "Flanking Strike",
+          "count": 2
+        },
+        {
+          "name": "Lesser Emerald Spellstone",
+          "count": 2
+        },
+        {
+          "name": "Deathstalker Rexxar",
+          "count": 1
+        },
+        {
+          "name": "To My Side!",
+          "count": 2
+        },
+        {
+          "name": "Rhok'delar",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "deckName": "Deathrattle Hunter 1",
+      "className": "Hunter",
+      "cards": [
+        {
+          "name": "Candleshot",
+          "count": 2
+        },
+        {
+          "name": "Hunter's Mark",
+          "count": 2
+        },
+        {
+          "name": "Play Dead",
+          "count": 2
+        },
+        {
+          "name": "Tracking",
+          "count": 2
+        },
+        {
+          "name": "Prince Keleseth",
+          "count": 1
+        },
+        {
+          "name": "Devilsaur Egg",
+          "count": 2
+        },
+        {
+          "name": "Gluttonous Ooze",
+          "count": 1
+        },
+        {
+          "name": "Spider Bomb",
+          "count": 2
+        },
+        {
+          "name": "Terrorscale Stalker",
+          "count": 2
+        },
+        {
+          "name": "Flanking Strike",
+          "count": 2
+        },
+        {
+          "name": "Houndmaster Shaw",
+          "count": 1
+        },
+        {
+          "name": "Carnivorous Cube",
+          "count": 2
+        },
+        {
+          "name": "Giggling Inventor",
+          "count": 2
+        },
+        {
+          "name": "Witchwood Grizzly",
+          "count": 2
+        },
+        {
+          "name": "Deathstalker Rexxar",
+          "count": 1
+        },
+        {
+          "name": "Mossy Horror",
+          "count": 1
+        },
+        {
+          "name": "Savannah Highmane",
+          "count": 1
+        },
+        {
+          "name": "Kathrena Winterwisp",
+          "count": 1
+        },
+        {
+          "name": "King Krush",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "deckName": "Deathrattle Hunter 2",
+      "className": "Hunter",
+      "cards": [
+        {
+          "name": "Candleshot",
+          "count": 2
+        },
+        {
+          "name": "Hunter's Mark",
+          "count": 2
+        },
+        {
+          "name": "Play Dead",
+          "count": 2
+        },
+        {
+          "name": "Tracking",
+          "count": 2
+        },
+        {
+          "name": "Fireworks Tech",
+          "count": 2
+        },
+        {
+          "name": "Loot Hoarder",
+          "count": 2
+        },
+        {
+          "name": "Sunfury Protector",
+          "count": 1
+        },
+        {
+          "name": "Devilsaur Egg",
+          "count": 2
+        },
+        {
+          "name": "Spider Bomb",
+          "count": 2
+        },
+        {
+          "name": "Stitched Tracker",
+          "count": 1
+        },
+        {
+          "name": "Terrorscale Stalker",
+          "count": 2
+        },
+        {
+          "name": "Flanking Strike",
+          "count": 2
+        },
+        {
+          "name": "Houndmaster Shaw",
+          "count": 1
+        },
+        {
+          "name": "Carnivorous Cube",
+          "count": 2
+        },
+        {
+          "name": "Zilliax",
+          "count": 1
+        },
+        {
+          "name": "Deathstalker Rexxar",
+          "count": 1
+        },
+        {
+          "name": "Mechanical Whelp",
+          "count": 2
+        },
+        {
+          "name": "Mossy Horror",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "deckName": "Midrange Hunter",
+      "className": "Hunter",
+      "cards": [
+        {
+          "name": "Dire Mole",
+          "count": 2
+        },
+        {
+          "name": "Tracking",
+          "count": 2
+        },
+        {
+          "name": "Crackling Razormaw",
+          "count": 2
+        },
+        {
+          "name": "Explosive Trap",
+          "count": 2
+        },
+        {
+          "name": "Freezing Trap",
+          "count": 2
+        },
+        {
+          "name": "Wandering Monster",
+          "count": 2
+        },
+        {
+          "name": "Animal Companion",
+          "count": 2
+        },
+        {
+          "name": "Bearshark",
+          "count": 2
+        },
+        {
+          "name": "Deadly Shot",
+          "count": 1
+        },
+        {
+          "name": "Eaglehorn Bow",
+          "count": 2
+        },
+        {
+          "name": "Kill Command",
+          "count": 2
+        },
+        {
+          "name": "Unleash the Hounds",
+          "count": 2
+        },
+        {
+          "name": "Flanking Strike",
+          "count": 2
+        },
+        {
+          "name": "Houndmaster",
+          "count": 2
+        },
+        {
+          "name": "Lesser Emerald Spellstone",
+          "count": 2
+        },
+        {
+          "name": "Deathstalker Rexxar",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "deckName": "Secret Hunter",
+      "className": "Hunter",
+      "cards": [
+        {
+          "name": "Dire Mole",
+          "count": 2
+        },
+        {
+          "name": "Secretkeeper",
+          "count": 2
+        },
+        {
+          "name": "Tracking",
+          "count": 2
+        },
+        {
+          "name": "Crackling Razormaw",
+          "count": 2
+        },
+        {
+          "name": "Explosive Trap",
+          "count": 1
+        },
+        {
+          "name": "Freezing Trap",
+          "count": 1
+        },
+        {
+          "name": "Snake Trap",
+          "count": 2
+        },
+        {
+          "name": "Venomstrike Trap",
+          "count": 2
+        },
+        {
+          "name": "Wandering Monster",
+          "count": 1
+        },
+        {
+          "name": "Animal Companion",
+          "count": 2
+        },
+        {
+          "name": "Bearshark",
+          "count": 1
+        },
+        {
+          "name": "Eaglehorn Bow",
+          "count": 2
+        },
+        {
+          "name": "Kill Command",
+          "count": 2
+        },
+        {
+          "name": "Houndmaster",
+          "count": 2
+        },
+        {
+          "name": "Houndmaster Shaw",
+          "count": 1
+        },
+        {
+          "name": "Lesser Emerald Spellstone",
+          "count": 2
+        },
+        {
+          "name": "Subject 9",
+          "count": 1
+        },
+        {
+          "name": "Deathstalker Rexxar",
+          "count": 1
+        },
+        {
+          "name": "Mossy Horror",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "deckName": "Mecha'thun Priest",
+      "className": "Priest",
+      "cards": [
+        {
+          "name": "Circle of Healing",
+          "count": 2
+        },
+        {
+          "name": "Silence",
+          "count": 1
+        },
+        {
+          "name": "Northshire Cleric",
+          "count": 2
+        },
+        {
+          "name": "Power Word: Shield",
+          "count": 2
+        },
+        {
+          "name": "Bloodmage Thalnos",
+          "count": 1
+        },
+        {
+          "name": "Divine Hymn",
+          "count": 1
+        },
+        {
+          "name": "Loot Hoarder",
+          "count": 2
+        },
+        {
+          "name": "Radiant Elemental",
+          "count": 2
+        },
+        {
+          "name": "Shadow Visions",
+          "count": 2
+        },
+        {
+          "name": "Spirit Lash",
+          "count": 2
+        },
+        {
+          "name": "Wild Pyromancer",
+          "count": 2
+        },
+        {
+          "name": "Acolyte of Pain",
+          "count": 2
+        },
+        {
+          "name": "Ticking Abomination",
+          "count": 2
+        },
+        {
+          "name": "Reckless Experimenter",
+          "count": 1
+        },
+        {
+          "name": "Coffin Crasher",
+          "count": 1
+        },
+        {
+          "name": "Hemet, Jungle Hunter",
+          "count": 1
+        },
+        {
+          "name": "Psychic Scream",
+          "count": 2
+        },
+        {
+          "name": "Mecha'thun",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "deckName": "Turvy OTK Priest",
+      "className": "Priest",
+      "cards": [
+        {
+          "name": "Topsy Turvy",
+          "count": 2
+        },
+        {
+          "name": "Binding Heal",
+          "count": 2
+        },
+        {
+          "name": "Power Word: Shield",
+          "count": 2
+        },
+        {
+          "name": "Stonetusk Boar",
+          "count": 1
+        },
+        {
+          "name": "Test Subject",
+          "count": 2
+        },
+        {
+          "name": "Bloodmage Thalnos",
+          "count": 1
+        },
+        {
+          "name": "Dead Ringer",
+          "count": 2
+        },
+        {
+          "name": "Divine Spirit",
+          "count": 1
+        },
+        {
+          "name": "Loot Hoarder",
+          "count": 2
+        },
+        {
+          "name": "Radiant Elemental",
+          "count": 2
+        },
+        {
+          "name": "Shadow Visions",
+          "count": 2
+        },
+        {
+          "name": "Spirit Lash",
+          "count": 2
+        },
+        {
+          "name": "Twilight's Call",
+          "count": 2
+        },
+        {
+          "name": "Vivid Nightmare",
+          "count": 2
+        },
+        {
+          "name": "Witchwood Piper",
+          "count": 2
+        },
+        {
+          "name": "Giggling Inventor",
+          "count": 1
+        },
+        {
+          "name": "Psychic Scream",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "deckName": "Spiteful Priest",
+      "className": "Priest",
+      "cards": [
+        {
+          "name": "Northshire Cleric",
+          "count": 2
+        },
+        {
+          "name": "Acidic Swamp Ooze",
+          "count": 1
+        },
+        {
+          "name": "Faerie Dragon",
+          "count": 2
+        },
+        {
+          "name": "Shadow Ascendant",
+          "count": 2
+        },
+        {
+          "name": "Stonehill Defender",
+          "count": 1
+        },
+        {
+          "name": "Tar Creeper",
+          "count": 2
+        },
+        {
+          "name": "Duskbreaker",
+          "count": 2
+        },
+        {
+          "name": "Scaleworm",
+          "count": 1
+        },
+        {
+          "name": "Spellbreaker",
+          "count": 1
+        },
+        {
+          "name": "Tortollan Shellraiser",
+          "count": 2
+        },
+        {
+          "name": "Twilight Drake",
+          "count": 2
+        },
+        {
+          "name": "Cobalt Scalebane",
+          "count": 2
+        },
+        {
+          "name": "Cabal Shadow Priest",
+          "count": 1
+        },
+        {
+          "name": "Nightscale Matriarch",
+          "count": 1
+        },
+        {
+          "name": "Psychic Scream",
+          "count": 1
+        },
+        {
+          "name": "Spiteful Summoner",
+          "count": 2
+        },
+        {
+          "name": "Bonemare",
+          "count": 1
+        },
+        {
+          "name": "Free From Amber",
+          "count": 2
+        },
+        {
+          "name": "Mind Control",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "deckName": "Control Priest",
+      "className": "Priest",
+      "cards": [
+        {
+          "name": "Northshire Cleric",
+          "count": 2
+        },
+        {
+          "name": "Power Word: Shield",
+          "count": 2
+        },
+        {
+          "name": "Dead Ringer",
+          "count": 2
+        },
+        {
+          "name": "Divine Hymn",
+          "count": 2
+        },
+        {
+          "name": "Mind Blast",
+          "count": 2
+        },
+        {
+          "name": "Shadow Visions",
+          "count": 2
+        },
+        {
+          "name": "Wild Pyromancer",
+          "count": 2
+        },
+        {
+          "name": "Devilsaur Egg",
+          "count": 2
+        },
+        {
+          "name": "Voodoo Doll",
+          "count": 2
+        },
+        {
+          "name": "Duskbreaker",
+          "count": 2
+        },
+        {
+          "name": "Twilight Drake",
+          "count": 2
+        },
+        {
+          "name": "Reckless Experimenter",
+          "count": 2
+        },
+        {
+          "name": "Psychic Scream",
+          "count": 2
+        },
+        {
+          "name": "Primordial Drake",
+          "count": 2
+        },
+        {
+          "name": "Shadowreaper Anduin",
+          "count": 1
+        },
+        {
+          "name": "Alexstrasza",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "deckName": "Resurrect Priest",
+      "className": "Priest",
+      "cards": [
+        {
+          "name": "Power Word: Shield",
+          "count": 1
+        },
+        {
+          "name": "Shadow Visions",
+          "count": 2
+        },
+        {
+          "name": "Shadow Word: Pain",
+          "count": 2
+        },
+        {
+          "name": "Spirit Lash",
+          "count": 2
+        },
+        {
+          "name": "Extra Arms",
+          "count": 1
+        },
+        {
+          "name": "Shadow Word: Death",
+          "count": 1
+        },
+        {
+          "name": "Twilight's Call",
+          "count": 2
+        },
+        {
+          "name": "Unidentified Elixir",
+          "count": 2
+        },
+        {
+          "name": "Vivid Nightmare",
+          "count": 2
+        },
+        {
+          "name": "Eternal Servitude",
+          "count": 2
+        },
+        {
+          "name": "Holy Nova",
+          "count": 2
+        },
+        {
+          "name": "Shadow Essence",
+          "count": 2
+        },
+        {
+          "name": "Zerek, Master Cloner",
+          "count": 1
+        },
+        {
+          "name": "Lesser Diamond: Spellstone",
+          "count": 2
+        },
+        {
+          "name": "Psychic Scream",
+          "count": 2
+        },
+        {
+          "name": "Free From Amber",
+          "count": 2
+        },
+        {
+          "name": "Shadowreaper Anduin",
+          "count": 1
+        },
+        {
+          "name": "Obsidian Statue",
+          "count": 2
+        }
+      ]
+    }
+  ]
+}

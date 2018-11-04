@@ -1,0 +1,3 @@
+Sen'jin Shieldmasta*Dalaran Mage*Bloodfen Raptor*Houndmaster*Voodoo Doctor*Wolfrider*Grimscale Oracle*Acidic Swamp Ooze*Goldshire Footman*Lord of the Arena*Voodoo Doctor*War Golem*Magma Rager*Archmage*Stormpike Commando*Dragonling Mechanic*Starving Buzzard*Reckless Rocketeer*Hunter's Mark*Tracking*Oasis Snapjaw*Starving Buzzard*Nightblade*Timber Wolf*Razorfen Hunter*Boulderfist Ogre*Arcane Shot*Hunter's Mark*Magma Rager*Novice Engineer*
+GPUID:0-61 Game Deck:61: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-16& turns:13 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[The Coin]*1**[Wolfrider]*1**[Hunter's Mark]*2**[Nightblade]*1**[Bloodfen Raptor]*1**/n

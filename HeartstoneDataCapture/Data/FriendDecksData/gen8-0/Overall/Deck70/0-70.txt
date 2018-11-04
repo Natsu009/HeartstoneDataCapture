@@ -1,0 +1,3 @@
+Murloc Tidehunter*Goldshire Footman*Bloodfen Raptor*Dragonling Mechanic*Houndmaster*Ironforge Rifleman*Silverback Patriarch*Ogre Magi*Gurubashi Berserker*Frostwolf Grunt*Hunter's Mark*Stonetusk Boar*Archmage*Starving Buzzard*Shattered Sun Cleric*Timber Wolf*War Golem*Magma Rager*War Golem*Sen'jin Shieldmasta*Stormwind Knight*Animal Companion*Wolfrider*Acidic Swamp Ooze*Novice Engineer*Murloc Raider*Sen'jin Shieldmasta*Animal Companion*Tundra Rhino*Lord of the Arena*
+GPUID:0-70 Game Deck:70: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:10& turns:17 and average time of game (hh:mm:ss) = 00:00:04Time taken:00:00:04
+[Animal Companion]*1**[Tundra Rhino]*1**[Sen'jin Shieldmasta]*1**[War Golem]*1**[Gurubashi Berserker]*1**/n

@@ -1,0 +1,3 @@
+Stormpike Commando*Novice Engineer*Core Hound*Houndmaster*Stormwind Champion*Murloc Raider*Dalaran Mage*Oasis Snapjaw*Multi-Shot*Grimscale Oracle*Stormwind Knight*Gnomish Inventor*Murloc Raider*Core Hound*Grimscale Oracle*Elven Archer*Ironfur Grizzly*Stonetusk Boar*Boulderfist Ogre*Raid Leader*Archmage*Bluegill Warrior*Starving Buzzard*Stormpike Commando*Silverback Patriarch*Tundra Rhino*Bloodfen Raptor*Hunter's Mark*Magma Rager*Raid Leader*
+GPUID:0-39 Game Deck:39: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-20& turns:13 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[The Coin]*1**[Stormpike Commando]*2**[Grimscale Oracle]*1**/n

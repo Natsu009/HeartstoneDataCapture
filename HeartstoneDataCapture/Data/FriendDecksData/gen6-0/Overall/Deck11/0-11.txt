@@ -1,0 +1,3 @@
+Multi-Shot*Tundra Rhino*Archmage*Acidic Swamp Ooze*Oasis Snapjaw*Nightblade*Acidic Swamp Ooze*Voodoo Doctor*Stonetusk Boar*Goldshire Footman*Frostwolf Grunt*Animal Companion*Kobold Geomancer*Houndmaster*Kobold Geomancer*Core Hound*Frostwolf Warlord*Animal Companion*Tracking*Silverback Patriarch*Ironfur Grizzly*Multi-Shot*Stormpike Commando*Kill Command*Lord of the Arena*Core Hound*Tundra Rhino*Boulderfist Ogre*Murloc Tidehunter*Dragonling Mechanic*
+GPUID:0-11 Game Deck:11: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:20& turns:13 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Tracking]*1**[Voodoo Doctor]*1**[Murloc Tidehunter]*1**[Kobold Geomancer]*1**[Dragonling Mechanic]*1**[Nightblade]*1**/n

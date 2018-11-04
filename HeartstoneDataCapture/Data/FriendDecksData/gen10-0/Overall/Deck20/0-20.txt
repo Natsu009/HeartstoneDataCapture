@@ -1,0 +1,3 @@
+Dragonling Mechanic*Archmage*River Crocolisk*Kill Command*Dalaran Mage*Dalaran Mage*Raid Leader*Ogre Magi*Wolfrider*Dragonling Mechanic*Murloc Raider*Kobold Geomancer*Stonetusk Boar*Elven Archer*Multi-Shot*Animal Companion*Stormwind Knight*Stormpike Commando*Kill Command*Hunter's Mark*Murloc Raider*Gurubashi Berserker*Lord of the Arena*Oasis Snapjaw*Elven Archer*Ironfur Grizzly*Timber Wolf*River Crocolisk*Stonetusk Boar*Stormwind Knight*
+GPUID:0-20 Game Deck:20: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-15& turns:15 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[The Coin]*1**[Kill Command]*1**[Kobold Geomancer]*1**[Elven Archer]*1**[Stormwind Knight]*2**[Ogre Magi]*1**[Dalaran Mage]*1**/n

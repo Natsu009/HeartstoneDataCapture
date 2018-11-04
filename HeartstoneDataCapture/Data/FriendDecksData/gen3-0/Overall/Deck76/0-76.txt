@@ -1,0 +1,3 @@
+Archmage*Shattered Sun Cleric*River Crocolisk*Booty Bay Bodyguard*Murloc Tidehunter*Animal Companion*Stonetusk Boar*Raid Leader*Tracking*War Golem*Multi-Shot*Elven Archer*Novice Engineer*Boulderfist Ogre*Bluegill Warrior*Houndmaster*Acidic Swamp Ooze*Gnomish Inventor*Stormwind Knight*Elven Archer*Chillwind Yeti*Silverback Patriarch*Silverback Patriarch*Murloc Raider*Houndmaster*Stonetusk Boar*Stormwind Champion*Archmage*Multi-Shot*Voodoo Doctor*
+GPUID:0-76 Game Deck:76: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:18& turns:13 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Stonetusk Boar]*2**[Acidic Swamp Ooze]*1**[Booty Bay Bodyguard]*1**[Shattered Sun Cleric]*1**[Murloc Tidehunter]*1**[Archmage]*1**/n

@@ -1,0 +1,3 @@
+Tundra Rhino*Stormwind Knight*Oasis Snapjaw*Gnomish Inventor*War Golem*Murloc Raider*Boulderfist Ogre*Core Hound*Archmage*Shattered Sun Cleric*Ogre Magi*Grimscale Oracle*Razorfen Hunter*Core Hound*Voodoo Doctor*Lord of the Arena*Frostwolf Warlord*Dragonling Mechanic*War Golem*Starving Buzzard*Shattered Sun Cleric*Darkscale Healer*Stonetusk Boar*Archmage*Tundra Rhino*Arcane Shot*Silverback Patriarch*Gnomish Inventor*Oasis Snapjaw*Stonetusk Boar*
+GPUID:0-70 Game Deck:70: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:17& turns:13 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[Murloc Raider]*1**[Grimscale Oracle]*1**[Dragonling Mechanic]*1**[Archmage]*1**/n

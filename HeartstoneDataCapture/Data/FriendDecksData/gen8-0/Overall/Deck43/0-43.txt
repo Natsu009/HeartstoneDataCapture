@@ -1,0 +1,3 @@
+Gnomish Inventor*Reckless Rocketeer*Nightblade*Oasis Snapjaw*Reckless Rocketeer*Animal Companion*Magma Rager*Goldshire Footman*Stormwind Knight*Grimscale Oracle*Dragonling Mechanic*Hunter's Mark*Novice Engineer*Raid Leader*Sen'jin Shieldmasta*Bloodfen Raptor*Boulderfist Ogre*Multi-Shot*Stormwind Champion*Timber Wolf*Shattered Sun Cleric*Core Hound*Houndmaster*Darkscale Healer*Archmage*Lord of the Arena*Sen'jin Shieldmasta*Darkscale Healer*Timber Wolf*Murloc Tidehunter*
+GPUID:0-43 Game Deck:43: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-13& turns:15 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[The Coin]*1**[Raid Leader]*1**[Houndmaster]*1**[Nightblade]*1**/n

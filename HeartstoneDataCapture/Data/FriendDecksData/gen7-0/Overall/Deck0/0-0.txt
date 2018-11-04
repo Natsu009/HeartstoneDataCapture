@@ -1,0 +1,3 @@
+Goldshire Footman*Goldshire Footman*Dragonling Mechanic*Silverback Patriarch*Bloodfen Raptor*Hunter's Mark*Stormpike Commando*Starving Buzzard*Stormwind Champion*Voodoo Doctor*Grimscale Oracle*Stormwind Champion*Frostwolf Warlord*Tundra Rhino*Silverback Patriarch*Murloc Tidehunter*Nightblade*Stormwind Knight*Oasis Snapjaw*Core Hound*Bluegill Warrior*Ironforge Rifleman*War Golem*Wolfrider*Dalaran Mage*Archmage*Elven Archer*War Golem*Ogre Magi*Sen'jin Shieldmasta*
+GPUID:0-0 Game Deck:0: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-6& turns:15 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[The Coin]*1**[Voodoo Doctor]*1**[Wolfrider]*1**[Murloc Tidehunter]*1**[Frostwolf Warlord]*1**[Tundra Rhino]*1**/n

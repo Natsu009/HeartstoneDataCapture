@@ -1,0 +1,3 @@
+River Crocolisk*Frostwolf Warlord*Chillwind Yeti*Archmage*Stormwind Champion*Hunter's Mark*Lord of the Arena*Reckless Rocketeer*Houndmaster*Houndmaster*Darkscale Healer*Stonetusk Boar*Grimscale Oracle*Novice Engineer*Kobold Geomancer*Arcane Shot*Ironfur Grizzly*Multi-Shot*Archmage*Oasis Snapjaw*Bloodfen Raptor*Elven Archer*Ogre Magi*Frostwolf Warlord*Ironforge Rifleman*Boulderfist Ogre*Dragonling Mechanic*Oasis Snapjaw*Bluegill Warrior*Stonetusk Boar*
+GPUID:0-83 Game Deck:83: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:17& turns:15 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Stonetusk Boar]*2**[River Crocolisk]*1**[Reckless Rocketeer]*1**[Oasis Snapjaw]*1**[Bluegill Warrior]*1**/n

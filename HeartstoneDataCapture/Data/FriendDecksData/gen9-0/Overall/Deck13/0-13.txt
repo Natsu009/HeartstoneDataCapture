@@ -1,0 +1,3 @@
+Booty Bay Bodyguard*Nightblade*War Golem*Animal Companion*Raid Leader*Tracking*Lord of the Arena*Archmage*Lord of the Arena*Stonetusk Boar*Bloodfen Raptor*Gnomish Inventor*Shattered Sun Cleric*Murloc Tidehunter*Acidic Swamp Ooze*War Golem*Elven Archer*Stormwind Champion*Voodoo Doctor*Kill Command*Murloc Tidehunter*Tundra Rhino*Tundra Rhino*Stonetusk Boar*Goldshire Footman*Ironfur Grizzly*River Crocolisk*Dalaran Mage*Stormwind Champion*Magma Rager*
+GPUID:0-13 Game Deck:13: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:18& turns:15 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Goldshire Footman]*1**[Murloc Tidehunter]*2**[Shattered Sun Cleric]*1**[River Crocolisk]*1**[War Golem]*2**/n

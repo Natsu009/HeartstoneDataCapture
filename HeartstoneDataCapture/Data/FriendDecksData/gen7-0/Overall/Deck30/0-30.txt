@@ -1,0 +1,3 @@
+Gnomish Inventor*Kobold Geomancer*Ironforge Rifleman*Archmage*War Golem*Raid Leader*Oasis Snapjaw*Dragonling Mechanic*Novice Engineer*Tundra Rhino*Oasis Snapjaw*Raid Leader*Ironforge Rifleman*Chillwind Yeti*Archmage*Frostwolf Warlord*Wolfrider*Acidic Swamp Ooze*Dragonling Mechanic*Boulderfist Ogre*Timber Wolf*Stonetusk Boar*River Crocolisk*Multi-Shot*Magma Rager*Tracking*Arcane Shot*Reckless Rocketeer*Starving Buzzard*Ironfur Grizzly*
+GPUID:0-30 Game Deck:30: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:20& turns:15 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Arcane Shot]*1**[Ironforge Rifleman]*2**[Kobold Geomancer]*1**[Boulderfist Ogre]*1**[Frostwolf Warlord]*1**/n

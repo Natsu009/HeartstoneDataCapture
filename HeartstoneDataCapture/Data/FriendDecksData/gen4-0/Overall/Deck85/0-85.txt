@@ -1,0 +1,3 @@
+Timber Wolf*Nightblade*Ogre Magi*Multi-Shot*Magma Rager*Elven Archer*Booty Bay Bodyguard*Tundra Rhino*Murloc Raider*Sen'jin Shieldmasta*Timber Wolf*Chillwind Yeti*Elven Archer*War Golem*Bluegill Warrior*Grimscale Oracle*Ogre Magi*Grimscale Oracle*Houndmaster*Starving Buzzard*Shattered Sun Cleric*Booty Bay Bodyguard*Ironfur Grizzly*Boulderfist Ogre*Starving Buzzard*Tracking*Sen'jin Shieldmasta*War Golem*Stormwind Knight*Kobold Geomancer*
+GPUID:0-85 Game Deck:85: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:11& turns:16 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[The Coin]*1**[Timber Wolf]*2**[Ironfur Grizzly]*1**[Elven Archer]*2**[Grimscale Oracle]*1**[Booty Bay Bodyguard]*1**[Houndmaster]*1**/n

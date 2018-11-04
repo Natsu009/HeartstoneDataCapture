@@ -1,0 +1,3 @@
+Raid Leader*Novice Engineer*Stonetusk Boar*Starving Buzzard*Timber Wolf*Bloodfen Raptor*Ogre Magi*Frostwolf Grunt*Booty Bay Bodyguard*Ironforge Rifleman*Magma Rager*Raid Leader*Dragonling Mechanic*Murloc Raider*Nightblade*Goldshire Footman*Shattered Sun Cleric*Shattered Sun Cleric*Frostwolf Grunt*Gnomish Inventor*Darkscale Healer*River Crocolisk*Gnomish Inventor*Archmage*Wolfrider*Timber Wolf*Acidic Swamp Ooze*Wolfrider*Stormwind Champion*Animal Companion*
+GPUID:0-32 Game Deck:32: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-16& turns:15 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[The Coin]*1**[Murloc Raider]*1**[River Crocolisk]*1**[Magma Rager]*1**[Darkscale Healer]*1**[Starving Buzzard]*1**/n

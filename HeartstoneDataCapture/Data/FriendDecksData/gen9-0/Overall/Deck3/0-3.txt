@@ -1,0 +1,3 @@
+Frostwolf Warlord*Hunter's Mark*Tundra Rhino*Houndmaster*Razorfen Hunter*Arcane Shot*Stormpike Commando*Tracking*Stormwind Knight*Tracking*Grimscale Oracle*Grimscale Oracle*Boulderfist Ogre*Stormpike Commando*Voodoo Doctor*Dragonling Mechanic*Wolfrider*Darkscale Healer*Silverback Patriarch*Murloc Tidehunter*Dragonling Mechanic*War Golem*Stonetusk Boar*Raid Leader*Silverback Patriarch*Frostwolf Grunt*Novice Engineer*Dalaran Mage*Magma Rager*Murloc Tidehunter*
+GPUID:0-3 Game Deck:3: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:12& turns:15 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Voodoo Doctor]*1**[Stormpike Commando]*2**[Wolfrider]*1**[Magma Rager]*1**[Novice Engineer]*1**/n

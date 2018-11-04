@@ -1,0 +1,3 @@
+Grimscale Oracle*Chillwind Yeti*Hunter's Mark*Tracking*War Golem*Murloc Raider*Timber Wolf*Silverback Patriarch*Chillwind Yeti*Ironfur Grizzly*Dragonling Mechanic*Ogre Magi*Grimscale Oracle*Archmage*Nightblade*Stormwind Champion*Dragonling Mechanic*Frostwolf Warlord*Lord of the Arena*Sen'jin Shieldmasta*Shattered Sun Cleric*Wolfrider*Voodoo Doctor*Dalaran Mage*Goldshire Footman*Core Hound*Bluegill Warrior*Razorfen Hunter*Goldshire Footman*Multi-Shot*
+GPUID:0-92 Game Deck:92: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:14& turns:17 and average time of game (hh:mm:ss) = 00:00:04Time taken:00:00:04
+[Wolfrider]*1**[Nightblade]*1**[Lord of the Arena]*1**[War Golem]*1**[Shattered Sun Cleric]*1**[Dragonling Mechanic]*1**/n

@@ -1,0 +1,3 @@
+Bluegill Warrior*Magma Rager*Bloodfen Raptor*Sen'jin Shieldmasta*Ogre Magi*Houndmaster*Animal Companion*Ogre Magi*Bloodfen Raptor*Lord of the Arena*Gurubashi Berserker*Ironfur Grizzly*Multi-Shot*Stonetusk Boar*Novice Engineer*Acidic Swamp Ooze*Bluegill Warrior*Kill Command*Wolfrider*Kobold Geomancer*Starving Buzzard*Murloc Raider*Murloc Tidehunter*Gurubashi Berserker*Frostwolf Warlord*War Golem*Darkscale Healer*Lord of the Arena*Murloc Raider*Tundra Rhino*
+GPUID:0-38 Game Deck:38: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-8& turns:15 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[The Coin]*1**[Bluegill Warrior]*1**[Kill Command]*1**[Houndmaster]*1**[Ogre Magi]*2**/n

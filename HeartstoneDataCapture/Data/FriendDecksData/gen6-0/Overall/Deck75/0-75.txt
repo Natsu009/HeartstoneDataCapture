@@ -1,0 +1,3 @@
+Dragonling Mechanic*Murloc Raider*Dalaran Mage*Timber Wolf*Stonetusk Boar*Multi-Shot*Ogre Magi*Goldshire Footman*Multi-Shot*Grimscale Oracle*Hunter's Mark*Tundra Rhino*Nightblade*River Crocolisk*Archmage*Archmage*Nightblade*Boulderfist Ogre*Magma Rager*Dragonling Mechanic*Dalaran Mage*Acidic Swamp Ooze*Acidic Swamp Ooze*Silverback Patriarch*Ironfur Grizzly*Gnomish Inventor*Stormwind Knight*Ironfur Grizzly*Stormpike Commando*Lord of the Arena*
+GPUID:0-75 Game Deck:75: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-17& turns:14 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[River Crocolisk]*1**[Dalaran Mage]*1**[Ironfur Grizzly]*1**[Hunter's Mark]*1**[Nightblade]*1**/n

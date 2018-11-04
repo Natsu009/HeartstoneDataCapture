@@ -1,0 +1,3 @@
+Nightblade*Gnomish Inventor*Shattered Sun Cleric*War Golem*Ironfur Grizzly*Razorfen Hunter*Booty Bay Bodyguard*Gurubashi Berserker*Starving Buzzard*Kill Command*Bluegill Warrior*Starving Buzzard*Ironforge Rifleman*Tracking*Darkscale Healer*Wolfrider*Stormwind Knight*Gurubashi Berserker*Gnomish Inventor*Reckless Rocketeer*Novice Engineer*Murloc Raider*Tundra Rhino*Nightblade*Multi-Shot*Timber Wolf*River Crocolisk*Kill Command*War Golem*Magma Rager*
+GPUID:0-9 Game Deck:9: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-22& turns:13 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[The Coin]*1**[Murloc Raider]*1**[Kill Command]*1**[Reckless Rocketeer]*1**/n

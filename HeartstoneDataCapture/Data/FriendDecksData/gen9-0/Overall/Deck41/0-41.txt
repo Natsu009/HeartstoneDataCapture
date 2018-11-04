@@ -1,0 +1,3 @@
+Stormwind Knight*Stormwind Champion*Goldshire Footman*Nightblade*Booty Bay Bodyguard*Murloc Tidehunter*Ironfur Grizzly*Frostwolf Grunt*War Golem*Novice Engineer*Razorfen Hunter*Murloc Raider*Stormpike Commando*Sen'jin Shieldmasta*Dalaran Mage*Grimscale Oracle*War Golem*Silverback Patriarch*Boulderfist Ogre*Frostwolf Warlord*Dragonling Mechanic*Dragonling Mechanic*Nightblade*Stonetusk Boar*Lord of the Arena*Dalaran Mage*Tracking*Elven Archer*Archmage*Frostwolf Warlord*
+GPUID:0-41 Game Deck:41: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:13& turns:15 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Murloc Tidehunter]*1**[Nightblade]*1**[Archmage]*1**[Dragonling Mechanic]*1**/n

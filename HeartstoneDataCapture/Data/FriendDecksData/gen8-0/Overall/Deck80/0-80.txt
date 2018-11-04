@@ -1,0 +1,3 @@
+Animal Companion*Multi-Shot*Stormpike Commando*Chillwind Yeti*Nightblade*Oasis Snapjaw*Booty Bay Bodyguard*Sen'jin Shieldmasta*Multi-Shot*Archmage*River Crocolisk*Kobold Geomancer*Starving Buzzard*Wolfrider*War Golem*Stonetusk Boar*Gnomish Inventor*Stormpike Commando*Arcane Shot*Bluegill Warrior*Darkscale Healer*Elven Archer*Gnomish Inventor*Gurubashi Berserker*Timber Wolf*Stormwind Knight*Elven Archer*Starving Buzzard*Dragonling Mechanic*Magma Rager*
+GPUID:0-80 Game Deck:80: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-19& turns:13 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[The Coin]*1**[Timber Wolf]*1**[Stormpike Commando]*1**[Nightblade]*1**/n

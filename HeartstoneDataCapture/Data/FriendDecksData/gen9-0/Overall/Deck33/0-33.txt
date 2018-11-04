@@ -1,0 +1,3 @@
+Starving Buzzard*Wolfrider*Bloodfen Raptor*Kill Command*Magma Rager*Novice Engineer*Ogre Magi*Raid Leader*Gurubashi Berserker*Gnomish Inventor*Oasis Snapjaw*River Crocolisk*Voodoo Doctor*Animal Companion*Starving Buzzard*Multi-Shot*Razorfen Hunter*Tracking*Tracking*Sen'jin Shieldmasta*Ogre Magi*Boulderfist Ogre*Boulderfist Ogre*Dalaran Mage*Animal Companion*Raid Leader*Darkscale Healer*Bloodfen Raptor*Kobold Geomancer*Nightblade*
+GPUID:0-33 Game Deck:33: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:10& turns:16 and average time of game (hh:mm:ss) = 00:00:07Time taken:00:00:07
+[The Coin]*1**[Bloodfen Raptor]*2**[Voodoo Doctor]*1**[Starving Buzzard]*2**[Animal Companion]*1**[Nightblade]*1**/n

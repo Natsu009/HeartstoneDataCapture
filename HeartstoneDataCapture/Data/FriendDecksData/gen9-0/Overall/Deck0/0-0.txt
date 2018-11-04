@@ -1,0 +1,3 @@
+Gnomish Inventor*Dragonling Mechanic*War Golem*Raid Leader*Frostwolf Grunt*Kobold Geomancer*Boulderfist Ogre*Oasis Snapjaw*Voodoo Doctor*Gurubashi Berserker*Archmage*War Golem*Silverback Patriarch*Elven Archer*Ogre Magi*Starving Buzzard*Stonetusk Boar*Stonetusk Boar*Frostwolf Warlord*Arcane Shot*Kill Command*Reckless Rocketeer*Dalaran Mage*Kobold Geomancer*Novice Engineer*Novice Engineer*Hunter's Mark*Houndmaster*Archmage*Multi-Shot*
+GPUID:0-0 Game Deck:0: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:18& turns:14 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Voodoo Doctor]*1**[The Coin]*1**[Frostwolf Grunt]*1**[Stonetusk Boar]*1**[Kobold Geomancer]*1**[Houndmaster]*1**[Starving Buzzard]*1**/n

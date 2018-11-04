@@ -1,0 +1,3 @@
+Bluegill Warrior*Magma Rager*Chillwind Yeti*Chillwind Yeti*Sen'jin Shieldmasta*Novice Engineer*Starving Buzzard*Lord of the Arena*Stonetusk Boar*Novice Engineer*Razorfen Hunter*Boulderfist Ogre*Archmage*Animal Companion*Ogre Magi*Stonetusk Boar*Tracking*Wolfrider*Boulderfist Ogre*Lord of the Arena*Razorfen Hunter*Tracking*Magma Rager*Multi-Shot*Goldshire Footman*Hunter's Mark*Frostwolf Warlord*Stormpike Commando*River Crocolisk*Tundra Rhino*
+GPUID:0-9 Game Deck:9: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-19& turns:12 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[Stonetusk Boar]*1**[Hunter's Mark]*1**[Multi-Shot]*1**/n

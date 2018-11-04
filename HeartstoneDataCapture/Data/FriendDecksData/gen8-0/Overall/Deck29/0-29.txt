@@ -1,0 +1,3 @@
+Dalaran Mage*Voodoo Doctor*Timber Wolf*Oasis Snapjaw*Nightblade*Gnomish Inventor*Stonetusk Boar*Core Hound*Goldshire Footman*Sen'jin Shieldmasta*Hunter's Mark*Dragonling Mechanic*Kobold Geomancer*Dragonling Mechanic*Nightblade*Timber Wolf*War Golem*Stormwind Champion*Wolfrider*Silverback Patriarch*Magma Rager*Elven Archer*Tundra Rhino*River Crocolisk*Ironfur Grizzly*Stormpike Commando*Stonetusk Boar*Reckless Rocketeer*Archmage*Razorfen Hunter*
+GPUID:0-29 Game Deck:29: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-18& turns:15 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[The Coin]*1**[Magma Rager]*1**[Nightblade]*1**[Hunter's Mark]*1**[Wolfrider]*1**/n

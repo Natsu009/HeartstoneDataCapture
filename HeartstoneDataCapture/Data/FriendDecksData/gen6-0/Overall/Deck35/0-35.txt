@@ -1,0 +1,3 @@
+Murloc Raider*Shattered Sun Cleric*Chillwind Yeti*Elven Archer*Ironfur Grizzly*Arcane Shot*Darkscale Healer*Archmage*River Crocolisk*Kobold Geomancer*Archmage*Stonetusk Boar*Gurubashi Berserker*Kobold Geomancer*Darkscale Healer*Timber Wolf*Core Hound*Tundra Rhino*Shattered Sun Cleric*Gnomish Inventor*Booty Bay Bodyguard*Dragonling Mechanic*Stormpike Commando*Arcane Shot*Oasis Snapjaw*Silverback Patriarch*Multi-Shot*Bluegill Warrior*Wolfrider*Houndmaster*
+GPUID:0-35 Game Deck:35: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:7& turns:18 and average time of game (hh:mm:ss) = 00:00:05Time taken:00:00:05
+[The Coin]*1**[Timber Wolf]*1**[River Crocolisk]*1**[Darkscale Healer]*2**[Stormpike Commando]*1**[Archmage]*1**/n

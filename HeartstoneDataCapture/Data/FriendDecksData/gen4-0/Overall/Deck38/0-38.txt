@@ -1,0 +1,3 @@
+Grimscale Oracle*Bloodfen Raptor*Animal Companion*Bluegill Warrior*Core Hound*Boulderfist Ogre*Gnomish Inventor*Kobold Geomancer*River Crocolisk*Boulderfist Ogre*Booty Bay Bodyguard*Hunter's Mark*Lord of the Arena*River Crocolisk*Darkscale Healer*Tracking*Oasis Snapjaw*War Golem*Multi-Shot*Dalaran Mage*Frostwolf Warlord*Sen'jin Shieldmasta*Acidic Swamp Ooze*Timber Wolf*Booty Bay Bodyguard*Chillwind Yeti*Core Hound*Shattered Sun Cleric*Ironforge Rifleman*Magma Rager*
+GPUID:0-38 Game Deck:38: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-22& turns:12 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Grimscale Oracle]*1**[Tracking]*1**[River Crocolisk]*1**[Ironforge Rifleman]*1**/n

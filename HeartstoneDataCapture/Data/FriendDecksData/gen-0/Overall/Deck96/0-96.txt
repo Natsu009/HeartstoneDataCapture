@@ -1,0 +1,3 @@
+Ogre Magi*Reckless Rocketeer*Novice Engineer*Razorfen Hunter*Chillwind Yeti*War Golem*Magma Rager*Starving Buzzard*Ogre Magi*Nightblade*Wolfrider*Razorfen Hunter*Kobold Geomancer*Bloodfen Raptor*Raid Leader*Ironforge Rifleman*Frostwolf Warlord*Murloc Tidehunter*Booty Bay Bodyguard*Lord of the Arena*Ironfur Grizzly*Dragonling Mechanic*Sen'jin Shieldmasta*Stormpike Commando*Core Hound*Silverback Patriarch*War Golem*Stormwind Champion*Bloodfen Raptor*Frostwolf Warlord*
+GPUID:0-96 Game Deck:96: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-5& turns:15 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[The Coin]*1**[Wolfrider]*1**[Nightblade]*1**[Stormpike Commando]*1**[Frostwolf Warlord]*1**/n

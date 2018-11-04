@@ -1,0 +1,3 @@
+Ironfur Grizzly*Stormwind Knight*Core Hound*Boulderfist Ogre*Stormwind Knight*Acidic Swamp Ooze*Darkscale Healer*Acidic Swamp Ooze*Boulderfist Ogre*Dalaran Mage*Voodoo Doctor*Dragonling Mechanic*Ogre Magi*Chillwind Yeti*Archmage*Frostwolf Warlord*Core Hound*Ironforge Rifleman*Magma Rager*Lord of the Arena*Razorfen Hunter*Dragonling Mechanic*Voodoo Doctor*Timber Wolf*Timber Wolf*Stormpike Commando*Gnomish Inventor*Novice Engineer*Ironfur Grizzly*Arcane Shot*
+GPUID:0-65 Game Deck:65: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-18& turns:13 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[The Coin]*1**[Arcane Shot]*1**[Acidic Swamp Ooze]*1**[Ironforge Rifleman]*1**[Voodoo Doctor]*1**/n

@@ -1,0 +1,3 @@
+Chillwind Yeti*Booty Bay Bodyguard*Arcane Shot*Tracking*Raid Leader*Gnomish Inventor*Chillwind Yeti*Voodoo Doctor*Kobold Geomancer*Bluegill Warrior*Kill Command*Razorfen Hunter*Kobold Geomancer*Acidic Swamp Ooze*Tracking*Frostwolf Grunt*Stormwind Knight*Ogre Magi*Starving Buzzard*Wolfrider*Elven Archer*Archmage*Boulderfist Ogre*River Crocolisk*Tundra Rhino*Arcane Shot*Kill Command*Elven Archer*Stormwind Champion*Gnomish Inventor*
+GPUID:0-76 Game Deck:76: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-14& turns:17 and average time of game (hh:mm:ss) = 00:00:05Time taken:00:00:05
+[The Coin]*1**[Arcane Shot]*2**[Booty Bay Bodyguard]*1**[Frostwolf Grunt]*1**[River Crocolisk]*1**[Tracking]*1**[Voodoo Doctor]*1**/n

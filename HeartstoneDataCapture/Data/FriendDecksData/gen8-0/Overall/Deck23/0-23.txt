@@ -1,0 +1,3 @@
+Stonetusk Boar*Magma Rager*Grimscale Oracle*Wolfrider*Tundra Rhino*Wolfrider*Ironforge Rifleman*Grimscale Oracle*Houndmaster*Murloc Tidehunter*Dalaran Mage*Frostwolf Warlord*Nightblade*Ironfur Grizzly*Tracking*Timber Wolf*River Crocolisk*Silverback Patriarch*Booty Bay Bodyguard*Boulderfist Ogre*Kill Command*Core Hound*Darkscale Healer*Oasis Snapjaw*Raid Leader*Houndmaster*Kobold Geomancer*Core Hound*Tundra Rhino*Voodoo Doctor*
+GPUID:0-23 Game Deck:23: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-8& turns:15 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[The Coin]*1**[Wolfrider]*1**[Oasis Snapjaw]*1**[Ironfur Grizzly]*1**[Boulderfist Ogre]*1**[Kobold Geomancer]*1**[Kill Command]*1**/n

@@ -1,0 +1,3 @@
+Lord of the Arena*Reckless Rocketeer*Gurubashi Berserker*Kill Command*Animal Companion*Reckless Rocketeer*Silverback Patriarch*Stormpike Commando*Voodoo Doctor*Arcane Shot*Dragonling Mechanic*Elven Archer*Kill Command*Bluegill Warrior*Novice Engineer*Raid Leader*Ogre Magi*Magma Rager*Darkscale Healer*Murloc Tidehunter*Booty Bay Bodyguard*Ogre Magi*Arcane Shot*Stormwind Knight*Multi-Shot*Tracking*Oasis Snapjaw*Houndmaster*Chillwind Yeti*Frostwolf Grunt*
+GPUID:0-79 Game Deck:79: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-18& turns:15 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[The Coin]*1**[Elven Archer]*1**[Animal Companion]*1**[Kill Command]*1**[Chillwind Yeti]*1**/n

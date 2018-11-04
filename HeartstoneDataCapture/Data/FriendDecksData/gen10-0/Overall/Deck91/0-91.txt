@@ -1,0 +1,3 @@
+Hunter's Mark*Reckless Rocketeer*Ogre Magi*Kill Command*Tracking*Frostwolf Grunt*Archmage*Reckless Rocketeer*Stonetusk Boar*Nightblade*Kobold Geomancer*Voodoo Doctor*Stormwind Champion*Nightblade*Multi-Shot*Gurubashi Berserker*Tracking*Boulderfist Ogre*Frostwolf Grunt*Bluegill Warrior*Murloc Raider*Bluegill Warrior*Frostwolf Warlord*Sen'jin Shieldmasta*Shattered Sun Cleric*Raid Leader*Silverback Patriarch*Lord of the Arena*Stonetusk Boar*Ogre Magi*
+GPUID:0-91 Game Deck:91: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-12& turns:15 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[The Coin]*1**[Kill Command]*1**[Nightblade]*2**[Archmage]*1**/n

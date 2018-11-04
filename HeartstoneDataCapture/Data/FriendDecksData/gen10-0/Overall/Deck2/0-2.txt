@@ -1,0 +1,3 @@
+Houndmaster*Timber Wolf*Silverback Patriarch*Boulderfist Ogre*Multi-Shot*Ogre Magi*Animal Companion*Kobold Geomancer*Timber Wolf*Gurubashi Berserker*Murloc Raider*Murloc Tidehunter*Sen'jin Shieldmasta*Boulderfist Ogre*Stonetusk Boar*Nightblade*Multi-Shot*Nightblade*Tracking*Wolfrider*Gurubashi Berserker*Stormwind Knight*Murloc Tidehunter*Hunter's Mark*Tracking*Darkscale Healer*Frostwolf Grunt*Acidic Swamp Ooze*War Golem*Silverback Patriarch*
+GPUID:0-2 Game Deck:2: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-9& turns:15 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[The Coin]*1**[Murloc Raider]*1**[Stormwind Knight]*1**[Nightblade]*1**[War Golem]*1**/n

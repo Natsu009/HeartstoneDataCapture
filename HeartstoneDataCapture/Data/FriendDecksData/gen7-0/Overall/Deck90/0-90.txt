@@ -1,0 +1,3 @@
+Chillwind Yeti*Houndmaster*Archmage*Voodoo Doctor*Lord of the Arena*Murloc Tidehunter*Starving Buzzard*River Crocolisk*Houndmaster*Dalaran Mage*River Crocolisk*Chillwind Yeti*Animal Companion*Stonetusk Boar*Archmage*Stonetusk Boar*Gurubashi Berserker*Tundra Rhino*Grimscale Oracle*Reckless Rocketeer*Frostwolf Grunt*Grimscale Oracle*Voodoo Doctor*Silverback Patriarch*Starving Buzzard*Shattered Sun Cleric*Sen'jin Shieldmasta*Tracking*Ironforge Rifleman*Raid Leader*
+GPUID:0-90 Game Deck:90: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-17& turns:14 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Silverback Patriarch]*1**[Tundra Rhino]*1**[Grimscale Oracle]*1**[Chillwind Yeti]*1**/n

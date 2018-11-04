@@ -1,0 +1,3 @@
+Novice Engineer*Novice Engineer*Grimscale Oracle*Silverback Patriarch*Booty Bay Bodyguard*Archmage*Starving Buzzard*Ironforge Rifleman*Elven Archer*Tundra Rhino*Razorfen Hunter*Bluegill Warrior*Kobold Geomancer*War Golem*Animal Companion*Murloc Raider*Goldshire Footman*Gurubashi Berserker*Hunter's Mark*Frostwolf Warlord*Ironforge Rifleman*Shattered Sun Cleric*Animal Companion*Stormwind Knight*Sen'jin Shieldmasta*Multi-Shot*Magma Rager*Stormpike Commando*Gurubashi Berserker*Stormwind Knight*
+GPUID:0-86 Game Deck:86: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-17& turns:15 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[The Coin]*1**[Novice Engineer]*1**[Magma Rager]*1**[Murloc Raider]*1**/n

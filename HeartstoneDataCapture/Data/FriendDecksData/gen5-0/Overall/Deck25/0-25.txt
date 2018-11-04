@@ -1,0 +1,3 @@
+Ironforge Rifleman*Silverback Patriarch*Ironforge Rifleman*Wolfrider*Voodoo Doctor*Hunter's Mark*Silverback Patriarch*Novice Engineer*Timber Wolf*Bloodfen Raptor*Stormwind Knight*Core Hound*Gnomish Inventor*Core Hound*Starving Buzzard*War Golem*Archmage*Chillwind Yeti*Archmage*Acidic Swamp Ooze*Kobold Geomancer*Kill Command*Dalaran Mage*Frostwolf Warlord*Tundra Rhino*Novice Engineer*Stonetusk Boar*Animal Companion*Houndmaster*Dalaran Mage*
+GPUID:0-25 Game Deck:25: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-15& turns:13 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[The Coin]*1**[Kill Command]*1**[Silverback Patriarch]*1**/n

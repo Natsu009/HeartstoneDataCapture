@@ -1,0 +1,3 @@
+Houndmaster*Grimscale Oracle*Starving Buzzard*Oasis Snapjaw*Shattered Sun Cleric*Tracking*Bloodfen Raptor*Elven Archer*Goldshire Footman*Wolfrider*Ironfur Grizzly*Bluegill Warrior*Razorfen Hunter*Stormpike Commando*Reckless Rocketeer*Elven Archer*Timber Wolf*Gurubashi Berserker*Ogre Magi*Ironforge Rifleman*Shattered Sun Cleric*Boulderfist Ogre*Murloc Tidehunter*Tundra Rhino*Lord of the Arena*Archmage*Magma Rager*Arcane Shot*River Crocolisk*Tundra Rhino*
+GPUID:0-81 Game Deck:81: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-17& turns:13 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[The Coin]*1**[Bluegill Warrior]*1**[Ironforge Rifleman]*1**[Wolfrider]*1**[Grimscale Oracle]*1**/n

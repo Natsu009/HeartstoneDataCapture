@@ -1,0 +1,3 @@
+Dalaran Mage*Ogre Magi*Houndmaster*Wolfrider*Raid Leader*Animal Companion*Ironforge Rifleman*Arcane Shot*Gurubashi Berserker*Murloc Raider*Goldshire Footman*Bluegill Warrior*War Golem*Grimscale Oracle*Magma Rager*Reckless Rocketeer*Shattered Sun Cleric*Murloc Raider*Lord of the Arena*River Crocolisk*Archmage*Razorfen Hunter*Chillwind Yeti*Ironfur Grizzly*Ironfur Grizzly*Stormwind Champion*Novice Engineer*Lord of the Arena*Boulderfist Ogre*Shattered Sun Cleric*
+GPUID:0-33 Game Deck:33: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:23& turns:11 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[Murloc Raider]*1**[Bluegill Warrior]*1**[Ironfur Grizzly]*2**[Shattered Sun Cleric]*1**/n

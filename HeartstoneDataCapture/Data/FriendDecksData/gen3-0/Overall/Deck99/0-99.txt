@@ -1,0 +1,3 @@
+Oasis Snapjaw*Stonetusk Boar*River Crocolisk*Oasis Snapjaw*Silverback Patriarch*Starving Buzzard*Animal Companion*Magma Rager*Starving Buzzard*Gnomish Inventor*Lord of the Arena*Hunter's Mark*Houndmaster*Stormwind Knight*Archmage*Frostwolf Warlord*War Golem*Frostwolf Grunt*Grimscale Oracle*Chillwind Yeti*Silverback Patriarch*Novice Engineer*Boulderfist Ogre*Stormpike Commando*Grimscale Oracle*Murloc Raider*Booty Bay Bodyguard*Magma Rager*Murloc Raider*Bluegill Warrior*
+GPUID:0-99 Game Deck:99: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-8& turns:14 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[River Crocolisk]*1**[Magma Rager]*1**[Starving Buzzard]*2**[Hunter's Mark]*1**/n

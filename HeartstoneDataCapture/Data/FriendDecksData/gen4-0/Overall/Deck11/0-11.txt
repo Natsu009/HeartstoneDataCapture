@@ -1,0 +1,3 @@
+War Golem*Darkscale Healer*Murloc Tidehunter*Archmage*Timber Wolf*Boulderfist Ogre*Frostwolf Warlord*Sen'jin Shieldmasta*Reckless Rocketeer*Dalaran Mage*Silverback Patriarch*Dalaran Mage*Kill Command*Chillwind Yeti*Sen'jin Shieldmasta*Archmage*Dragonling Mechanic*Ironfur Grizzly*Kobold Geomancer*Ironfur Grizzly*Reckless Rocketeer*Acidic Swamp Ooze*Animal Companion*Frostwolf Warlord*Chillwind Yeti*Bluegill Warrior*Razorfen Hunter*Houndmaster*Multi-Shot*Boulderfist Ogre*
+GPUID:0-11 Game Deck:11: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-12& turns:15 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[The Coin]*1**[Bluegill Warrior]*1**[Ironfur Grizzly]*1**[Darkscale Healer]*1**[Frostwolf Warlord]*1**/n

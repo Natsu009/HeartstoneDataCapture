@@ -1,0 +1,3 @@
+War Golem*Voodoo Doctor*Kobold Geomancer*Murloc Raider*Acidic Swamp Ooze*Timber Wolf*Wolfrider*Raid Leader*Sen'jin Shieldmasta*Murloc Raider*River Crocolisk*Bloodfen Raptor*Stormpike Commando*Starving Buzzard*Elven Archer*Goldshire Footman*Booty Bay Bodyguard*Archmage*Archmage*Arcane Shot*Stormpike Commando*War Golem*Frostwolf Grunt*Kobold Geomancer*Tracking*Boulderfist Ogre*Ironforge Rifleman*Arcane Shot*Chillwind Yeti*Kill Command*
+GPUID:0-36 Game Deck:36: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-20& turns:11 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[The Coin]*1**[Tracking]*1**[Arcane Shot]*1**[Murloc Raider]*1**/n

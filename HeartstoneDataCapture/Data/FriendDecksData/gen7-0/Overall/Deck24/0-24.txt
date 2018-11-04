@@ -1,0 +1,3 @@
+Ogre Magi*Wolfrider*Bluegill Warrior*Reckless Rocketeer*Razorfen Hunter*Ironfur Grizzly*Razorfen Hunter*Elven Archer*River Crocolisk*Tracking*Lord of the Arena*Grimscale Oracle*Ogre Magi*Stormpike Commando*Goldshire Footman*Multi-Shot*Darkscale Healer*Wolfrider*Archmage*Dragonling Mechanic*Booty Bay Bodyguard*Bluegill Warrior*Murloc Tidehunter*Magma Rager*Bloodfen Raptor*Stormpike Commando*Silverback Patriarch*Timber Wolf*Lord of the Arena*Silverback Patriarch*
+GPUID:0-24 Game Deck:24: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:10& turns:17 and average time of game (hh:mm:ss) = 00:00:07Time taken:00:00:07
+[Bluegill Warrior]*1**[Razorfen Hunter]*2**[Stormpike Commando]*2**[Darkscale Healer]*1**/n

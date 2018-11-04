@@ -1,0 +1,3 @@
+Chillwind Yeti*Archmage*Shattered Sun Cleric*Stormwind Knight*Goldshire Footman*Booty Bay Bodyguard*Sen'jin Shieldmasta*Boulderfist Ogre*Arcane Shot*Wolfrider*Stonetusk Boar*Murloc Tidehunter*Gnomish Inventor*Wolfrider*Reckless Rocketeer*Booty Bay Bodyguard*War Golem*Lord of the Arena*Gnomish Inventor*Nightblade*Chillwind Yeti*Ironfur Grizzly*Darkscale Healer*River Crocolisk*Elven Archer*Kill Command*Reckless Rocketeer*War Golem*Archmage*Boulderfist Ogre*
+GPUID:0-50 Game Deck:50: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-5& turns:16 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Nightblade]*1**[Boulderfist Ogre]*1**[Chillwind Yeti]*2**[Arcane Shot]*1**[Ironfur Grizzly]*1**[Goldshire Footman]*1**/n

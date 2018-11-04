@@ -1,0 +1,3 @@
+Boulderfist Ogre*Kill Command*Silverback Patriarch*Stonetusk Boar*Reckless Rocketeer*Sen'jin Shieldmasta*Nightblade*War Golem*Nightblade*Frostwolf Grunt*Stormwind Knight*Stonetusk Boar*Ironforge Rifleman*Oasis Snapjaw*Arcane Shot*Core Hound*Dalaran Mage*Houndmaster*Goldshire Footman*Tracking*Multi-Shot*Boulderfist Ogre*Animal Companion*Dalaran Mage*Bluegill Warrior*Magma Rager*Novice Engineer*Magma Rager*Kill Command*Elven Archer*
+GPUID:0-31 Game Deck:31: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-16& turns:13 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[The Coin]*1**[Kill Command]*1**[Novice Engineer]*1**[Nightblade]*1**/n

@@ -1,0 +1,3 @@
+Kobold Geomancer*Archmage*Raid Leader*Archmage*Shattered Sun Cleric*Voodoo Doctor*Arcane Shot*Houndmaster*Wolfrider*Houndmaster*War Golem*Magma Rager*Kobold Geomancer*Ironforge Rifleman*Stonetusk Boar*Novice Engineer*Silverback Patriarch*Oasis Snapjaw*Shattered Sun Cleric*Animal Companion*Gnomish Inventor*Arcane Shot*Raid Leader*Animal Companion*Magma Rager*Bloodfen Raptor*Wolfrider*Core Hound*Voodoo Doctor*Murloc Tidehunter*
+GPUID:0-78 Game Deck:78: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:19& turns:13 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Stonetusk Boar]*1**[Voodoo Doctor]*2**[Shattered Sun Cleric]*1**[Wolfrider]*1**[Kobold Geomancer]*1**/n

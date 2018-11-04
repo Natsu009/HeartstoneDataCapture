@@ -1,0 +1,3 @@
+Boulderfist Ogre*Stormwind Knight*Novice Engineer*Goldshire Footman*Hunter's Mark*Core Hound*War Golem*Darkscale Healer*Frostwolf Grunt*Core Hound*Razorfen Hunter*Grimscale Oracle*Ironfur Grizzly*Frostwolf Grunt*Gnomish Inventor*Ironfur Grizzly*Gnomish Inventor*Ogre Magi*Frostwolf Warlord*Murloc Raider*Starving Buzzard*Dalaran Mage*Hunter's Mark*Frostwolf Warlord*Shattered Sun Cleric*Murloc Raider*Starving Buzzard*Houndmaster*Murloc Tidehunter*Timber Wolf*
+GPUID:0-85 Game Deck:85: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-17& turns:13 and average time of game (hh:mm:ss) = 00:00:04Time taken:00:00:04
+[The Coin]*1**[Murloc Raider]*2**[Darkscale Healer]*1**[Timber Wolf]*1**[Starving Buzzard]*1**/n
