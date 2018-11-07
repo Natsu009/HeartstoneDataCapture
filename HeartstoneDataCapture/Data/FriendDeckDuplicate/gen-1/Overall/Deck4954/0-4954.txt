@@ -1,0 +1,3 @@
+Archmage*Elven Archer*Stormpike Commando*Hunter's Mark*Acidic Swamp Ooze*Boulderfist Ogre*Sen'jin Shieldmasta*Stormpike Commando*Nightblade*Ogre Magi*Starving Buzzard*War Golem*Oasis Snapjaw*Murloc Tidehunter*Acidic Swamp Ooze*Arcane Shot*Multi-Shot*Murloc Tidehunter*Raid Leader*Ironfur Grizzly*Murloc Raider*Ogre Magi*Houndmaster*War Golem*Timber Wolf*Ironforge Rifleman*Core Hound*Tracking*Lord of the Arena*Wolfrider*
+GPUID:0-4954 Game Deck:4954: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-8& turns:17 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[Arcane Shot]*1**[Ironfur Grizzly]*1**[The Coin]*1**[Ironforge Rifleman]*1**[Ogre Magi]*1**[Stormpike Commando]*2**[Acidic Swamp Ooze]*1**/n

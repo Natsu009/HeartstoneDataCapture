@@ -1,0 +1,3 @@
+Core Hound*Frostwolf Warlord*Dragonling Mechanic*Reckless Rocketeer*Raid Leader*Magma Rager*Ironforge Rifleman*Grimscale Oracle*Bluegill Warrior*Frostwolf Warlord*Murloc Tidehunter*Voodoo Doctor*Sen'jin Shieldmasta*War Golem*Goldshire Footman*River Crocolisk*Starving Buzzard*Ogre Magi*Core Hound*Boulderfist Ogre*Bluegill Warrior*Gurubashi Berserker*Hunter's Mark*Goldshire Footman*Timber Wolf*Chillwind Yeti*Wolfrider*Kobold Geomancer*Multi-Shot*Nightblade*
+GPUID:0-7217 Game Deck:7217: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-18& turns:13 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[The Coin]*1**[Ogre Magi]*1**[Gurubashi Berserker]*1**/n

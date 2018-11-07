@@ -1,0 +1,3 @@
+Raid Leader*Bloodfen Raptor*Nightblade*Tracking*Murloc Raider*Frostwolf Grunt*Arcane Shot*Starving Buzzard*Reckless Rocketeer*Shattered Sun Cleric*Lord of the Arena*Novice Engineer*Reckless Rocketeer*Arcane Shot*Animal Companion*Core Hound*River Crocolisk*Goldshire Footman*River Crocolisk*Gnomish Inventor*Tracking*Booty Bay Bodyguard*Acidic Swamp Ooze*Darkscale Healer*Archmage*Magma Rager*Voodoo Doctor*Murloc Tidehunter*Nightblade*Stonetusk Boar*
+GPUID:0-94 Game Deck:94: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-11& turns:13 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[The Coin]*1**[River Crocolisk]*1**[Nightblade]*1**[Reckless Rocketeer]*1**/n

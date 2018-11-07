@@ -1,0 +1,3 @@
+War Golem*War Golem*Dalaran Mage*Archmage*Stonetusk Boar*Kill Command*Bloodfen Raptor*Voodoo Doctor*Nightblade*Magma Rager*Gnomish Inventor*Raid Leader*Timber Wolf*Ogre Magi*Goldshire Footman*Acidic Swamp Ooze*Starving Buzzard*Frostwolf Grunt*Booty Bay Bodyguard*Kobold Geomancer*Gnomish Inventor*Magma Rager*Starving Buzzard*Animal Companion*Razorfen Hunter*Razorfen Hunter*Bluegill Warrior*Gurubashi Berserker*Grimscale Oracle*Oasis Snapjaw*
+GPUID:0-5768 Game Deck:5768: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-5& turns:16 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[Stonetusk Boar]*1**[Nightblade]*1**[Goldshire Footman]*1**[Starving Buzzard]*1**[Ogre Magi]*1**[Grimscale Oracle]*1**/n

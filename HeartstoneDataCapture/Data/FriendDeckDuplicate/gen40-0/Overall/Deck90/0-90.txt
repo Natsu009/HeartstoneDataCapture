@@ -1,0 +1,3 @@
+Murloc Tidehunter*Bloodfen Raptor*Arcane Shot*Goldshire Footman*River Crocolisk*Hunter's Mark*Tundra Rhino*Booty Bay Bodyguard*War Golem*Wolfrider*Novice Engineer*Grimscale Oracle*Boulderfist Ogre*Animal Companion*Novice Engineer*Dalaran Mage*Bloodfen Raptor*Acidic Swamp Ooze*Oasis Snapjaw*Acidic Swamp Ooze*Starving Buzzard*Goldshire Footman*Frostwolf Warlord*Frostwolf Grunt*Kill Command*Raid Leader*Reckless Rocketeer*Kill Command*Tracking*Archmage*
+GPUID:0-90 Game Deck:90: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:17& turns:11 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[Grimscale Oracle]*1**[Acidic Swamp Ooze]*2**[Wolfrider]*1**[Frostwolf Grunt]*1**[Arcane Shot]*1**/n

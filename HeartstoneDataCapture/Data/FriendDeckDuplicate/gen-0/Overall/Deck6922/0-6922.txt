@@ -1,0 +1,3 @@
+Razorfen Hunter*Starving Buzzard*Gnomish Inventor*Novice Engineer*Stormpike Commando*Wolfrider*Lord of the Arena*Voodoo Doctor*Core Hound*Hunter's Mark*Gnomish Inventor*Tracking*Ironfur Grizzly*Archmage*Magma Rager*Wolfrider*Novice Engineer*River Crocolisk*Elven Archer*Murloc Tidehunter*Elven Archer*Hunter's Mark*Archmage*Murloc Raider*Ogre Magi*Stonetusk Boar*Arcane Shot*Voodoo Doctor*Multi-Shot*Darkscale Healer*
+GPUID:0-6922 Game Deck:6922: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:18& turns:15 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Stonetusk Boar]*1**[Arcane Shot]*1**[Novice Engineer]*1**[Wolfrider]*1**[Lord of the Arena]*1**[Murloc Tidehunter]*1**[Darkscale Healer]*1**/n

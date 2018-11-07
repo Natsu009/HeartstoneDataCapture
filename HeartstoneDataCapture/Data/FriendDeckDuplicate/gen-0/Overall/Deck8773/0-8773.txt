@@ -1,0 +1,3 @@
+Bloodfen Raptor*Starving Buzzard*War Golem*Stormwind Knight*Razorfen Hunter*Silverback Patriarch*Oasis Snapjaw*Stormwind Knight*Silverback Patriarch*Wolfrider*Starving Buzzard*Frostwolf Grunt*Booty Bay Bodyguard*Gnomish Inventor*Chillwind Yeti*Magma Rager*Goldshire Footman*Core Hound*Lord of the Arena*Tundra Rhino*Nightblade*Bluegill Warrior*War Golem*Archmage*Darkscale Healer*Chillwind Yeti*Reckless Rocketeer*Elven Archer*Kill Command*Core Hound*
+GPUID:0-8773 Game Deck:8773: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:14& turns:15 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[Stormwind Knight]*1**[Bluegill Warrior]*1**[Magma Rager]*1**[Silverback Patriarch]*1**[Chillwind Yeti]*1**/n

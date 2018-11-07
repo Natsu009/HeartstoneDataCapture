@@ -1,0 +1,3 @@
+Chillwind Yeti*Acidic Swamp Ooze*Multi-Shot*Gurubashi Berserker*River Crocolisk*Tundra Rhino*Silverback Patriarch*Stonetusk Boar*Tracking*Animal Companion*Multi-Shot*Reckless Rocketeer*Ogre Magi*Bluegill Warrior*Razorfen Hunter*Stormwind Knight*Magma Rager*Stormpike Commando*Novice Engineer*Timber Wolf*Raid Leader*Bluegill Warrior*Wolfrider*Tundra Rhino*Dragonling Mechanic*Bloodfen Raptor*Acidic Swamp Ooze*Nightblade*Stormwind Champion*Core Hound*
+GPUID:0-3014 Game Deck:3014: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-4& turns:17 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[The Coin]*1**[Stormwind Knight]*1**[Nightblade]*1**[Reckless Rocketeer]*1**[Tundra Rhino]*1**[Timber Wolf]*1**/n

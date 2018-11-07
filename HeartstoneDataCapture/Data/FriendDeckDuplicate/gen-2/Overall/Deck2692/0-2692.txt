@@ -1,0 +1,3 @@
+Gurubashi Berserker*Gnomish Inventor*Wolfrider*Wolfrider*Houndmaster*Grimscale Oracle*War Golem*Murloc Raider*Acidic Swamp Ooze*Animal Companion*Kill Command*Starving Buzzard*Stonetusk Boar*Silverback Patriarch*Murloc Raider*Frostwolf Warlord*Starving Buzzard*Bluegill Warrior*Shattered Sun Cleric*Tundra Rhino*Dalaran Mage*Chillwind Yeti*Ogre Magi*Darkscale Healer*Goldshire Footman*Silverback Patriarch*Core Hound*Darkscale Healer*Dragonling Mechanic*Tundra Rhino*
+GPUID:0-2692 Game Deck:2692: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-10& turns:15 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[The Coin]*1**[Murloc Raider]*1**[Gnomish Inventor]*1**[Tundra Rhino]*1**[Starving Buzzard]*1**/n

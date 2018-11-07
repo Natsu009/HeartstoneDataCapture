@@ -1,0 +1,3 @@
+Boulderfist Ogre*Kill Command*Chillwind Yeti*Core Hound*Darkscale Healer*Archmage*Grimscale Oracle*Elven Archer*Acidic Swamp Ooze*Lord of the Arena*Tracking*Multi-Shot*Stonetusk Boar*Elven Archer*Multi-Shot*Chillwind Yeti*Stormwind Knight*Grimscale Oracle*Core Hound*Tracking*Bluegill Warrior*Dalaran Mage*Starving Buzzard*Boulderfist Ogre*Gnomish Inventor*Silverback Patriarch*Darkscale Healer*Murloc Raider*Acidic Swamp Ooze*Ironforge Rifleman*
+GPUID:0-7 Game Deck:7: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-17& turns:15 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[The Coin]*1**[Acidic Swamp Ooze]*1**[Silverback Patriarch]*1**[Multi-Shot]*1**[Lord of the Arena]*1**/n

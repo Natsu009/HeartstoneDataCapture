@@ -1,0 +1,3 @@
+Elven Archer*Houndmaster*Wolfrider*Stormwind Champion*Boulderfist Ogre*Multi-Shot*Razorfen Hunter*Arcane Shot*Oasis Snapjaw*Timber Wolf*Sen'jin Shieldmasta*Goldshire Footman*Nightblade*Bloodfen Raptor*Sen'jin Shieldmasta*Oasis Snapjaw*Kobold Geomancer*Core Hound*Ironfur Grizzly*Tundra Rhino*Lord of the Arena*Ironfur Grizzly*Murloc Tidehunter*Acidic Swamp Ooze*Stormwind Knight*Lord of the Arena*Archmage*Dragonling Mechanic*War Golem*Animal Companion*
+GPUID:0-5883 Game Deck:5883: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:11& turns:17 and average time of game (hh:mm:ss) = 00:00:05Time taken:00:00:05
+[Arcane Shot]*1**[Acidic Swamp Ooze]*1**[Bloodfen Raptor]*1**[Oasis Snapjaw]*2**[Archmage]*1**/n

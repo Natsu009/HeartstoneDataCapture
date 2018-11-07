@@ -1,0 +1,3 @@
+Ironforge Rifleman*Tundra Rhino*Gnomish Inventor*Nightblade*Reckless Rocketeer*River Crocolisk*Stormpike Commando*Core Hound*Houndmaster*Archmage*Core Hound*Voodoo Doctor*Oasis Snapjaw*Magma Rager*War Golem*Ironforge Rifleman*Kobold Geomancer*Darkscale Healer*Acidic Swamp Ooze*Acidic Swamp Ooze*Murloc Raider*Reckless Rocketeer*Magma Rager*Kill Command*Booty Bay Bodyguard*Bluegill Warrior*Frostwolf Warlord*Nightblade*Bloodfen Raptor*Booty Bay Bodyguard*
+GPUID:0-7802 Game Deck:7802: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-4& turns:15 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[The Coin]*1**[Acidic Swamp Ooze]*1**[Kobold Geomancer]*1**[Gnomish Inventor]*1**[Nightblade]*1**/n

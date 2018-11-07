@@ -1,0 +1,3 @@
+Reckless Rocketeer*Wolfrider*Hunter's Mark*Oasis Snapjaw*Multi-Shot*Dragonling Mechanic*Bluegill Warrior*Darkscale Healer*Reckless Rocketeer*Chillwind Yeti*Oasis Snapjaw*Timber Wolf*Stormpike Commando*River Crocolisk*Core Hound*Goldshire Footman*Frostwolf Warlord*Bloodfen Raptor*Bloodfen Raptor*Animal Companion*Darkscale Healer*Dragonling Mechanic*Stormwind Knight*Magma Rager*Frostwolf Grunt*Tundra Rhino*Ironforge Rifleman*Kill Command*Timber Wolf*Kill Command*
+GPUID:0-7997 Game Deck:7997: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-16& turns:15 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[The Coin]*1**[Goldshire Footman]*1**[Bloodfen Raptor]*1**[Kill Command]*1**[Stormpike Commando]*1**/n

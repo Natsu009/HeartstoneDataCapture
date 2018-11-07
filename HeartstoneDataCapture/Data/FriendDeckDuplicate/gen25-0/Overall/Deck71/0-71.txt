@@ -1,0 +1,3 @@
+Razorfen Hunter*Gnomish Inventor*Magma Rager*Ironfur Grizzly*Oasis Snapjaw*Tracking*Core Hound*Elven Archer*Lord of the Arena*Frostwolf Grunt*Timber Wolf*Timber Wolf*Arcane Shot*Nightblade*Dragonling Mechanic*Raid Leader*Multi-Shot*Chillwind Yeti*Booty Bay Bodyguard*Kobold Geomancer*Silverback Patriarch*Darkscale Healer*Booty Bay Bodyguard*Dalaran Mage*Bloodfen Raptor*Tundra Rhino*Frostwolf Warlord*Nightblade*Tundra Rhino*Murloc Raider*
+GPUID:0-71 Game Deck:71: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-22& turns:9 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[Arcane Shot]*1**[The Coin]*1**[Magma Rager]*1**/n

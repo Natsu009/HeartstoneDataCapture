@@ -1,0 +1,3 @@
+Gurubashi Berserker*Stormwind Knight*Houndmaster*Bluegill Warrior*Gurubashi Berserker*Ogre Magi*Houndmaster*Grimscale Oracle*Animal Companion*Kill Command*Hunter's Mark*Bloodfen Raptor*Dragonling Mechanic*Dragonling Mechanic*War Golem*War Golem*Novice Engineer*Stormpike Commando*Stonetusk Boar*Tracking*Razorfen Hunter*Timber Wolf*Starving Buzzard*Tracking*Raid Leader*Ogre Magi*Chillwind Yeti*Ironforge Rifleman*Booty Bay Bodyguard*Hunter's Mark*
+GPUID:0-5599 Game Deck:5599: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-20& turns:13 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[The Coin]*1**[Ironforge Rifleman]*1**[Booty Bay Bodyguard]*1**[Tracking]*1**[Stormpike Commando]*1**/n

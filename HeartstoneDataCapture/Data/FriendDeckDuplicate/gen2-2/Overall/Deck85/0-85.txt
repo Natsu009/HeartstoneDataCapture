@@ -1,0 +1,3 @@
+Acidic Swamp Ooze*Novice Engineer*Kobold Geomancer*Grimscale Oracle*Murloc Tidehunter*Reckless Rocketeer*Dragonling Mechanic*Raid Leader*Houndmaster*Boulderfist Ogre*Gnomish Inventor*Frostwolf Warlord*Starving Buzzard*Frostwolf Warlord*Kobold Geomancer*Hunter's Mark*Voodoo Doctor*Silverback Patriarch*Lord of the Arena*Ironfur Grizzly*Wolfrider*Murloc Tidehunter*Archmage*Murloc Raider*Elven Archer*Boulderfist Ogre*Booty Bay Bodyguard*Raid Leader*Ironforge Rifleman*Gurubashi Berserker*
+GPUID:0-85 Game Deck:85: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:16& turns:13 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Grimscale Oracle]*1**[Raid Leader]*1**[Kobold Geomancer]*2**[Archmage]*1**/n

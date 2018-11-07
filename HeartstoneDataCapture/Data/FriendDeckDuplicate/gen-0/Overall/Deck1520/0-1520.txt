@@ -1,0 +1,3 @@
+Frostwolf Grunt*Novice Engineer*Elven Archer*Animal Companion*Raid Leader*Core Hound*Elven Archer*Dragonling Mechanic*Chillwind Yeti*Oasis Snapjaw*Ironforge Rifleman*Voodoo Doctor*Darkscale Healer*Raid Leader*Tundra Rhino*River Crocolisk*Ogre Magi*Booty Bay Bodyguard*Stormwind Knight*Sen'jin Shieldmasta*Grimscale Oracle*Tracking*Ironforge Rifleman*Nightblade*Reckless Rocketeer*Ogre Magi*Lord of the Arena*Booty Bay Bodyguard*Stormwind Champion*Bluegill Warrior*
+GPUID:0-1520 Game Deck:1520: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:13& turns:15 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Stormwind Knight]*1**[Ironforge Rifleman]*2**[Raid Leader]*1**[Sen'jin Shieldmasta]*1**/n

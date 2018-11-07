@@ -1,0 +1,3 @@
+Timber Wolf*Voodoo Doctor*Nightblade*Tracking*Multi-Shot*Kill Command*Dalaran Mage*Oasis Snapjaw*Ironforge Rifleman*Core Hound*Arcane Shot*Oasis Snapjaw*Lord of the Arena*Dalaran Mage*Booty Bay Bodyguard*Novice Engineer*Bluegill Warrior*Arcane Shot*Bluegill Warrior*Kill Command*Reckless Rocketeer*Boulderfist Ogre*Gnomish Inventor*Timber Wolf*Grimscale Oracle*Frostwolf Warlord*Elven Archer*Core Hound*Sen'jin Shieldmasta*Voodoo Doctor*
+GPUID:0-547 Game Deck:547: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-7& turns:15 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[Arcane Shot]*2**[The Coin]*1**[Kill Command]*2**[Nightblade]*1**[Frostwolf Warlord]*1**/n

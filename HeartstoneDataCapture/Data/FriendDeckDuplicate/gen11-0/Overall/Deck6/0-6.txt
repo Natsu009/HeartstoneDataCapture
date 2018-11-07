@@ -1,0 +1,3 @@
+Murloc Raider*Acidic Swamp Ooze*Magma Rager*Novice Engineer*Oasis Snapjaw*Bloodfen Raptor*Oasis Snapjaw*Goldshire Footman*Murloc Raider*Shattered Sun Cleric*Kill Command*Archmage*Murloc Tidehunter*Darkscale Healer*Core Hound*Grimscale Oracle*Novice Engineer*Stormwind Knight*Stormwind Champion*Lord of the Arena*Darkscale Healer*River Crocolisk*Timber Wolf*Sen'jin Shieldmasta*Elven Archer*Stormwind Knight*Wolfrider*Houndmaster*Dragonling Mechanic*Starving Buzzard*
+GPUID:0-6 Game Deck:6: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-21& turns:13 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[The Coin]*1**[Elven Archer]*1**[Kill Command]*1**[Darkscale Healer]*1**[Novice Engineer]*1**[Timber Wolf]*1**/n

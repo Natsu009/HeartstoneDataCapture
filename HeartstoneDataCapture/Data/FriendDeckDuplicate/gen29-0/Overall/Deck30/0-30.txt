@@ -1,0 +1,3 @@
+Grimscale Oracle*Frostwolf Warlord*Ironforge Rifleman*Darkscale Healer*Ironforge Rifleman*Stonetusk Boar*Frostwolf Warlord*Timber Wolf*Bloodfen Raptor*Oasis Snapjaw*Wolfrider*Multi-Shot*Elven Archer*Boulderfist Ogre*Houndmaster*Dragonling Mechanic*Acidic Swamp Ooze*Elven Archer*Arcane Shot*Starving Buzzard*Sen'jin Shieldmasta*Chillwind Yeti*Starving Buzzard*Wolfrider*Tracking*Grimscale Oracle*Multi-Shot*Murloc Raider*Chillwind Yeti*Goldshire Footman*
+GPUID:0-30 Game Deck:30: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-14& turns:14 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[Arcane Shot]*1**[Stonetusk Boar]*1**[Ironforge Rifleman]*1**[Houndmaster]*1**[Boulderfist Ogre]*1**[Goldshire Footman]*1**/n

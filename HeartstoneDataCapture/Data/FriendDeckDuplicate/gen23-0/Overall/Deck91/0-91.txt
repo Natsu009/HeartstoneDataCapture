@@ -1,0 +1,3 @@
+Houndmaster*Bloodfen Raptor*Gnomish Inventor*Lord of the Arena*Kill Command*Core Hound*Acidic Swamp Ooze*Gurubashi Berserker*Razorfen Hunter*Gurubashi Berserker*Starving Buzzard*Tundra Rhino*Sen'jin Shieldmasta*Archmage*Gnomish Inventor*Darkscale Healer*Dalaran Mage*Dragonling Mechanic*River Crocolisk*Booty Bay Bodyguard*Frostwolf Warlord*Wolfrider*Murloc Raider*Murloc Tidehunter*Arcane Shot*Houndmaster*Oasis Snapjaw*Nightblade*War Golem*Arcane Shot*
+GPUID:0-91 Game Deck:91: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-11& turns:16 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[Arcane Shot]*2**[Tundra Rhino]*1**[Oasis Snapjaw]*1**[Dragonling Mechanic]*1**[Booty Bay Bodyguard]*1**[Murloc Raider]*1**/n

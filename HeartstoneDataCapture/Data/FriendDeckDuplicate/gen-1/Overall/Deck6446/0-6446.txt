@@ -1,0 +1,3 @@
+Razorfen Hunter*Frostwolf Grunt*Timber Wolf*Stormwind Champion*Timber Wolf*Chillwind Yeti*Murloc Raider*Multi-Shot*Ironfur Grizzly*Hunter's Mark*Booty Bay Bodyguard*Gnomish Inventor*Razorfen Hunter*Lord of the Arena*Core Hound*Boulderfist Ogre*Frostwolf Warlord*Acidic Swamp Ooze*War Golem*Ironfur Grizzly*Multi-Shot*Frostwolf Grunt*Kill Command*Voodoo Doctor*Animal Companion*Wolfrider*Kill Command*Lord of the Arena*Grimscale Oracle*Chillwind Yeti*
+GPUID:0-6446 Game Deck:6446: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-16& turns:14 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Kill Command]*1**[Hunter's Mark]*1**[Wolfrider]*1**[Voodoo Doctor]*1**[Frostwolf Grunt]*1**[Frostwolf Warlord]*1**/n

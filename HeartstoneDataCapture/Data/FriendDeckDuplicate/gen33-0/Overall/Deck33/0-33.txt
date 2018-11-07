@@ -1,0 +1,3 @@
+War Golem*Hunter's Mark*Novice Engineer*Sen'jin Shieldmasta*Multi-Shot*Sen'jin Shieldmasta*Shattered Sun Cleric*Razorfen Hunter*Tracking*Bloodfen Raptor*Arcane Shot*Stormpike Commando*Ironfur Grizzly*Kobold Geomancer*Booty Bay Bodyguard*Grimscale Oracle*Acidic Swamp Ooze*Stormwind Knight*Tundra Rhino*Darkscale Healer*Animal Companion*Gurubashi Berserker*War Golem*Archmage*Ironfur Grizzly*Reckless Rocketeer*Tracking*Archmage*Silverback Patriarch*Elven Archer*
+GPUID:0-33 Game Deck:33: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:13& turns:13 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Animal Companion]*1**[Sen'jin Shieldmasta]*1**[Tracking]*1**[Bloodfen Raptor]*1**[Stormpike Commando]*1**/n

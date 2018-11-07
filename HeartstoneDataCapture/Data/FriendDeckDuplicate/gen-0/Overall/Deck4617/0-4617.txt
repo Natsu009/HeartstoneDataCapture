@@ -1,0 +1,3 @@
+Murloc Tidehunter*Tracking*Bloodfen Raptor*Archmage*Reckless Rocketeer*Boulderfist Ogre*Razorfen Hunter*Murloc Raider*River Crocolisk*Ironforge Rifleman*Booty Bay Bodyguard*Booty Bay Bodyguard*Multi-Shot*Stonetusk Boar*Starving Buzzard*Houndmaster*Frostwolf Grunt*Chillwind Yeti*War Golem*Silverback Patriarch*Razorfen Hunter*Novice Engineer*Dragonling Mechanic*War Golem*Reckless Rocketeer*Gurubashi Berserker*Bloodfen Raptor*Stonetusk Boar*Lord of the Arena*Darkscale Healer*
+GPUID:0-4617 Game Deck:4617: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-21& turns:12 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Stonetusk Boar]*1**[Ironforge Rifleman]*1**[Booty Bay Bodyguard]*1**/n

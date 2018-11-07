@@ -1,0 +1,3 @@
+Wolfrider*Goldshire Footman*Chillwind Yeti*Dragonling Mechanic*Gurubashi Berserker*Acidic Swamp Ooze*Kobold Geomancer*Stormwind Knight*Frostwolf Warlord*War Golem*Murloc Tidehunter*War Golem*Gnomish Inventor*Silverback Patriarch*Dalaran Mage*Nightblade*Multi-Shot*Stormwind Champion*Stormwind Knight*Goldshire Footman*Multi-Shot*Booty Bay Bodyguard*Novice Engineer*Acidic Swamp Ooze*River Crocolisk*Reckless Rocketeer*Tundra Rhino*Darkscale Healer*Magma Rager*Raid Leader*
+GPUID:0-4838 Game Deck:4838: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:15& turns:13 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[Goldshire Footman]*1**[Raid Leader]*1**[Reckless Rocketeer]*1**[Dragonling Mechanic]*1**/n

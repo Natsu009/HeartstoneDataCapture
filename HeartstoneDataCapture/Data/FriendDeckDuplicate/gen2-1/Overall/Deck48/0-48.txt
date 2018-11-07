@@ -1,0 +1,3 @@
+Silverback Patriarch*Chillwind Yeti*Murloc Raider*Murloc Tidehunter*Wolfrider*Ironfur Grizzly*Bloodfen Raptor*Goldshire Footman*Acidic Swamp Ooze*Nightblade*Stormpike Commando*Shattered Sun Cleric*Magma Rager*Darkscale Healer*Animal Companion*Frostwolf Grunt*Kill Command*Bluegill Warrior*Stormwind Champion*Murloc Tidehunter*Oasis Snapjaw*Silverback Patriarch*Bluegill Warrior*Tundra Rhino*Multi-Shot*Animal Companion*Razorfen Hunter*Kill Command*River Crocolisk*Razorfen Hunter*
+GPUID:0-48 Game Deck:48: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-19& turns:13 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[The Coin]*1**[Bluegill Warrior]*1**[Kill Command]*1**[Stormpike Commando]*1**/n

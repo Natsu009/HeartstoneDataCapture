@@ -1,0 +1,3 @@
+Tracking*Murloc Tidehunter*Murloc Tidehunter*Sen'jin Shieldmasta*Murloc Raider*Stormwind Knight*Lord of the Arena*Stormwind Knight*Ironfur Grizzly*Oasis Snapjaw*Wolfrider*Frostwolf Grunt*Timber Wolf*Oasis Snapjaw*Lord of the Arena*Animal Companion*Shattered Sun Cleric*Hunter's Mark*Archmage*Archmage*Stormwind Champion*Timber Wolf*Darkscale Healer*Bluegill Warrior*Frostwolf Warlord*Murloc Raider*Frostwolf Grunt*Ogre Magi*Kobold Geomancer*Hunter's Mark*
+GPUID:0-68 Game Deck:68: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-20& turns:13 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[The Coin]*1**[Timber Wolf]*1**[Murloc Tidehunter]*1**/n

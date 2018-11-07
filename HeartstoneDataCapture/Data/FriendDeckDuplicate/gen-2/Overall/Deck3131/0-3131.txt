@@ -1,0 +1,3 @@
+Ogre Magi*Tundra Rhino*Tracking*Boulderfist Ogre*Kobold Geomancer*Lord of the Arena*Frostwolf Grunt*Voodoo Doctor*Archmage*Boulderfist Ogre*Goldshire Footman*Raid Leader*Starving Buzzard*River Crocolisk*Darkscale Healer*Magma Rager*Starving Buzzard*Kobold Geomancer*Reckless Rocketeer*Dalaran Mage*Tundra Rhino*War Golem*Chillwind Yeti*Archmage*Booty Bay Bodyguard*Stormwind Champion*Silverback Patriarch*Stonetusk Boar*Lord of the Arena*Bluegill Warrior*
+GPUID:0-3131 Game Deck:3131: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:11& turns:15 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[Kobold Geomancer]*1**[Ogre Magi]*1**[River Crocolisk]*1**[Frostwolf Grunt]*1**[Stormwind Champion]*1**[Archmage]*1**/n

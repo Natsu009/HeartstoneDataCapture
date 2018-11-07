@@ -1,0 +1,3 @@
+Nightblade*Shattered Sun Cleric*Magma Rager*Animal Companion*Magma Rager*Kobold Geomancer*Core Hound*Frostwolf Warlord*Timber Wolf*Nightblade*Lord of the Arena*Chillwind Yeti*Frostwolf Grunt*Timber Wolf*Stormwind Champion*Bluegill Warrior*War Golem*Sen'jin Shieldmasta*Ogre Magi*War Golem*Chillwind Yeti*Silverback Patriarch*Arcane Shot*Oasis Snapjaw*Hunter's Mark*Darkscale Healer*Houndmaster*Multi-Shot*Razorfen Hunter*Razorfen Hunter*
+GPUID:0-1996 Game Deck:1996: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:11& turns:17 and average time of game (hh:mm:ss) = 00:00:04Time taken:00:00:04
+[Magma Rager]*2**[Hunter's Mark]*1**[Core Hound]*1**[Razorfen Hunter]*1**[Houndmaster]*1**[Timber Wolf]*1**/n

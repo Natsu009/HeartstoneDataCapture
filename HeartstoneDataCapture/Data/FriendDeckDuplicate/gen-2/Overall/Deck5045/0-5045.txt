@@ -1,0 +1,3 @@
+Reckless Rocketeer*Ironfur Grizzly*Razorfen Hunter*Ironfur Grizzly*Chillwind Yeti*Ironforge Rifleman*Murloc Raider*Chillwind Yeti*Core Hound*Booty Bay Bodyguard*Frostwolf Warlord*Timber Wolf*Bluegill Warrior*Stormpike Commando*Silverback Patriarch*Tracking*Dalaran Mage*Kobold Geomancer*Novice Engineer*Animal Companion*Tracking*Grimscale Oracle*Dalaran Mage*Nightblade*Frostwolf Warlord*Reckless Rocketeer*Murloc Raider*Dragonling Mechanic*Boulderfist Ogre*Houndmaster*
+GPUID:0-5045 Game Deck:5045: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-18& turns:15 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[The Coin]*1**[Animal Companion]*1**[Ironforge Rifleman]*1**[Houndmaster]*1**[Dalaran Mage]*1**/n

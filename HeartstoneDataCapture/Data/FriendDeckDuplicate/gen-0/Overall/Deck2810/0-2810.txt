@@ -1,0 +1,3 @@
+Stormwind Knight*Ironfur Grizzly*Kobold Geomancer*Tracking*Boulderfist Ogre*Houndmaster*Lord of the Arena*Bloodfen Raptor*Ironforge Rifleman*Gnomish Inventor*Archmage*Starving Buzzard*Magma Rager*Magma Rager*Bloodfen Raptor*Stormwind Champion*Gnomish Inventor*Stonetusk Boar*Boulderfist Ogre*Timber Wolf*Voodoo Doctor*Booty Bay Bodyguard*Bluegill Warrior*Kobold Geomancer*Arcane Shot*Stormpike Commando*Reckless Rocketeer*Murloc Tidehunter*Ogre Magi*Razorfen Hunter*
+GPUID:0-2810 Game Deck:2810: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:16& turns:13 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[Voodoo Doctor]*1**[Kobold Geomancer]*1**[Magma Rager]*1**[Ogre Magi]*1**[Stormwind Champion]*1**/n

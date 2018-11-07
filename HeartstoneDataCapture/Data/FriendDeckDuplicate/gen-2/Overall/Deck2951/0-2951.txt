@@ -1,0 +1,3 @@
+Bloodfen Raptor*Ironforge Rifleman*Grimscale Oracle*Acidic Swamp Ooze*Tundra Rhino*Frostwolf Warlord*Stormwind Champion*Ogre Magi*Arcane Shot*Novice Engineer*Silverback Patriarch*Sen'jin Shieldmasta*Nightblade*Stormwind Knight*Silverback Patriarch*Razorfen Hunter*Elven Archer*Murloc Tidehunter*Arcane Shot*Raid Leader*Stonetusk Boar*Houndmaster*Bloodfen Raptor*Core Hound*Goldshire Footman*Multi-Shot*Goldshire Footman*Nightblade*Gnomish Inventor*Frostwolf Grunt*
+GPUID:0-2951 Game Deck:2951: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-15& turns:15 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[The Coin]*1**[Stonetusk Boar]*1**[Frostwolf Grunt]*1**[Nightblade]*1**[Houndmaster]*1**/n

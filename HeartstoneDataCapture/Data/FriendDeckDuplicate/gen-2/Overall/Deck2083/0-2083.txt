@@ -1,0 +1,3 @@
+Ogre Magi*Stonetusk Boar*Boulderfist Ogre*Ogre Magi*Bluegill Warrior*Sen'jin Shieldmasta*Stonetusk Boar*Lord of the Arena*Murloc Tidehunter*Arcane Shot*Nightblade*Multi-Shot*River Crocolisk*Gurubashi Berserker*Bluegill Warrior*Murloc Raider*Houndmaster*Stormpike Commando*Hunter's Mark*War Golem*Sen'jin Shieldmasta*Stormwind Champion*Gurubashi Berserker*Kobold Geomancer*Animal Companion*Ironforge Rifleman*Murloc Tidehunter*Dalaran Mage*Dalaran Mage*Core Hound*
+GPUID:0-2083 Game Deck:2083: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-14& turns:15 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[The Coin]*1**[Stonetusk Boar]*1**[River Crocolisk]*1**[Multi-Shot]*1**/n

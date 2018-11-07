@@ -1,0 +1,3 @@
+River Crocolisk*Dragonling Mechanic*Kill Command*Murloc Tidehunter*Stormwind Knight*Houndmaster*War Golem*Timber Wolf*Oasis Snapjaw*Murloc Tidehunter*Animal Companion*Razorfen Hunter*Silverback Patriarch*Magma Rager*Gnomish Inventor*Stormwind Champion*Sen'jin Shieldmasta*Murloc Raider*Sen'jin Shieldmasta*Novice Engineer*Lord of the Arena*Razorfen Hunter*Acidic Swamp Ooze*Arcane Shot*Goldshire Footman*Gurubashi Berserker*Animal Companion*Murloc Raider*Nightblade*Novice Engineer*
+GPUID:0-54 Game Deck:54: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-17& turns:11 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[Arcane Shot]*1**[River Crocolisk]*1**[Nightblade]*1**/n

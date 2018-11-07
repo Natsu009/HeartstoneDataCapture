@@ -1,0 +1,3 @@
+Frostwolf Warlord*Nightblade*Houndmaster*Dalaran Mage*Stormwind Champion*Animal Companion*Bloodfen Raptor*Kobold Geomancer*Timber Wolf*Magma Rager*Frostwolf Grunt*Voodoo Doctor*Arcane Shot*Chillwind Yeti*Stormwind Champion*Voodoo Doctor*Archmage*Goldshire Footman*Dalaran Mage*Dragonling Mechanic*Archmage*Kobold Geomancer*Silverback Patriarch*Reckless Rocketeer*Dragonling Mechanic*Raid Leader*Starving Buzzard*Acidic Swamp Ooze*Lord of the Arena*Tracking*
+GPUID:0-8414 Game Deck:8414: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:5& turns:17 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Bloodfen Raptor]*1**[Frostwolf Grunt]*1**[Magma Rager]*1**[Chillwind Yeti]*1**[Stormwind Champion]*1**/n

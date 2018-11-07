@@ -1,0 +1,3 @@
+Murloc Tidehunter*Sen'jin Shieldmasta*Silverback Patriarch*Oasis Snapjaw*Goldshire Footman*Arcane Shot*Dragonling Mechanic*Gnomish Inventor*Gurubashi Berserker*Kill Command*Razorfen Hunter*Ogre Magi*Wolfrider*Frostwolf Grunt*Stormpike Commando*Ogre Magi*Frostwolf Warlord*Stormwind Knight*Lord of the Arena*Kobold Geomancer*Multi-Shot*Stormpike Commando*Starving Buzzard*Dragonling Mechanic*Oasis Snapjaw*War Golem*Darkscale Healer*Wolfrider*Gurubashi Berserker*Chillwind Yeti*
+GPUID:0-3278 Game Deck:3278: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-18& turns:11 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[The Coin]*1**[Kobold Geomancer]*1**[Kill Command]*1**/n

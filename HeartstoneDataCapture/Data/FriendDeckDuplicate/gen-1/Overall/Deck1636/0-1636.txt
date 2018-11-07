@@ -1,0 +1,3 @@
+Silverback Patriarch*Bluegill Warrior*Arcane Shot*Tracking*Frostwolf Grunt*Stormpike Commando*Acidic Swamp Ooze*War Golem*Wolfrider*Bloodfen Raptor*Frostwolf Warlord*Voodoo Doctor*Core Hound*Razorfen Hunter*Sen'jin Shieldmasta*War Golem*Frostwolf Grunt*Kill Command*Ironfur Grizzly*Nightblade*Razorfen Hunter*Core Hound*Bloodfen Raptor*Multi-Shot*Lord of the Arena*Stormpike Commando*Goldshire Footman*Boulderfist Ogre*Magma Rager*Ironfur Grizzly*
+GPUID:0-1636 Game Deck:1636: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:7& turns:15 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[Bloodfen Raptor]*2**[Ironfur Grizzly]*1**[Stormpike Commando]*1**[Magma Rager]*1**[War Golem]*1**/n

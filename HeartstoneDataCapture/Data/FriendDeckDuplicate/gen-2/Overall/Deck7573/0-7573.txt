@@ -1,0 +1,3 @@
+Bluegill Warrior*Timber Wolf*Timber Wolf*Starving Buzzard*Stonetusk Boar*Razorfen Hunter*Silverback Patriarch*Goldshire Footman*Stormwind Knight*Murloc Raider*Dragonling Mechanic*Goldshire Footman*Razorfen Hunter*Stonetusk Boar*Reckless Rocketeer*Acidic Swamp Ooze*Dragonling Mechanic*Booty Bay Bodyguard*Kill Command*Houndmaster*Novice Engineer*Frostwolf Grunt*Stormwind Knight*Sen'jin Shieldmasta*Core Hound*Animal Companion*Starving Buzzard*Darkscale Healer*War Golem*Nightblade*
+GPUID:0-7573 Game Deck:7573: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:7& turns:15 and average time of game (hh:mm:ss) = 00:00:04Time taken:00:00:04
+[Stormwind Knight]*2**[Razorfen Hunter]*1**[War Golem]*1**[Nightblade]*1**/n

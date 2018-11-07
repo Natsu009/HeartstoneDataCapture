@@ -1,0 +1,3 @@
+Kobold Geomancer*War Golem*Bloodfen Raptor*River Crocolisk*Multi-Shot*Stormpike Commando*Bluegill Warrior*Murloc Tidehunter*Reckless Rocketeer*Ironfur Grizzly*Murloc Raider*Core Hound*Animal Companion*Stormwind Champion*Booty Bay Bodyguard*Stormpike Commando*Goldshire Footman*Murloc Tidehunter*Razorfen Hunter*Elven Archer*Bloodfen Raptor*Reckless Rocketeer*Frostwolf Warlord*Animal Companion*Houndmaster*Sen'jin Shieldmasta*War Golem*Timber Wolf*Tundra Rhino*Silverback Patriarch*
+GPUID:0-2458 Game Deck:2458: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:23& turns:10 and average time of game (hh:mm:ss) = 00:00:00Time taken:00:00:00
+[The Coin]*1**[Bluegill Warrior]*1**[Animal Companion]*1**[Houndmaster]*1**/n

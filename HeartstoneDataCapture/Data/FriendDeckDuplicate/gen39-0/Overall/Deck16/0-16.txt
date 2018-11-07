@@ -1,0 +1,3 @@
+Ogre Magi*Gurubashi Berserker*Bluegill Warrior*Bloodfen Raptor*Chillwind Yeti*Nightblade*Stormwind Knight*Ogre Magi*Oasis Snapjaw*Stonetusk Boar*Grimscale Oracle*Acidic Swamp Ooze*Acidic Swamp Ooze*Archmage*Houndmaster*Murloc Tidehunter*Kobold Geomancer*Dalaran Mage*Sen'jin Shieldmasta*Elven Archer*Bloodfen Raptor*Reckless Rocketeer*Wolfrider*Stormpike Commando*Multi-Shot*Murloc Raider*Razorfen Hunter*Raid Leader*Reckless Rocketeer*Timber Wolf*
+GPUID:0-16 Game Deck:16: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:13& turns:15 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Murloc Raider]*1**[Stormwind Knight]*1**[Razorfen Hunter]*1**[Bloodfen Raptor]*1**[Houndmaster]*1**[Gurubashi Berserker]*1**/n

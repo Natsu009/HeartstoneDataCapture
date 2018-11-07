@@ -1,0 +1,3 @@
+Goldshire Footman*Ogre Magi*Tracking*Ogre Magi*Reckless Rocketeer*Starving Buzzard*Oasis Snapjaw*Houndmaster*Stormwind Champion*Chillwind Yeti*Goldshire Footman*Stonetusk Boar*Novice Engineer*Ironforge Rifleman*Stormpike Commando*Animal Companion*Lord of the Arena*Archmage*Oasis Snapjaw*Stormwind Champion*Tundra Rhino*Stonetusk Boar*Ironfur Grizzly*Voodoo Doctor*Archmage*Wolfrider*Murloc Raider*Raid Leader*Stormwind Knight*Grimscale Oracle*
+GPUID:0-32 Game Deck:32: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:20& turns:11 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[Voodoo Doctor]*1**[Stonetusk Boar]*1**[Houndmaster]*1**[Starving Buzzard]*1**[Oasis Snapjaw]*1**[Novice Engineer]*1**/n

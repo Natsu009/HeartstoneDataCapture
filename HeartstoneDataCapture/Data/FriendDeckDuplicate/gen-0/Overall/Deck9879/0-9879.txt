@@ -1,0 +1,3 @@
+Animal Companion*Booty Bay Bodyguard*Stormpike Commando*Grimscale Oracle*Murloc Tidehunter*Ironfur Grizzly*River Crocolisk*Kobold Geomancer*Magma Rager*War Golem*Darkscale Healer*Dragonling Mechanic*Shattered Sun Cleric*Gurubashi Berserker*Nightblade*Chillwind Yeti*Novice Engineer*Reckless Rocketeer*Frostwolf Warlord*Oasis Snapjaw*Stormwind Champion*Kobold Geomancer*Voodoo Doctor*Frostwolf Warlord*Boulderfist Ogre*Stormpike Commando*Shattered Sun Cleric*Nightblade*Animal Companion*Darkscale Healer*
+GPUID:0-9879 Game Deck:9879: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-15& turns:12 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[Stormpike Commando]*1**[Nightblade]*1**/n

@@ -1,0 +1,3 @@
+Oasis Snapjaw*River Crocolisk*Silverback Patriarch*Kobold Geomancer*Stormpike Commando*Reckless Rocketeer*Core Hound*Boulderfist Ogre*Razorfen Hunter*River Crocolisk*Acidic Swamp Ooze*Magma Rager*Stormwind Champion*Reckless Rocketeer*Ogre Magi*Houndmaster*Frostwolf Warlord*Gurubashi Berserker*Dalaran Mage*Wolfrider*Voodoo Doctor*Murloc Raider*Bloodfen Raptor*Magma Rager*Oasis Snapjaw*Multi-Shot*Chillwind Yeti*Ogre Magi*War Golem*Stormpike Commando*
+GPUID:0-4177 Game Deck:4177: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:16& turns:13 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[Murloc Raider]*1**[Ogre Magi]*2**[Voodoo Doctor]*1**[Oasis Snapjaw]*1**/n

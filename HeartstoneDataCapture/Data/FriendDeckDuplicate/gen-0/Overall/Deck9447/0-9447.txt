@@ -1,0 +1,3 @@
+Ironforge Rifleman*Voodoo Doctor*Archmage*Core Hound*Core Hound*Frostwolf Grunt*Frostwolf Grunt*Chillwind Yeti*Timber Wolf*Kill Command*Voodoo Doctor*Acidic Swamp Ooze*Oasis Snapjaw*Chillwind Yeti*War Golem*Nightblade*Novice Engineer*Multi-Shot*Houndmaster*Sen'jin Shieldmasta*Ironforge Rifleman*Bloodfen Raptor*Stormwind Champion*Gurubashi Berserker*Bluegill Warrior*Razorfen Hunter*Timber Wolf*Ogre Magi*Sen'jin Shieldmasta*Magma Rager*
+GPUID:0-9447 Game Deck:9447: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:14& turns:15 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Frostwolf Grunt]*1**[Nightblade]*1**[Chillwind Yeti]*1**[Ironforge Rifleman]*1**[Houndmaster]*1**/n

@@ -1,0 +1,3 @@
+Lord of the Arena*Kobold Geomancer*Arcane Shot*Wolfrider*Boulderfist Ogre*Frostwolf Warlord*Dragonling Mechanic*Murloc Tidehunter*Murloc Tidehunter*Kobold Geomancer*Dalaran Mage*Hunter's Mark*Goldshire Footman*Boulderfist Ogre*Murloc Raider*Goldshire Footman*Voodoo Doctor*Nightblade*Ogre Magi*Grimscale Oracle*Bluegill Warrior*Frostwolf Grunt*Booty Bay Bodyguard*Sen'jin Shieldmasta*Bluegill Warrior*War Golem*Nightblade*Houndmaster*Voodoo Doctor*Dalaran Mage*
+GPUID:0-4050 Game Deck:4050: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:21& turns:14 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[The Coin]*1**[Voodoo Doctor]*2**[Murloc Raider]*1**[Frostwolf Warlord]*1**[Booty Bay Bodyguard]*1**/n

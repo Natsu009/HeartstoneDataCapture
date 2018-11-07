@@ -1,0 +1,3 @@
+Stormwind Champion*Murloc Raider*Booty Bay Bodyguard*Magma Rager*Gurubashi Berserker*Sen'jin Shieldmasta*Kill Command*Frostwolf Warlord*Ironforge Rifleman*Razorfen Hunter*Houndmaster*Stonetusk Boar*Lord of the Arena*Tundra Rhino*Murloc Raider*Tracking*Animal Companion*Hunter's Mark*Voodoo Doctor*Frostwolf Grunt*Archmage*Archmage*Ogre Magi*Elven Archer*Bloodfen Raptor*Nightblade*Magma Rager*Kill Command*Animal Companion*Wolfrider*
+GPUID:0-231 Game Deck:231: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:12& turns:15 and average time of game (hh:mm:ss) = 00:00:04Time taken:00:00:04
+[Murloc Raider]*1**[Stonetusk Boar]*1**[Tundra Rhino]*1**[Ogre Magi]*1**[Stormwind Champion]*1**/n

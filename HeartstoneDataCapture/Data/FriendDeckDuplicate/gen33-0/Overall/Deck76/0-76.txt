@@ -1,0 +1,3 @@
+Gnomish Inventor*Grimscale Oracle*Razorfen Hunter*Shattered Sun Cleric*Murloc Tidehunter*Ironforge Rifleman*Raid Leader*Magma Rager*Raid Leader*Murloc Raider*Novice Engineer*Darkscale Healer*Sen'jin Shieldmasta*Novice Engineer*Razorfen Hunter*Elven Archer*Elven Archer*Bluegill Warrior*Dalaran Mage*Kobold Geomancer*Bluegill Warrior*Darkscale Healer*Kill Command*Timber Wolf*Gurubashi Berserker*Arcane Shot*Murloc Raider*Magma Rager*Boulderfist Ogre*Houndmaster*
+GPUID:0-76 Game Deck:76: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:18& turns:13 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[Murloc Raider]*2**[Arcane Shot]*1**[Razorfen Hunter]*2**[Gnomish Inventor]*1**[Kill Command]*1**/n
