@@ -1,0 +1,3 @@
+Murloc Tidehunter*Oasis Snapjaw*Bluegill Warrior*Core Hound*Reckless Rocketeer*Animal Companion*River Crocolisk*Animal Companion*Stormpike Commando*Bloodfen Raptor*Acidic Swamp Ooze*Magma Rager*Arcane Shot*Dragonling Mechanic*Kobold Geomancer*Oasis Snapjaw*Stormpike Commando*Stormwind Champion*War Golem*Gnomish Inventor*Dragonling Mechanic*Multi-Shot*Stormwind Knight*Tracking*Murloc Raider*Arcane Shot*Sen'jin Shieldmasta*Raid Leader*Chillwind Yeti*Stormwind Knight*
+GPUID:0-5983 Game Deck:5983: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:18& turns:13 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[Arcane Shot]*1**[Animal Companion]*1**[Acidic Swamp Ooze]*1**[Stormpike Commando]*1**[Chillwind Yeti]*1**/n

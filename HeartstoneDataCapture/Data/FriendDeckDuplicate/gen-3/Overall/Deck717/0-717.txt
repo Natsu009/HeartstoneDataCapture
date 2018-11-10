@@ -1,0 +1,3 @@
+Razorfen Hunter*Novice Engineer*Arcane Shot*Goldshire Footman*Razorfen Hunter*Frostwolf Grunt*Nightblade*Novice Engineer*Wolfrider*Bloodfen Raptor*Houndmaster*Booty Bay Bodyguard*Dalaran Mage*Sen'jin Shieldmasta*Dalaran Mage*Tracking*Stormwind Champion*Ironforge Rifleman*Dragonling Mechanic*Booty Bay Bodyguard*Stormwind Knight*Gurubashi Berserker*Frostwolf Grunt*Goldshire Footman*Acidic Swamp Ooze*Chillwind Yeti*Kill Command*Core Hound*Murloc Tidehunter*Animal Companion*
+GPUID:0-717 Game Deck:717: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:8& turns:17 and average time of game (hh:mm:ss) = 00:00:05Time taken:00:00:05
+[Murloc Tidehunter]*1**[Razorfen Hunter]*1**[Houndmaster]*1**[Core Hound]*1**/n

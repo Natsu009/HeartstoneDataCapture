@@ -1,0 +1,3 @@
+Ogre Magi*Hunter's Mark*Dragonling Mechanic*Shattered Sun Cleric*Stormwind Champion*Gurubashi Berserker*Booty Bay Bodyguard*Wolfrider*Kill Command*Razorfen Hunter*Sen'jin Shieldmasta*Bloodfen Raptor*Silverback Patriarch*Bloodfen Raptor*Frostwolf Grunt*Kobold Geomancer*Animal Companion*Archmage*Elven Archer*Reckless Rocketeer*Gurubashi Berserker*Stormwind Champion*Grimscale Oracle*Acidic Swamp Ooze*Darkscale Healer*Arcane Shot*Timber Wolf*Darkscale Healer*Starving Buzzard*Murloc Raider*
+GPUID:0-9962 Game Deck:9962: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-20& turns:11 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[The Coin]*1**[Kill Command]*1**/n

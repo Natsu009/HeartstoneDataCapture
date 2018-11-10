@@ -1,0 +1,3 @@
+Tracking*Core Hound*Ironforge Rifleman*Nightblade*Houndmaster*Houndmaster*Stormwind Champion*Tundra Rhino*Lord of the Arena*Chillwind Yeti*Ogre Magi*Frostwolf Warlord*Voodoo Doctor*Elven Archer*Raid Leader*Arcane Shot*Goldshire Footman*Bloodfen Raptor*Boulderfist Ogre*Animal Companion*Kobold Geomancer*Booty Bay Bodyguard*Ironforge Rifleman*Raid Leader*Kobold Geomancer*Multi-Shot*Magma Rager*Novice Engineer*Lord of the Arena*Elven Archer*
+GPUID:0-659 Game Deck:659: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:18& turns:14 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[The Coin]*1**[Voodoo Doctor]*1**[Ogre Magi]*1**[Frostwolf Warlord]*1**[Goldshire Footman]*1**[Raid Leader]*1**[Chillwind Yeti]*1**/n

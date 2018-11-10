@@ -1,0 +1,3 @@
+Goldshire Footman*Bluegill Warrior*Wolfrider*Multi-Shot*Kill Command*Kobold Geomancer*Arcane Shot*Magma Rager*Gnomish Inventor*Nightblade*Timber Wolf*Elven Archer*Multi-Shot*Stormwind Champion*Stormwind Knight*Timber Wolf*Kill Command*Novice Engineer*Tundra Rhino*Murloc Tidehunter*Ogre Magi*Tundra Rhino*Gurubashi Berserker*Hunter's Mark*Ironfur Grizzly*Core Hound*Houndmaster*Dragonling Mechanic*Goldshire Footman*Bloodfen Raptor*
+GPUID:0-954 Game Deck:954: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-17& turns:14 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[Bluegill Warrior]*1**[Arcane Shot]*1**[Gnomish Inventor]*1**[Dragonling Mechanic]*1**[Bloodfen Raptor]*1**/n

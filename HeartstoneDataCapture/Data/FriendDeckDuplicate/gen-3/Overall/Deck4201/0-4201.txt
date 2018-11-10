@@ -1,0 +1,3 @@
+Archmage*Gnomish Inventor*Magma Rager*Booty Bay Bodyguard*Gnomish Inventor*Shattered Sun Cleric*Animal Companion*Ogre Magi*Lord of the Arena*Sen'jin Shieldmasta*Animal Companion*Sen'jin Shieldmasta*Lord of the Arena*Kobold Geomancer*Chillwind Yeti*Archmage*Dragonling Mechanic*Gurubashi Berserker*Arcane Shot*Arcane Shot*River Crocolisk*Tundra Rhino*Starving Buzzard*Ironfur Grizzly*Tracking*Tundra Rhino*Wolfrider*Ironfur Grizzly*Core Hound*Wolfrider*
+GPUID:0-4201 Game Deck:4201: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:18& turns:13 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[Wolfrider]*1**[Kobold Geomancer]*1**[Shattered Sun Cleric]*1**[Gnomish Inventor]*1**/n

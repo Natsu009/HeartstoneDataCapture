@@ -1,0 +1,3 @@
+Grimscale Oracle*Tracking*Stonetusk Boar*Animal Companion*Archmage*Core Hound*Reckless Rocketeer*Goldshire Footman*Dragonling Mechanic*Gurubashi Berserker*Booty Bay Bodyguard*Timber Wolf*Multi-Shot*Shattered Sun Cleric*Bloodfen Raptor*Voodoo Doctor*Bluegill Warrior*Bloodfen Raptor*Chillwind Yeti*War Golem*Multi-Shot*Elven Archer*Ironfur Grizzly*Acidic Swamp Ooze*Oasis Snapjaw*Tracking*Elven Archer*Murloc Raider*Stormpike Commando*River Crocolisk*
+GPUID:0-8623 Game Deck:8623: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-20& turns:14 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[Bloodfen Raptor]*1**[Shattered Sun Cleric]*1**[Stormpike Commando]*1**[Tracking]*1**/n

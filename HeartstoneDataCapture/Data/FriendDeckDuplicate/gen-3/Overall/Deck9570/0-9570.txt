@@ -1,0 +1,3 @@
+Reckless Rocketeer*Animal Companion*Goldshire Footman*Ogre Magi*Murloc Raider*Archmage*Novice Engineer*Stormwind Champion*Ironfur Grizzly*Silverback Patriarch*Dragonling Mechanic*Kobold Geomancer*Bluegill Warrior*Gnomish Inventor*Razorfen Hunter*Hunter's Mark*Bluegill Warrior*Bloodfen Raptor*Reckless Rocketeer*Novice Engineer*Voodoo Doctor*Goldshire Footman*Shattered Sun Cleric*Kill Command*Nightblade*Houndmaster*Multi-Shot*Frostwolf Warlord*Tracking*Silverback Patriarch*
+GPUID:0-9570 Game Deck:9570: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:15& turns:14 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[The Coin]*1**[Bluegill Warrior]*1**[Silverback Patriarch]*2**[Ogre Magi]*1**[Nightblade]*1**/n

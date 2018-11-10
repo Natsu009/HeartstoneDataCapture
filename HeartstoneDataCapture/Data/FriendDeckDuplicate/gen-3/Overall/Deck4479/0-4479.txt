@@ -1,0 +1,3 @@
+Bluegill Warrior*Grimscale Oracle*Chillwind Yeti*Razorfen Hunter*Timber Wolf*Frostwolf Warlord*Tracking*Tracking*Frostwolf Warlord*Grimscale Oracle*Ironfur Grizzly*Tundra Rhino*Magma Rager*Murloc Tidehunter*Bloodfen Raptor*Shattered Sun Cleric*Starving Buzzard*Stonetusk Boar*Razorfen Hunter*Raid Leader*Reckless Rocketeer*Bluegill Warrior*Gnomish Inventor*Stormwind Champion*Dalaran Mage*Silverback Patriarch*Houndmaster*Tundra Rhino*Silverback Patriarch*Voodoo Doctor*
+GPUID:0-4479 Game Deck:4479: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:22& turns:11 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[Grimscale Oracle]*1**[Voodoo Doctor]*1**[Magma Rager]*1**[Chillwind Yeti]*1**[Shattered Sun Cleric]*1**/n

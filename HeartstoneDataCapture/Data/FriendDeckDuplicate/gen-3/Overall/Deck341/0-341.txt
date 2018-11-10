@@ -1,0 +1,3 @@
+Murloc Raider*Bluegill Warrior*Stormwind Champion*Novice Engineer*Silverback Patriarch*Animal Companion*Stormwind Champion*Darkscale Healer*Raid Leader*Darkscale Healer*Nightblade*River Crocolisk*Gnomish Inventor*Grimscale Oracle*Voodoo Doctor*Wolfrider*Tundra Rhino*Ogre Magi*War Golem*Timber Wolf*Frostwolf Warlord*Grimscale Oracle*War Golem*Archmage*Novice Engineer*Animal Companion*Arcane Shot*Ogre Magi*Chillwind Yeti*Gurubashi Berserker*
+GPUID:0-341 Game Deck:341: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-18& turns:15 and average time of game (hh:mm:ss) = 00:00:04Time taken:00:00:04
+[Arcane Shot]*1**[The Coin]*1**[Timber Wolf]*1**[Grimscale Oracle]*1**[Bluegill Warrior]*1**[Darkscale Healer]*2**/n

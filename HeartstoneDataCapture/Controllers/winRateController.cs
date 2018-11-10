@@ -19,120 +19,44 @@ namespace HeartstoneDataCapture.Controllers
         /// This method will scrape the value from text files
         /// The values of Friendly Decks will be stored
         /// </summary>
-        public List<List<List<int>>> scrapeFriendFromText(int deckPerGen, int genFolderDups , int genFolderCount)
+        public List<List<List<int>>> scrapeFriendFromText(int genFolderCount , int iterable)
         {
             List<List<List<int>>> friendDecksFinal = new List<List<List<int>>>();
             Dictionary<string, cardDefs> cards = allCards.getAllCards();
 
             Console.WriteLine("*************** Get the friend decks from Gen Folders ******************\n\n");
-            for(int total = 0; total < genFolderCount; total++)
-            {
-                Console.WriteLine("Scraping friend decks info for gen Folder no: " + total);
-                for (int i = 0; i < genFolderDups; i++)
-                {
-                    if (i != 0) continue;
-                    List<List<int>> friendDecks = new List<List<int>>();
-                    for (int j = 0; j < deckPerGen; j++)
-                    {
-                        List<int> friendDeckTemp = new List<int>();
-                        string fileName = "";
-
-                        if (total == 0)
-                        {
-                            fileName = "C:/Development/HeartstoneDataCapture/HeartstoneDataCapture/Data/FriendDeckDuplicate/gen-" + i + "/Overall/Deck" + j + "/" + 0 + "-" + j + ".txt";
-                        }
-                        else
-                        {
-                            fileName = "C:/Development/HeartstoneDataCapture/HeartstoneDataCapture/Data/FriendDecksData/gen" + (total + 1) + "-"+i+"/Overall/Deck" + j + "/" + 0 + "-" + j + ".txt";
-                        }
-
-                        
-                        if (j % 100 == 0 && j < deckPerGen)
-                        {
-
-                            string lines = File.ReadAllText(fileName);
-                            string[] items = lines.Split('*');
-
-                            int count = 0;
-                            List<friendDeckModel> fModelWhole = new List<friendDeckModel>();
-
-                            foreach (string item in items)
-                            {
-
-                                friendDeckModel fModel = new friendDeckModel();
-                                if (count < 30)
-                                {
-                                    fModel.cardName = cards.GetValueOrDefault(item).dbfId;
-                                    fModel.cost = cards.GetValueOrDefault(item).cost;
-                                    fModelWhole.Add(fModel);
-                                }
-                                else
-                                {
-                                    break;
-                                }
-                                count++;
-                            }
-
-                            fModelWhole = fModelWhole.OrderBy(x => x.cost).ToList();
-
-                            foreach (friendDeckModel fMod in fModelWhole)
-                            {
-                                friendDeckTemp.Add(fMod.cardName);
-                            }
-                            friendDecks.Add(friendDeckTemp);
-
-                        }
-
-                    }
-                    friendDecksFinal.Add(friendDecks);
-
-                }
-            }
-            
-            return friendDecksFinal;
-        }
-
-
-        public List<List<int>> scrapeEnemyFromText(int genFolderDups, int genFolderCount)
-        {
-            Console.WriteLine("*************** Get the enemy decks from gen folders ******************\n\n");
-            List<List<int>> enemyDecks = new List<List<int>>();
-            Dictionary<string, cardDefs> cardsList = allCards.getAllCards();
-
             for (int i = 0; i < genFolderCount; i++)
             {
-                Console.WriteLine("Scraping enemy decks info for gen Folder no: " + i);
-                List<int> enemyDeckTemp = new List<int>();
-                for (int j = 0; j < genFolderDups; j++) {
+                Console.WriteLine("Scraping friend decks info for gen Folder no: " + i);
+                List<List<int>> friendDecks = new List<List<int>>();
+                for (int j = 0; j < iterable; j++)
+                {
+                    List<int> friendDeckTemp = new List<int>();
                     string fileName = "";
 
                     if (i == 0)
                     {
-                        fileName = "C:/Development/HeartstoneDataCapture/HeartstoneDataCapture/Data/FriendDeckDuplicate/gen-" + i + "/EnemyDeck.txt";
+                        fileName = "C:/Development/HeartstoneDataCapture/HeartstoneDataCapture/Data/FriendDeckDuplicate150/gen-" + i + "/Overall/Deck" + j + "/" + 0 + "-" + j + ".txt";
                     }
                     else
                     {
-                        fileName = "C:/Development/HeartstoneDataCapture/HeartstoneDataCapture/Data/FriendDeckDuplicate/gen" + (i + 1) + "-0/EnemyDeck.txt";
+                        fileName = "C:/Development/HeartstoneDataCapture/HeartstoneDataCapture/Data/FriendDeckDuplicate150/gen" + (i + 1) + "-0/Overall/Deck" + j + "/" + 0 + "-" + j + ".txt";
                     }
 
-                    if (j != 0) continue;
-
                     string lines = File.ReadAllText(fileName);
+                    string[] items = lines.Split('*');
 
-                    string[] content = lines.Split('\n');
-
-                    string[] cards = content[1].Split('*');
-
-                    List<friendDeckModel> fModelWhole = new List<friendDeckModel>();
                     int count = 0;
-                    foreach (string card in cards)
+                    List<friendDeckModel> fModelWhole = new List<friendDeckModel>();
+
+                    foreach (string item in items)
                     {
+
                         friendDeckModel fModel = new friendDeckModel();
                         if (count < 30)
                         {
-
-                            fModel.cardName = cardsList.GetValueOrDefault(card).dbfId;
-                            fModel.cost = cardsList.GetValueOrDefault(card).cost;
+                            fModel.cardName = cards.GetValueOrDefault(item).dbfId;
+                            fModel.cost = cards.GetValueOrDefault(item).cost;
                             fModelWhole.Add(fModel);
                         }
                         else
@@ -146,9 +70,70 @@ namespace HeartstoneDataCapture.Controllers
 
                     foreach (friendDeckModel fMod in fModelWhole)
                     {
-                        enemyDeckTemp.Add(fMod.cardName);
+                        friendDeckTemp.Add(fMod.cardName);
                     }
+                    friendDecks.Add(friendDeckTemp);
                 }
+                friendDecksFinal.Add(friendDecks);
+
+            }
+            return friendDecksFinal;
+        }
+
+
+        public List<List<int>> scrapeEnemyFromText(int genFolderCount , int iterable)
+        {
+            Console.WriteLine("*************** Get the enemy decks from gen folders ******************\n\n");
+            List<List<int>> enemyDecks = new List<List<int>>();
+            Dictionary<string, cardDefs> cardsList = allCards.getAllCards();
+
+            for (int i = 0; i < genFolderCount; i++)
+            {
+                Console.WriteLine("Scraping enemy decks info for gen Folder no: " + i);
+                List<int> enemyDeckTemp = new List<int>();
+                string fileName = "";
+
+                if (i == 0)
+                {
+                    fileName = "C:/Development/HeartstoneDataCapture/HeartstoneDataCapture/Data/FriendDeckDuplicate150/gen-" + i + "/EnemyDeck.txt";
+                }
+                else
+                {
+                    fileName = "C:/Development/HeartstoneDataCapture/HeartstoneDataCapture/Data/FriendDeckDuplicate150/gen" + (i + 1) + "-0/EnemyDeck.txt";
+                }
+
+                string lines = File.ReadAllText(fileName);
+
+                string[] content = lines.Split('\n');
+
+                string[] cards = content[1].Split('*');
+
+                List<friendDeckModel> fModelWhole = new List<friendDeckModel>();
+                int count = 0;
+                foreach (string card in cards)
+                {
+                    friendDeckModel fModel = new friendDeckModel();
+                    if (count < 30)
+                    {
+
+                        fModel.cardName = cardsList.GetValueOrDefault(card).dbfId;
+                        fModel.cost = cardsList.GetValueOrDefault(card).cost;
+                        fModelWhole.Add(fModel);
+                    }
+                    else
+                    {
+                        break;
+                    }
+                    count++;
+                }
+
+                fModelWhole = fModelWhole.OrderBy(x => x.cost).ToList();
+
+                foreach (friendDeckModel fMod in fModelWhole)
+                {
+                    enemyDeckTemp.Add(fMod.cardName);
+                }
+
                 enemyDecks.Add(enemyDeckTemp);
 
 
@@ -173,48 +158,55 @@ namespace HeartstoneDataCapture.Controllers
             List<double> finalWinRate = new List<double>();
             for(int i = 0; i < genFolderCount; i++)
             {
+                Console.WriteLine("For gen Folder: " + i);
                 List<List<int>> dupsWinRate = new List<List<int>>();
                 for (int j = 0; j < genFolderDups; j++)
                 {
                     List<int> tempdupsWinRate = new List<int>();
-                    int totalWinRate = 0; int deckIncrementCount = 0;
+                    int totalWinRate = 0; 
                     for (int k = 0; k < deckPerGen; k++)
                     {
                         
+
                         string fileName = "";
 
                         if (i == 0)
                         {
-                            fileName = "C:/Development/HeartstoneDataCapture/HeartstoneDataCapture/Data/FriendDeckDuplicate/gen-" + j + "/Overall/Deck" + k + "/" + 0 + "-" + k + ".txt";
+                            fileName = "C:/Development/HeartstoneDataCapture/HeartstoneDataCapture/Data/FriendDeckDuplicate150/gen-" + j + "/Overall/Deck" + k + "/" + 0 + "-" + k + ".txt";
                         }
                         else
                         {
-                            fileName = "C:/Development/HeartstoneDataCapture/HeartstoneDataCapture/Data/FriendDeckDuplicate/gen" + (i + 1) + "-"+j+"/Overall/Deck" + k + "/" + 0 + "-" + k + ".txt";
+                            fileName = "C:/Development/HeartstoneDataCapture/HeartstoneDataCapture/Data/FriendDeckDuplicate150/gen" + (i + 1) + "-"+j+"/Overall/Deck" + k + "/" + 0 + "-" + k + ".txt";
                         }
 
                         
 
                         string lines = File.ReadAllText(fileName);
-                        string[] items = lines.Split('/');
-                        
-                        // Get the result
-                        if (items[0].Contains("Player1: WON"))
-                        {
-                             totalWinRate++;
-                            deckIncrementCount++;
-                        }
-                        else
-                        {
-                            deckIncrementCount++;
-                        }
+                        string[] itemList = lines.Split("/n");
 
-                        // Reset the counter
-                        if (deckIncrementCount == 100)
-                        {
-                            tempdupsWinRate.Add(totalWinRate);
-                            totalWinRate = 0;
-                            deckIncrementCount = 0;
+                        int count = 0;
+                        foreach (string items in itemList) {
+                            // Get the result
+                            string [] item = items.Split("/");
+
+
+                            if (item[0].Contains("Player1: WON"))
+                            {
+                                totalWinRate++;
+                                // deckIncrementCount++;
+                                count++;
+                            }
+                            else
+                            {
+                                count++;
+                                continue;
+                            }
                         }
+                        Console.Write("Count is: " + count + "\n");
+                        tempdupsWinRate.Add(totalWinRate);
+                        totalWinRate = 0;
+
+                       
 
                     }
 
@@ -229,7 +221,8 @@ namespace HeartstoneDataCapture.Controllers
                     {
                         winRate += dupsWinRate[subStruc][mainStruc];
                     }
-                    finalWinRate.Add((winRate/gamePerDeck)*100 );
+                    double result =  ((double)winRate/ (double)gamePerDeck)*100;
+                    finalWinRate.Add(result );
                 }
             }
             return finalWinRate;

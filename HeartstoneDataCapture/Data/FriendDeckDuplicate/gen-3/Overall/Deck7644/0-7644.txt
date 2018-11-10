@@ -1,0 +1,3 @@
+Archmage*Multi-Shot*Reckless Rocketeer*Stormwind Knight*Goldshire Footman*Tracking*Gurubashi Berserker*Goldshire Footman*Gnomish Inventor*Kill Command*Bloodfen Raptor*Bluegill Warrior*Frostwolf Warlord*Murloc Raider*Chillwind Yeti*Dalaran Mage*Grimscale Oracle*Nightblade*Acidic Swamp Ooze*Dragonling Mechanic*Archmage*Elven Archer*Stormpike Commando*Dalaran Mage*Novice Engineer*Ogre Magi*Core Hound*Novice Engineer*Core Hound*Timber Wolf*
+GPUID:0-7644 Game Deck:7644: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:15& turns:12 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[Elven Archer]*1**[The Coin]*1**[Bluegill Warrior]*1**[Bloodfen Raptor]*1**[Nightblade]*1**[Ogre Magi]*1**/n

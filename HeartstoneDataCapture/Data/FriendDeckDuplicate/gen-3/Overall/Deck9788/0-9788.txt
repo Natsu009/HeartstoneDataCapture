@@ -1,0 +1,3 @@
+River Crocolisk*Nightblade*Chillwind Yeti*Goldshire Footman*Murloc Raider*Houndmaster*Reckless Rocketeer*Arcane Shot*Oasis Snapjaw*Stormwind Champion*Murloc Raider*Multi-Shot*Magma Rager*Dragonling Mechanic*Darkscale Healer*Razorfen Hunter*Stormwind Champion*Ironforge Rifleman*Novice Engineer*Tracking*Oasis Snapjaw*Shattered Sun Cleric*Ironfur Grizzly*War Golem*Goldshire Footman*Houndmaster*Ironfur Grizzly*Boulderfist Ogre*Kill Command*Gnomish Inventor*
+GPUID:0-9788 Game Deck:9788: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:14& turns:16 and average time of game (hh:mm:ss) = 00:00:03Time taken:00:00:03
+[The Coin]*1**[Arcane Shot]*1**[River Crocolisk]*1**[Darkscale Healer]*1**[Houndmaster]*2**[Goldshire Footman]*1**/n

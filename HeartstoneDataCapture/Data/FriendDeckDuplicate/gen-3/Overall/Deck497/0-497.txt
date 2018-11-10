@@ -1,0 +1,3 @@
+Houndmaster*Ironforge Rifleman*Bloodfen Raptor*Murloc Raider*Dalaran Mage*Tundra Rhino*Grimscale Oracle*Ironfur Grizzly*Arcane Shot*Bluegill Warrior*Bloodfen Raptor*Houndmaster*War Golem*Starving Buzzard*Murloc Raider*Chillwind Yeti*Kobold Geomancer*Reckless Rocketeer*Dragonling Mechanic*Stonetusk Boar*Chillwind Yeti*Boulderfist Ogre*War Golem*Multi-Shot*Elven Archer*Ironfur Grizzly*Razorfen Hunter*Goldshire Footman*Dragonling Mechanic*Wolfrider*
+GPUID:0-497 Game Deck:497: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-6& turns:17 and average time of game (hh:mm:ss) = 00:00:04Time taken:00:00:04
+[The Coin]*1**[Ironfur Grizzly]*1**[Houndmaster]*1**[Chillwind Yeti]*2**[Murloc Raider]*1**[Dragonling Mechanic]*1**/n

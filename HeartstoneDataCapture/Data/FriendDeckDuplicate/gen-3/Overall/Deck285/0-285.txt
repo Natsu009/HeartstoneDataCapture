@@ -1,0 +1,3 @@
+Stormwind Champion*Murloc Raider*Booty Bay Bodyguard*Magma Rager*Gurubashi Berserker*Sen'jin Shieldmasta*Kill Command*Frostwolf Warlord*Ironforge Rifleman*Razorfen Hunter*Houndmaster*Stonetusk Boar*Lord of the Arena*Tundra Rhino*Murloc Raider*Tracking*Animal Companion*Hunter's Mark*Voodoo Doctor*Frostwolf Grunt*Archmage*Archmage*Ogre Magi*Elven Archer*Bloodfen Raptor*Nightblade*Magma Rager*Kill Command*Animal Companion*Wolfrider*
+GPUID:0-285 Game Deck:285: start player=RehHausZuckFuchsPaladin, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-15& turns:15 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[The Coin]*1**[Voodoo Doctor]*1**[Hunter's Mark]*1**[Nightblade]*1**[Magma Rager]*1**/n

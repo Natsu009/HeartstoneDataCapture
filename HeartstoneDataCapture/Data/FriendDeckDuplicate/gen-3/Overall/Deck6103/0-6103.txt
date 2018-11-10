@@ -1,0 +1,3 @@
+Gurubashi Berserker*Acidic Swamp Ooze*Ironfur Grizzly*Kill Command*Chillwind Yeti*Magma Rager*Murloc Raider*Lord of the Arena*Elven Archer*War Golem*Voodoo Doctor*Bloodfen Raptor*Frostwolf Grunt*Archmage*Dragonling Mechanic*Acidic Swamp Ooze*Archmage*Stormwind Knight*Starving Buzzard*Gnomish Inventor*War Golem*Voodoo Doctor*Bloodfen Raptor*Razorfen Hunter*Ogre Magi*Chillwind Yeti*Core Hound*Murloc Raider*River Crocolisk*Dalaran Mage*
+GPUID:0-6103 Game Deck:6103: start player=FitzVonGeraldPaladin, Game: {game.State}, Player1: WON / Player2:LOSThealthdiff:18& turns:13 and average time of game (hh:mm:ss) = 00:00:02Time taken:00:00:02
+[Murloc Raider]*2**[Frostwolf Grunt]*1**[Chillwind Yeti]*1**[Archmage]*1**[Core Hound]*1**/n
