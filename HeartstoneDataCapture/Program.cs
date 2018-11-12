@@ -96,13 +96,18 @@ namespace HeartstoneDataCapture
             Console.WriteLine("                               WinRate  Controller                                 ");
             Console.WriteLine("***********************************************************************************\n\n");
 
-            List<List<List<int>>>  friendDeckDups = winc.scrapeFriendFromText(1 , 100);
-            List<List<int>>  enemyDeckDups = winc.scrapeEnemyFromText(1 , 100);
-            List<double> winRate = winc.getWinRate(100, 4, 1, 450);
-            Dictionary<List<int>, List<int>> dupTuple = winc.convertToTuple(friendDeckDups, enemyDeckDups , 1 , 100);
-            string dupStr = winc.convertToFinalStruct(dupTuple, winRate, 1, 100);
+            List<List<List<int>>>  friendDeckDups = winc.scrapeFriendFromText(10 , 100);
+            List<List<int>>  enemyDeckDups = winc.scrapeEnemyFromText(10 , 100);
+            List<double> winRate = winc.getWinRate(100, 4, 10, 600);
+            Dictionary<List<int>, List<int>> dupTuple = winc.convertToTuple(friendDeckDups, enemyDeckDups , 10 , 100);
+            string dupStr = winc.convertToFinalStruct(dupTuple, winRate, 10, 100);
             winc.convertToCsv(dupStr);
 
+
+            // Convert to One-Hot
+            Dictionary<string, string> CardPool = onc.GetCardPoolData();
+            string winRateJSON =  onc.convertJSONToOneHotWinRate(dupStr, CardPool);
+            onc.convertToCsvWinRate(winRateJSON);
 
         }
     }

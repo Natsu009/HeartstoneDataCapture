@@ -187,22 +187,23 @@ namespace HeartstoneDataCapture.Controllers
                         int count = 0;
                         foreach (string items in itemList) {
                             // Get the result
+                            if (count == 150) break;
+                            count++;
                             string [] item = items.Split("/");
-
 
                             if (item[0].Contains("Player1: WON"))
                             {
+
                                 totalWinRate++;
-                                // deckIncrementCount++;
-                                count++;
                             }
                             else
                             {
-                                count++;
                                 continue;
                             }
+
+                            
                         }
-                        Console.Write("Count is: " + count + "\n");
+                        //Console.Write("Count is: " + count + "\n");
                         tempdupsWinRate.Add(totalWinRate);
                         totalWinRate = 0;
 
@@ -222,6 +223,7 @@ namespace HeartstoneDataCapture.Controllers
                         winRate += dupsWinRate[subStruc][mainStruc];
                     }
                     double result =  ((double)winRate/ (double)gamePerDeck)*100;
+                    Console.WriteLine("For Folder i = " + i + "  and deck no: " + mainStruc + "   and total wins: "+ winRate+"    the final result is: " + result);
                     finalWinRate.Add(result );
                 }
             }

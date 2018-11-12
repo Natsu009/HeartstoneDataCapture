@@ -147,6 +147,115 @@ namespace HeartstoneDataCapture.Controllers
         }
 
 
+        /// <summary>
+        /// This method will conver the JSON data  to one hot representation
+        /// </summary>
+        /// <param name="json"></param>
+        /// <returns></returns>
+        public string convertJSONToOneHotWinRate(String json, Dictionary<string, string> CardPool)
+        {
+            Dictionary<int, cardDefs> cardsInfo = cPro.getAllCardsWithId();
+            Dictionary<string, cardDefs> cardsInfoStr = cPro.getAllCards();
+            List<dupStructure> data = JsonConvert.DeserializeObject<List<dupStructure>>(json);
+
+            /***/
+            List<int> CardPoolIdMain = new List<int>();
+            foreach (string keys in CardPool.Keys)
+            {
+                CardPoolIdMain.Add(cardsInfoStr.GetValueOrDefault(keys.Split('\r')[0]).dbfId);
+            }
+            /***/
+
+            List<dupStructure> finalOneHotStr = new List<dupStructure>();
+
+            foreach (dupStructure struc in data)
+            {
+                List<int> FriendDeck = new List<int>();
+                List<int> EnemyDeck = new List<int>();
+
+                Dictionary<int, int> cardCountFriend = new Dictionary<int, int>();
+                Dictionary<int, int> cardCountEnemy = new Dictionary<int, int>();
+                List<int> CardPoolId = new List<int>();
+
+                dupStructure cStructTemp = new dupStructure();
+
+                foreach (string keys in CardPool.Keys)
+                {
+                    CardPoolId.Add(cardsInfoStr.GetValueOrDefault(keys.Split('\r')[0]).dbfId);
+                }
+
+                foreach (int id in struc.FriendDeck)
+                {
+                    string cardName = cardsInfo.GetValueOrDefault(id).name;
+                    if (CardPool.ContainsKey(cardName))
+                    {
+                        if (cardCountFriend.ContainsKey(id))
+                        {
+                            cardCountFriend[id] = cardCountFriend[id] + 1;
+                        }
+                        else
+                        {
+                            cardCountFriend.Add(id, 1);
+                        }
+
+                    }
+                }
+
+                foreach (int id in struc.EnemyDeck)
+                {
+                    string cardName = cardsInfo.GetValueOrDefault(id).name;
+                    if (CardPool.ContainsKey(cardName))
+                    {
+                        if (cardCountEnemy.ContainsKey(id))
+                        {
+                            cardCountEnemy[id] = cardCountEnemy[id] + 1;
+                        }
+                        else
+                        {
+                            cardCountEnemy.Add(id, 1);
+                        }
+
+                    }
+                }
+
+                foreach (int id in CardPoolId)
+                {
+                    if (cardCountFriend.ContainsKey(id))
+                    {
+                        FriendDeck.Add(cardCountFriend[id]);
+                    }
+                    else
+                    {
+                        FriendDeck.Add(0);
+                    }
+
+
+                    if (cardCountEnemy.ContainsKey(id))
+                    {
+                        EnemyDeck.Add(cardCountEnemy[id]);
+                    }
+                    else
+                    {
+                        EnemyDeck.Add(0);
+                    }
+
+                }
+
+                cStructTemp.FriendDeck = FriendDeck;
+                cStructTemp.EnemyDeck = EnemyDeck;
+                cStructTemp.WinRate = struc.WinRate;
+
+                finalOneHotStr.Add(cStructTemp);
+            }
+
+
+            string result = JsonConvert.SerializeObject(finalOneHotStr);
+
+
+            return result;
+        }
+
+
         public void convertToCsv(string jsonContent)
         {
 
@@ -179,6 +288,44 @@ namespace HeartstoneDataCapture.Controllers
 
             /* Save the JSON string in a FinalDataJSONOneHot.json */
             string fileName = "C:/Development/HeartstoneDataCapture/HeartstoneDataCapture/Data/FinalData/FinalDaOneHot.csv";
+            System.IO.File.WriteAllText(fileName, csvString.ToString());
+
+        }
+
+
+
+        public void convertToCsvWinRate(string jsonContent)
+        {
+
+            DataTable dtOne = JsonConvert.DeserializeObject<DataTable>(jsonContent);
+            string delimiter = ",";
+
+            StringWriter csvString = new StringWriter();
+            using (var csv = new CsvWriter(csvString))
+            {
+                csv.Configuration.Delimiter = delimiter;
+
+                using (var dt = dtOne)
+                {
+                    foreach (DataColumn column in dt.Columns)
+                    {
+                        csv.WriteField(column.ColumnName);
+                    }
+                    csv.NextRecord();
+
+                    foreach (DataRow row in dt.Rows)
+                    {
+                        for (var i = 0; i < dt.Columns.Count; i++)
+                        {
+                            csv.WriteField(row[i]);
+                        }
+                        csv.NextRecord();
+                    }
+                }
+            }
+
+            /* Save the JSON string in a FinalDataJSONOneHot.json */
+            string fileName = "C:/Development/HeartstoneDataCapture/HeartstoneDataCapture/Data/FinalData/FinalDataWinRateOneHot.csv";
             System.IO.File.WriteAllText(fileName, csvString.ToString());
 
         }
